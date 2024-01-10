@@ -1,6 +1,6 @@
 #Información!
 
-![Información](https://drive.google.com/file/d/1dtXaY9N_3rBF5nJ7n4AdABtijQCCndlc/view?usp=drive_link)
+![Información](https://drive.google.com/file/d/1dtXaY9N_3rBF5nJ7n4AdABtijQCCndlc/view?usp=sharing)
 
 **Manosalva Peralta Yojan Alexander**
 

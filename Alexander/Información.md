@@ -1,4 +1,4 @@
-#Información!
+**Información!**
 
 ![Información](https://drive.google.com/file/d/1dtXaY9N_3rBF5nJ7n4AdABtijQCCndlc/view?usp=sharing)
 

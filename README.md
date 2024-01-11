@@ -1,8 +1,8 @@
-# Proyecto [Nombre del Proyecto]
+# Proyecto EcoInnovador
 
 ![Logo del Proyecto (si aplica)](enlace/a/logo.png)
 
-¡Bienvenido a [Nombre del Proyecto]!
+¡Bienvenido al Proyecto EcoInnovador!
 
 [Descripción breve del proyecto y su relación con la ODS (Objetivo de Desarrollo Sostenible)]
 
@@ -17,20 +17,24 @@
 
 ## Visión General
 
-[Descripción más detallada del proyecto, su propósito y cómo aborda un problema relacionado con la ODS.]
+[En un mundo amenazado por el cambio climático, nuestra visión es liderar iniciativas que impulsen la acción por el clima. Nos proponemos diseñar soluciones que fomenten la sostenibilidad, promoviendo la conciencia ambiental y generando cambios significativos en nuestras comunidades y más allá.]
 
 ## Objetivos
 
-- [Objetivo 1]
-- [Objetivo 2]
-- ...
+- [Diseñar Productos Sostenibles: Crear productos innovadores que sean ecológicos y promuevan un estilo de vida más sostenible.]
+- [Reciclaje Inteligente: Implementar soluciones tecnológicas para facilitar y mejorar el proceso de reciclaje, incentivando la participación activa.]
+- [Reciclaje Inteligente: Implementar soluciones tecnológicas para facilitar y mejorar el proceso de reciclaje, incentivando la participación activa.]
+
+[Únete a nosotros en nuestro esfuerzo por impulsar un cambio positivo hacia la sostenibilidad y la acción climática. Juntos, podemos diseñar un futuro más verde y saludable para nuestro planeta.]
 
 ## Integrantes del Equipo
 
-- [Nombre del Integrante 1]
-- [Nombre del Integrante 2]
-- [Nombre del Integrante 3]
-- [Nombre del Integrante 4]
+- [Antay Bellido Lizbeth Maribel] 
+- [Gavino Isidro Michael Richard] 
+- [Huamani Huallpa Yesenia Ibet] 
+- [Manosalva Peralta Yojan Alexander]
+
+[Si quieres saber más sobre nosotros preciona "AQUÍ"]
 
 ## Tecnologías Utilizadas
 

@@ -2,6 +2,7 @@
 
 ![Imagén](https://i.pinimg.com/564x/c6/a0/a8/c6a0a8ca052a49976c0f81e50824cbd6.jpg)
 
+*Fotografía de un bosque en otoño, (s.f.). Fuente: [Pinterest] (https://i.pinimg.com/564x/c6/a0/a8/c6a0a8ca052a49976c0f81e50824cbd6.jpg)*
 ¡Bienvenido al Proyecto EcoInnovador!
 
 [Descripción breve del proyecto y su relación con la ODS (Objetivo de Desarrollo Sostenible)]

@@ -1,3 +1,3 @@
 Foto grupo
-Este grupo esta integrado de ingenieria ambiental y ingenieria informatica nosotros estamos interesados en la investigacion como tambien en aplicacion de nuevos metodos para el manejo de las emisiones 
+Este equipo esta conformado por estudiantes de la carrera de ingenieria ambiental e ingenieria informatica, con interés en la investigación y aplicación de nuevos métodos para el manejo de las emisiones globales.
 

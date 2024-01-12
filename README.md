@@ -15,7 +15,6 @@
 - [Integrantes del Equipo](#integrantes-del-equipo)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Visión General
 
@@ -48,10 +47,6 @@
 ## Contribuciones
 
 ¡Estamos abiertos a contribuciones! Si deseas contribuir, por favor sigue nuestra guía de contribución y realiza un pull request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia [Nombre de la Licencia]. Consulta el archivo LICENSE.md para obtener más detalles.
 
 ---
 [Incluir enlaces relevantes, capturas de pantalla, badges, u otros elementos según sea necesario]

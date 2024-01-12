@@ -31,10 +31,10 @@
 
 ## Integrantes del Equipo
 
-- [Antay Bellido Lizbeth Maribel] 
+- [Manosalva Peralta Yojan Alexander(Coordinador del grupo)]
+- [Antay Bellido Lizbeth Maribel(Sub Coordinadora)] 
 - [Gavino Isidro Michael Richard] 
 - [Huamani Huallpa Yesenia Ibet] 
-- [Manosalva Peralta Yojan Alexander]
 
 [Si quieres saber más sobre nosotros](./FDd/Sobre_nosotros)
 

@@ -35,7 +35,7 @@
 - [Huamani Huallpa Yesenia Ibet] 
 - [Manosalva Peralta Yojan Alexander]
 
-[Si quieres saber más sobre nosotros](./FDd/Sobre_nosotros)
+[Si quieres saber más sobre nosotros](FDd/Entregables/Sobre_nosotros.md)
 
 ## Tecnologías Utilizadas
 

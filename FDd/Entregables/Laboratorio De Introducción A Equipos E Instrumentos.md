@@ -7,13 +7,13 @@ En el desarrollo de este laboratorio, nuestro grupo, se propuso cumplir con los 
 Encendimos la fuente de alimentación y ajustamos el voltaje a 5V y la corriente a 1A. Utilizamos cables cocodrilo para conectar la fuente y poder realizar las mediciones con el multimetro.
 
 ![Imagen](https://p.globalsources.com/IMAGES/PDT/B1160281260/Fuente-de-alimentacion-LCD-DC.jpg)
-<sub>"Fuente"</sub>
+<sub>"Global Sources(https://spanish.globalsources.com/product/fuente-de-alimentacion-lcd-dc_1160281260f.htm)"</sub>
 
 ### 1.2. Mediciones con el Multímetro (UT139C):
 Configuramos el multímetro en modo voltaje, además cambiamos la corriente al modo continuo (DC) y habilitamos la salida de la fuente. Realizamos 10 mediciones de voltaje y anotamos los resultados.
 
 ![Imagen2](https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71FOsMCiCGS.jpg)
-<sub>"Fuente2"</sub>
+<sub>"Amazon(https://www.amazon.com/-/es/Mult%C3%ADmetro-autom%C3%A1tico-condensador-volt%C3%ADmetro-temperatura/dp/B0B7139N77)"</sub>
 
 **Resultados de la medición:**
 
@@ -42,11 +42,15 @@ Conectamos un cable BNC del generador al canal 1 del osciloscopio. Ajustamos la 
 Utilizamos los cursores del osciloscopio para calcular y mostrar en la pantalla las medidas de amplitud y periodo de la señal.
 
 **Resultados de prueba:**
-*Acá los valores finales.*
+*t=96.8us.*
+*t=V=80.0 mV.*
+
+![Imagen3](https://www.viditec.com/wp-content/uploads/2020/09/1599775814TBS1000C_Front-View_Handle-Up_No-Feet_072920.jpeg)
+<sub>"Vidimic(https://www.viditec.com/tektronix-tbs-1000c/)</sub>
 
 ## 3. Conclusiones y Entregables:
 Hemos logrado realizar mediciones precisas utilizando la fuente de alimentación, multímetro, generador de señales y osciloscopio. Se ha calculado el error absoluto y relativo, así como medidas importantes de la señal sinusoidal generada. Los datos obtenidos se presentarán en los entregables, incluyendo el promedio de errores y los valores ajustados de la gráfica.
 
 Este laboratorio ha fortalecido nuestro entendimiento sobre la manipulación de equipos electrónicos básicos y la importancia de seguir pautas de seguridad en el laboratorio.
 
-*Podemos agregar más cosas.*
+

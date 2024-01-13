@@ -1,1 +1,0 @@
-![imagen](Proyecto-De-Fundamentos\Proyecto-De-Fundamentos\FDd\FDd\Alexander_Manosalva.jpg)

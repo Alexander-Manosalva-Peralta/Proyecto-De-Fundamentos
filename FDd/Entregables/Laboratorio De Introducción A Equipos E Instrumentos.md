@@ -35,7 +35,6 @@ Configuramos el multímetro en modo voltaje, además cambiamos la corriente al m
 ### 2.1. Configuración del Generador de Señales (AFG1022):
 Encendimos el generador de señales y lo configuramos para producir una señal sinusoidal de 10 KHz, 2.5 V de amplitud y 0V de offset, el cual nos permitio enviar las señales hasta el Osciloscopio.
 
-![imagen]("C:\Users\MICHAEL\Downloads\oscilometro.jpg")
 
 ### 2.2. Conexión al Osciloscopio (TBS 1000C Series):
 Conectamos un cable BNC del generador al canal 1 del osciloscopio. Ajustamos la visualización de la señal utilizando los controles de posición y disparo (Horizontal y Vertical) los cuales nos permitieron ajustar la amplitud.

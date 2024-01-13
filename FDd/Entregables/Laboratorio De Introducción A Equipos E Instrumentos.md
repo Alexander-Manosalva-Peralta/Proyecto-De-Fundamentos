@@ -46,7 +46,7 @@ Utilizamos los cursores del osciloscopio para calcular y mostrar en la pantalla 
 *t=96.8us.*
 *t=V=80.0 mV.*
 
-<img src="../../Carpetas/Imagenes/296514970-d459d6d5-b869-4630-9291-1fb1f8dbb368.jpg" alt="Osciloscopio" width="500" height="300">
+![Texto Alternativo](../../Carpetas/Imagenes/296514970-d459d6d5-b869-4630-9291-1fb1f8dbb368.jpg)
 
 ## 3. Conclusiones y Entregables:
 Hemos logrado realizar mediciones precisas utilizando la fuente de alimentación, multímetro, generador de señales y osciloscopio. Se ha calculado el error absoluto y relativo, así como medidas importantes de la señal sinusoidal generada. Los datos obtenidos se presentarán en los entregables, incluyendo el promedio de errores y los valores ajustados de la gráfica.

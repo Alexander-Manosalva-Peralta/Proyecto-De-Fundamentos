@@ -46,8 +46,7 @@ Utilizamos los cursores del osciloscopio para calcular y mostrar en la pantalla 
 *t=96.8us.*
 *t=V=80.0 mV.*
 
-![Imagen3](https://www.viditec.com/wp-content/uploads/2020/09/1599775814TBS1000C_Front-View_Handle-Up_No-Feet_072920.jpeg)
-<sub>"Vidimic(https://www.viditec.com/tektronix-tbs-1000c/)</sub>
+<img src="Images//c/Users/User/Desktop/Prueba/Carpetas/Imagenes/Osciloscopio.jpg.jpg" alt="Osciloscopio" width="300" height="200">
 
 ## 3. Conclusiones y Entregables:
 Hemos logrado realizar mediciones precisas utilizando la fuente de alimentación, multímetro, generador de señales y osciloscopio. Se ha calculado el error absoluto y relativo, así como medidas importantes de la señal sinusoidal generada. Los datos obtenidos se presentarán en los entregables, incluyendo el promedio de errores y los valores ajustados de la gráfica.

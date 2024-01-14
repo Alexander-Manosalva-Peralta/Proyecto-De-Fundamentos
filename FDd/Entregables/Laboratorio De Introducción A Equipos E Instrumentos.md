@@ -46,7 +46,7 @@ Utilizamos los cursores del osciloscopio para calcular y mostrar en la pantalla 
 *t=96.8us.*
 *t=V=80.0 mV.*
 
-<img src="../../Carpetas/Imagenes/296514970-d459d6d5-b869-4630-9291-1fb1f8dbb368.jpg" alt="Texto Alternativo" width="500" height="300">
+<img src="../../Carpetas/Imagenes/Osciloscopio.jpg" alt="Texto Alternativo" width="500" height="300">
 
 
 ## 3. Conclusiones y Entregables:

@@ -12,8 +12,7 @@ Encendimos la fuente de alimentación y ajustamos el voltaje a 5V y la corriente
 ### 1.2. Mediciones con el Multímetro (UT139C):
 Configuramos el multímetro en modo voltaje, además cambiamos la corriente al modo continuo (DC) y habilitamos la salida de la fuente. Realizamos 10 mediciones de voltaje y anotamos los resultados.
 
-![Imagen2](https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71FOsMCiCGS.jpg)
-<sub>"Amazon(https://www.amazon.com/-/es/Mult%C3%ADmetro-autom%C3%A1tico-condensador-volt%C3%ADmetro-temperatura/dp/B0B7139N77)"</sub>
+<img src="../../Carpetas/Imagenes/Multimetro.jpg" alt="Texto Alternativo" width="500" height="300">
 
 **Resultados de la medición:**
 

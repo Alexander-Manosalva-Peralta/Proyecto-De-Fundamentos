@@ -6,7 +6,7 @@ La captación de agua de niebla en las Lomas de Villa María del Triunfo present
 
 En Villa Maria del triunfo como solución para combatir el déficit hídrico se implementó atrapanieblas con la finalidad de ayudar a la flora y fauna, pero la escasez de agua, el aumento demográfico y la falta de infraestructura para la correcta distribución de agua saneada generaron que los habitantes del lugar dieran uso a esta agua para la limpieza, como el lavado de ropa, ya que el agua para que llegue a lugares aledañas es transportada por camiones cisterna (Fernández Calvo, 2017).
 
-<img src="../../Carpetas/Imagenes/Propio.jpg" alt="EcoNacional" width="500" height="300">
+<img src="../../Carpetas/Imagenes/Propio.png" alt="Propio" width="500" height="300">
 
 **Fuente:** (Elaboración propia, 2024)
 

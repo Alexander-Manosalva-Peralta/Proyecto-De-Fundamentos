@@ -16,7 +16,7 @@ En Villa Maria del triunfo como solución para combatir el déficit hídrico se 
 
 ## DIAGRAMA DE ISHIKAWA:
 
-<img src="../../Carpetas/Imagenes/Ishakawa%20Diagrama.jpg" alt="Texto Alte>
+![Ishikawa Diagrama](../../Carpetas/Imagenes/Ishakawa%20Diagrama.jpg)
 
 ## JOURNEY MAP:
 

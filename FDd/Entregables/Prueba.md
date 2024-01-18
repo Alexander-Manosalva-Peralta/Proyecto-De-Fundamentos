@@ -1,6 +1,6 @@
 # Perfil de [Nombre Completo]
 
-![Foto de Perfil](URL_de_la_Foto)
+<img src=""../../Carpetas/Imagenes/Yojan Alexander Manosalva Peralta.png" alt="Foto de Perfil" style="border-radius: 50%; width: 150px; height: 150px;">
 
 ## Acerca de mí
 

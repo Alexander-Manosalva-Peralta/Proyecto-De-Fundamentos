@@ -26,7 +26,7 @@ El sistema, diseñado en Proteus y utilizando ThingSpeak para el monitoreo en ti
 
 En este presente artículo se habla sobre la diarrea como una de las  problemáticas  graves especialmente en los países de bajos ingresos económicos, donde pueden provocar enfermedades incluso la muerte, especialmente en los niños. Muchos agentes infecciosos que causan diarrea se transmiten a través del agua contaminada en zonas remotas y empobrecidas, donde se pueden tomar medidas para mejorar la calidad del agua. Estas incluyen el uso de agua subterráneas o agua de lluvia recolectada en lugar de fuentes superficiales. También se puede llevar a cabo medidas de mejora de la calidad de agua en el punto de uso, como hervirla, clorarla, filtrar o desinfectarla. Estos procedimientos se realizan principalmente en los hogares (Clasen et al., 2015).
 
-<img src="../../Carpetas/Imagenes/Prevenir.png" alt="Texto Alternativo" width=>
+<img src="../../Carpetas/Imagenes/Prevenir.png" alt="Texto Alternativo" width=="500" height="300">
 
 **Fuente:** Colocar su fuente
 

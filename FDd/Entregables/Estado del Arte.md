@@ -3,32 +3,16 @@
 ## 💡 Contexto Científico
 
 ### 📚 Artículos Originales (3)
-| #   | Título del Artículo                 | Enlace                                       |
-| --- | ----------------------------------- | -------------------------------------------- |
-| 1   | Diseño Innovador                    | [Detalles](#diseno-innovador)                |
-| 2   | Ensayos Clínicos                    | [Detalles](#ensayos-clinicos)                |
-| 3   | Revisiones Sistemáticas             | [Detalles](#revisiones-sistematicas)         |
-
-## 🌐 Contexto Comercial
-
-### 🚀 Equipos o Dispositivos en el Mercado (3)
-| #   | Producto                          | Enlace                                      |
-| --- | ----------------------------------| ------------------------------------------- |
-| 1   | Innovador Producto X              | [Detalles](#producto-x)                    |
-| 2   | Avanzado Producto Y               | [Detalles](#producto-y)                    |
-| 3   | Vanguardista Producto Z            | [Detalles](#producto-z)                    |
-
-### 🛡️ Patentes (3)
-| #   | Patente                          | Enlace                                  |
-| --- | ---------------------------------| --------------------------------------- |
-| 1   | Patente A                        | [Detalles](#patente-a)                  |
-| 2   | Patente B                        | [Detalles](#patente-b)                  |
-| 3   | Patente C                        | [Detalles](#patente-c)                  |
-
-# Descripciones Detalladas
+| #   | Título del Artículo                 | Enlace                                        | Fuente                                 |
+| --- | ----------------------------------- | --------------------------------------------- | ---------------------------------------|
+| 1   | Diseño Innovador                    | [Detalles](#diseno-innovador)                 | [Enlace al Artículo 1](URL_Articulo_1) |
+| 2   | Ensayos Clínicos                    | [Detalles](#ensayos-clinicos)                 | [Enlace al Artículo 1](URL_Articulo_1) |
+| 3   | Revisiones Sistemáticas             | [Detalles](#revisiones-sistematicas)          | [Enlace al Artículo 1](URL_Articulo_1) |
 
 ## Diseño Innovador <a name="diseno-innovador"></a>
-Descripción detallada del diseño innovador.
+##**Diseño y análisis de un sistema de filtración y monitoreo de la calidad del agua para diferentes tipos de agua en Malasia.**
+Este artículo describe un proyecto destinado a abordar la contaminación del agua en Malasia mediante el desarrollo de un sistema de monitoreo y filtración de la calidad del agua controlado por Arduino. Se enfoca en la detección temprana de agua contaminada, especialmente en ríos, debido a actividades industriales, de construcción, agrícolas y domésticas.
+El sistema, diseñado en Proteus y utilizando ThingSpeak para el monitoreo en tiempo real, mide parámetros como pH, temperatura, turbidez, conductividad eléctrica y potencial de oxidación-reducción. Si se detecta una calidad del agua insatisfactoria, la muestra se filtra a través del sistema de filtración
 
 ## Ensayos Clínicos <a name="ensayos-clinicos"></a>
 Detalles sobre los ensayos clínicos realizados.
@@ -36,21 +20,32 @@ Detalles sobre los ensayos clínicos realizados.
 ## Revisiones Sistemáticas <a name="revisiones-sistematicas"></a>
 Información adicional sobre las revisiones sistemáticas.
 
-## Producto X <a name="producto-x"></a>
-Detalles específicos sobre el Producto X.
+## 🌐 Contexto Comercial
 
-## Producto Y <a name="producto-y"></a>
-Características avanzadas del Producto Y.
+### 🚀 Equipos o Dispositivos en el Mercado (3)
+| #   | Producto                          | Enlace                                     |
+| --- | ----------------------------------| ------------------------------------------ |
+| 1   | Innovador Producto X              | [Enlace al Producto 1](URL_Producto_1)    |
+| 2   | Avanzado Producto Y               | [Enlace al Producto 2](URL_Producto_2)    |
+| 3   | Vanguardista Producto Z            | [Enlace al Producto 3](URL_Producto_3)    |
 
-## Producto Z <a name="producto-z"></a>
-Información vanguardista sobre el Producto Z.
+### 🛡️ Patentes (3)
+| #   | Patente                          | Enlace                                 |
+| --- | ---------------------------------| -------------------------------------- |
+| 1   | Patente A                        | [Enlace a la Patente 1](URL_Patente_1) |
+| 2   | Patente B                        | [Enlace a la Patente 2](URL_Patente_2) |
+| 3   | Patente C                        | [Enlace a la Patente 3](URL_Patente_3) |
 
-## Patente A <a name="patente-a"></a>
-Descripción detallada de la Patente A.
+# Lista de Requerimientos
 
-## Patente B <a name="patente-b"></a>
-Información específica sobre la Patente B.
+## ✔️ Funcionales
+|   | Requerimiento Innovador 1           | Descripción breve.                        |
+| - | ----------------------------------- | ----------------------------------------- |
+|   | Requerimiento Destacado 2           | Detalles adicionales.                     |
+|   | ...                                 | ...                                       |
 
-## Patente C <a name="patente-c"></a>
-Detalles de la Patente C.
-
+## ⚙️ No Funcionales
+|   | Requerimiento de Desempeño 1        | Especificaciones de rendimiento.          |
+| - | ----------------------------------- | ----------------------------------------- |
+|   | Requerimiento de Seguridad 2        | Consideraciones de seguridad.             |
+|   | ...                                 | ...                                       |

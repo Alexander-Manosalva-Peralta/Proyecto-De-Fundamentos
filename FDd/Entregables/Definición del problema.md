@@ -12,12 +12,12 @@ En Villa Maria del triunfo como solución para combatir el déficit hídrico se 
 
 ## MAPA DE EMPATÍA:
 
-<img src="../../Carpetas/Imagenes/Mapa de empatia .jpg" alt="Texto Alternativo" width="500">
+<img src="../../Carpetas/Imagenes/Empatia.jpg" alt="Texto Alternativo" width="500">
 
 ## DIAGRAMA DE ISHIKAWA:
 
-![Ishikawa Diagrama](../../Carpetas/Imagenes/Ishakawa%20Diagrama.jpg)
+<img src="../../Carpetas/Imagenes/Ishikawa.jpg" alt="Texto Alternativo" widt>
 
 ## JOURNEY MAP:
 
-<img src="../../Carpetas/Imagenes/Journey map.jpg" alt="Texto Alternativo" widt>
+<img src="../../Carpetas/Imagenes/Journey.jpg" alt="Texto Alternativo" widt>

@@ -10,7 +10,8 @@
 | 3   | Revisiones Sistemáticas             | [Detalles](#revisiones-sistematicas)          | [Enlace al Artículo 1](URL_Articulo_1) |
 
 ## Diseño Innovador <a name="diseno-innovador"></a>
-##Diseño y análisis de un sistema de filtración y monitoreo de la calidad del agua para diferentes tipos de agua en Malasia.
+
+##  Diseño y análisis de un sistema de filtración y monitoreo de la calidad del agua para diferentes tipos de agua en Malasia.
 
 Este artículo describe un proyecto destinado a abordar la contaminación del agua en Malasia mediante el desarrollo de un sistema de monitoreo y filtración de la calidad del agua controlado por Arduino. Se enfoca en la detección temprana de agua contaminada, especialmente en ríos, debido a actividades industriales, de construcción, agrícolas y domésticas.
 El sistema, diseñado en Proteus y utilizando ThingSpeak para el monitoreo en tiempo real, mide parámetros como pH, temperatura, turbidez, conductividad eléctrica y potencial de oxidación-reducción. Si se detecta una calidad del agua insatisfactoria, la muestra se filtra a través del sistema de filtración

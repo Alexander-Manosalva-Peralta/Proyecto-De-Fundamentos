@@ -60,9 +60,7 @@ Este artículo describe un dispositivo de interfaz de sensor reconfigurable para
 
 | Requerimientos Funcionales ✔️                 | Requerimientos No Funcionales ⚙️              |
 | ---------------------------------------------| ---------------------------------------------|
-| Sensores de turbidez:
-   El sistema debe ser capaz de clasificar los niveles de turbidez en categorías como alto, bajo y apto para el consumo humano.El sistema debe ser capaz de clasificar los niveles de turbidez en categorías como alto, bajo y apto para el consumo humano.| Fiabilidad:
-El sistema debe ser altamente confiable, asegurando mediciones precisas y acciones correctas en todo momento.|
+| *Sensores de turbidez:* El sistema debe ser capaz de clasificar los niveles de turbidez en categorías como alto, bajo y apto para el consumo humano.El sistema debe ser capaz de clasificar los niveles de turbidez en categorías como alto, bajo y apto para el consumo humano.| *Fiabilidad:* El sistema debe ser altamente confiable, asegurando mediciones precisas y acciones correctas en todo momento.|
 | Detalles sobre la Funcionalidad 2             | Características del Requerimiento 2           |
 | ...                                          | ...                                          |
 

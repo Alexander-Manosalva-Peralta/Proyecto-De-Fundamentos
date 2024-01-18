@@ -58,14 +58,11 @@ Este artículo describe un dispositivo de interfaz de sensor reconfigurable para
 
 # Lista de Requerimientos
 
-## ✔️ Funcionales
-|   | Requerimiento Innovador 1           | Descripción breve.                        |
-| - | ----------------------------------- | ----------------------------------------- |
-|   | Requerimiento Destacado 2           | Detalles adicionales.                     |
-|   | ...                                 | ...                                       |
+| Requerimientos Funcionales ✔️                 | Requerimientos No Funcionales ⚙️              |
+| ---------------------------------------------| ---------------------------------------------|
+| Sensores de turbidez:
+   El sistema debe ser capaz de clasificar los niveles de turbidez en categorías como alto, bajo y apto para el consumo humano.El sistema debe ser capaz de clasificar los niveles de turbidez en categorías como alto, bajo y apto para el consumo humano.| Fiabilidad:
+El sistema debe ser altamente confiable, asegurando mediciones precisas y acciones correctas en todo momento.|
+| Detalles sobre la Funcionalidad 2             | Características del Requerimiento 2           |
+| ...                                          | ...                                          |
 
-## ⚙️ No Funcionales
-|   | Requerimiento de Desempeño 1        | Especificaciones de rendimiento.          |
-| - | ----------------------------------- | ----------------------------------------- |
-|   | Requerimiento de Seguridad 2        | Consideraciones de seguridad.             |
-|   | ...                                 | ...                                       |

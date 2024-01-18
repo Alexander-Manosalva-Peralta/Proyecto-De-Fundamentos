@@ -10,12 +10,14 @@ La captación de agua de niebla en las Lomas de Villa María del Triunfo enfrent
 
 ## MAPA DE EMPATÍA:
 
-<img src="../../Carpetas/Imagenes/Empatia.jpg" alt="Texto Alternativo" width="500">
+<img src="../../Carpetas/Imagenes/Empatia.jpg" alt="Texto Alternativo" width="500" height="300">
 
 ## DIAGRAMA DE ISHIKAWA:
 
-<img src="../../Carpetas/Imagenes/Ishikawa.jpg" alt="Texto Alternativo" widt>
+<img src="../../Carpetas/Imagenes/Ishikawa.jpg" alt="Texto Alternativo" width="500" height="300">
+
 
 ## JOURNEY MAP:
 
-<img src="../../Carpetas/Imagenes/Journey.jpg" alt="Texto Alternativo" widt>
+<img src="../../Carpetas/Imagenes/Journey.jpg" alt="Texto Alternativo" width="500" height="300">
+

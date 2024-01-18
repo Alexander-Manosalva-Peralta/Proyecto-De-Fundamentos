@@ -60,7 +60,6 @@ Este artículo describe un dispositivo de interfaz de sensor reconfigurable para
 
 | Requerimientos Funcionales ✔️                 | Requerimientos No Funcionales ⚙️              |
 | ---------------------------------------------| ---------------------------------------------|
-| *Sensores de turbidez:* El sistema debe ser capaz de clasificar los niveles de turbidez en categorías como alto, bajo y apto para el consumo humano.El sistema debe ser capaz de clasificar los niveles de turbidez en categorías como alto, bajo y apto para el consumo humano.| *Fiabilidad:* El sistema debe ser altamente confiable, asegurando mediciones precisas y acciones correctas en todo momento.|
-| Detalles sobre la Funcionalidad 2             | Características del Requerimiento 2           |
-| ...                                          | ...                                          |
-
+| **Sensores de turbidez:** El sistema debe ser capaz de clasificar los niveles de turbidez en categorías como alto, bajo y apto para el consumo humano.El sistema debe ser capaz de clasificar los niveles de turbidez en categorías como alto, bajo y apto para el consumo humano.| **Fiabilidad:** El sistema debe ser altamente confiable, asegurando mediciones precisas y acciones correctas en todo momento.|
+| **Un mecanismo, controlado por Arduino, para dirigir el flujo de agua:** Para dirigir el flujo de agua hacia tanques específicos según el nivel de turbidez detectado. | **Escalabilidad:** La arquitectura del sistema debe ser escalable para permitir futuras expansiones o mejoras.  |
+| **Redirección Automática:** El sistema debe ser capaz de redirigir automáticamente el agua recolectada hacia un tanque adecuado para su uso (riego, consumo humano) según los resultados de la medición de turbidez.    | **Adaptabilidad:** El sistema debe ser capaz de adaptarse a cambios en las condiciones ambientales y de agua.  |

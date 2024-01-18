@@ -16,6 +16,8 @@
 Este artículo describe un proyecto destinado a abordar la contaminación del agua en Malasia mediante el desarrollo de un sistema de monitoreo y filtración de la calidad del agua controlado por Arduino. Se enfoca en la detección temprana de agua contaminada, especialmente en ríos, debido a actividades industriales, de construcción, agrícolas y domésticas.
 El sistema, diseñado en Proteus y utilizando ThingSpeak para el monitoreo en tiempo real, mide parámetros como pH, temperatura, turbidez, conductividad eléctrica y potencial de oxidación-reducción. Si se detecta una calidad del agua insatisfactoria, la muestra se filtra a través del sistema de filtración
 
+<img src="../../Carpetas/Imagenes/Articulo1.png" alt="Texto Alternativo" width="500" height="300">
+
 ## Ensayos Clínicos <a name="ensayos-clinicos"></a>
 Detalles sobre los ensayos clínicos realizados.
 

@@ -18,7 +18,7 @@ El sistema, diseñado en Proteus y utilizando ThingSpeak para el monitoreo en ti
 
 <img src="../../Carpetas/Imagenes/Articulo1.png" alt="Texto Alternativo" width="500" height="300">
 
-Fuente: Aun me falta la fuente
+**Fuente:** Razman, N. A., Wan Ismail, W. Z., Abd Razak, M. H., Ismail, I., & Jamaludin, J. (2023). Design and analysis of water quality monitoring and filtration system for different types of water in Malaysia. *International Journal of Environmental Science and Technology: IJEST*, 20(4), 3789-3800. [https://doi.org/10.1007/s13762-022-04192-x](https://doi.org/10.1007/s13762-022-04192-x)
 
 ## Ensayos Clínicos <a name="ensayos-clinicos"></a>
 Detalles sobre los ensayos clínicos realizados.

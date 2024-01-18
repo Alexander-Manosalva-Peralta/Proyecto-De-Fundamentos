@@ -18,6 +18,8 @@ El sistema, diseñado en Proteus y utilizando ThingSpeak para el monitoreo en ti
 
 <img src="../../Carpetas/Imagenes/Articulo1.png" alt="Texto Alternativo" width="500" height="300">
 
+[^Fuente]: Aun me falta la fuente
+
 ## Ensayos Clínicos <a name="ensayos-clinicos"></a>
 Detalles sobre los ensayos clínicos realizados.
 

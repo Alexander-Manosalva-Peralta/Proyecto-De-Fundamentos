@@ -31,7 +31,14 @@ En este presente artículo se habla sobre la diarrea como una de las  problemát
 **Fuente:** Colocar su fuente
 
 ## Revisiones Sistemáticas <a name="revisiones-sistematicas"></a>
-Información adicional sobre las revisiones sistemáticas.
+
+## Sistema de monitoreo de calidad del agua basado en IOT.
+
+Este artículo describe un dispositivo de interfaz de sensor reconfigurable para la monitorización de la calidad del agua con el entorno Iot para el desarrollo de un sistema inteligente de monitorización de la calidad del agua, de los cuales los parámetros que más me interesaron fueron el sensor de turbidez, que tiene la finalidad de detectar la calidad del agua midiendo el nivel de turbidez, así como la detección de partículas  en suspensión mediante la medición de la transmitancia de luz y los modos de salida de señal analógica y digital y también otro de los parámetro interesantes es el sensor de PH, que tiene la función de detectar el valor del PH de agua. Estas variables propuestas pueden ayudar a proteger el entorno ecológico de los recursos hídricos así como minimizar el tiempo y los costos en la detección de la calidad del agua de un embalse como parte de la gestión medioambiental. (Konde & Deosarkar, 2020).
+
+<img src="../../Carpetas/Imagenes/Basado.png" alt="Texto Alternativo" width="500" height="300">
+
+**Fuente:** Colocar su fuente
 
 ## 🌐 Contexto Comercial
 

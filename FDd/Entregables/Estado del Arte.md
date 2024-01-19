@@ -67,7 +67,13 @@ Es un colector de niebla que recoge la bruma del aire cuando sopla en las redes 
 <p align="center">
   <img width="400" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/9b4d5a89-50ad-4b56-b42d-b06fe9fa5922" alt="Descripción de la imagen">
 </p>
+<<<<<<< HEAD
 **Descripción de componentes:**
+=======
+
+**Descripción de componentes:**
+
+>>>>>>> 83ead9ed9346662c76aa245d2fe5204c47d378cb
 - Marco de metal con expansores de goma
 - Malla de captación de poliéster flexible 
 - 4 marcos de malla de 13,5m2
@@ -82,6 +88,27 @@ Las posibles áreas de aplicación del Cloud Fisher son regiones montañosas y c
 
 **¿Qué tan productivos son los captadores de niebla Cloud Fisher?**
 Dependiendo de la región y la estación, el rendimiento diario de agua oscila entre 6 y 22 litros por metro cuadrado neto.
+
+## PATENTE N°2:
+
+**US20190003976A1**
+
+**Inventores:** James E. Clark
+
+**Fecha de publicación:** 2019-01-03
+
+**País de publicación:** Estados Unidos
+
+**Resumen:**
+un dispositivo inteligente configurado para mostrar los resultados de las pruebas de multiparámetros del agua al usuario, los resultados de las pruebas calculados por una aplicación de análisis utilizando los datos del detector, la aplicación analiza los parámetros diferentes, los análisis son actualizados a través de un recurso de datos basado en la nube lo cual mejora la visualización de los resultados de las pruebas (Clark, 2019).
+
+**Descripción de componentes:**
+- Dispositivo sensor de parámetros del agua
+- Un procesador en comunicación
+- Un sistema de comunicación inalámbrica 
+- Un dispositivo de teléfono inteligente
+- Un sistema de análisis de agua multiparamétrico
+
 
 ## PATENTE N°3: 
 

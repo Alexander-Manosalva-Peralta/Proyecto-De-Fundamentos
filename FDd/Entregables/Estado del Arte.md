@@ -28,7 +28,13 @@ En este presente artículo se habla sobre la diarrea como una de las  problemát
 
 <img src="../../Carpetas/Imagenes/Prevenir.png" alt="Texto Alternativo" width="500" height="300">
 
-**Fuente:** Colocar su fuente
+**Fuente:** Fernandez Alvarez, V., Granada Salazar, D., Figueroa, C., Corrales, J. C., & Casanova, J. F. (2023). Estimation of Water Turbidity in Drinking Water Treatment Plants Using Machine Learning Based on Water and Meteorological Data. Environmental Sciences Proceedings, 25(1), Article 1. https://doi.org/10.3390/ECWS-7-14326
+
+## Estimación de la turbidez del agua en el tratamiento de agua potable Plantas que utilizan aprendizaje automático basado en agua y Datos Meteorológicos.
+
+Ese proyecto instaló sensores para evaluar la turbidez en algunas plantas de zonas rurales del departamento de cauca, además determinaron algoritmos que fueran capaz de estimar aceptablemente la turbidez del agua y que a la vez les sirviera de apoyo a los operadores en la toma de decisiones para la aplicación de un tratamiento adecuado al agua potable, pero estos sensores fueron retirados al finalizar el proyecto por lo que fue necesario crear nuevos modelos de aprendizaje automático para predecir los valores de turbidez sin sensores considerando únicamente los datos de pH, temperatura, presión de vapor y precipitación capturado manualmente por los operadores de las plantas, del  cual el punto más interesante fue el análisis exploratorio de datos, donde se aplicó la siguiente ecuación para calcular la transformación logarítmica de la variable de turbidez del agua. log turbidez = log (turbidez + 1). (Fernandez Alvarez et al., 2023).
+
+**Fuente:** Fernandez Alvarez, V., Granada Salazar, D., Figueroa, C., Corrales, J. C., & Casanova, J. F. (2023). Estimation of Water Turbidity in Drinking Water Treatment Plants Using Machine Learning Based on Water and Meteorological Data. Environmental Sciences Proceedings, 25(1), Article 1. https://doi.org/10.3390/ECWS-7-14326.
 
 ## Revisiones Sistemáticas <a name="revisiones-sistematicas"></a>
 
@@ -39,6 +45,7 @@ Este artículo describe un dispositivo de interfaz de sensor reconfigurable para
 <img src="../../Carpetas/Imagenes/Basado.png" alt="Texto Alternativo" width="500" height="300">
 
 **Fuente:** Colocar su fuente
+
 
 ## 🌐 Contexto Comercial
 

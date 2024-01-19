@@ -55,7 +55,9 @@ Este artículo describe un dispositivo de interfaz de sensor reconfigurable para
 | 2   | Patente 2                        | [Enlace a la Patente 2](https://patents.google.com/patent/US20190003976A1/en?q=%28IoT+water+quality+analysis+system+patent%29&oq=IoT+water+quality+analysis+system+patent) |
 | 3   | Patente 3                        | [Enlace a la Patente 3](https://patents.google.com/patent/ES2946044A1/es) |
 
-# Patente N°1: WO2016062877A1 - Aqualonis CloudFisher
+# Patente N°1:
+
+WO2016062877A1 - Aqualonis CloudFisher
 
 **Inventor:** Pedro Trautwein  
 **Fecha de publicación:** 28/04/2016  
@@ -67,13 +69,9 @@ Es un colector de niebla que recoge la bruma del aire cuando sopla en las redes 
 <p align="center">
   <img width="400" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/9b4d5a89-50ad-4b56-b42d-b06fe9fa5922" alt="Descripción de la imagen">
 </p>
-<<<<<<< HEAD
-**Descripción de componentes:**
-=======
 
 **Descripción de componentes:**
 
->>>>>>> 83ead9ed9346662c76aa245d2fe5204c47d378cb
 - Marco de metal con expansores de goma
 - Malla de captación de poliéster flexible 
 - 4 marcos de malla de 13,5m2
@@ -108,7 +106,9 @@ un dispositivo inteligente configurado para mostrar los resultados de las prueba
 - Un sistema de comunicación inalámbrica 
 - Un dispositivo de teléfono inteligente
 - Un sistema de análisis de agua multiparamétrico
-
+<p align="center">
+  <img width="400" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/75dd742a-3711-474e-96de-47f5b072a51a" alt="Descripción de la imagen">
+</p>
 
 ## PATENTE N°3: 
 

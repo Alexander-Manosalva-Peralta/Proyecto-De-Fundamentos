@@ -64,13 +64,20 @@ Este artículo describe un dispositivo de interfaz de sensor reconfigurable para
 | 2   | Patente B                        | [Enlace a la Patente 2](URL_Patente_2) |
 | 3   | Patente C                        | [Enlace a la Patente 3](https://patents.google.com/patent/ES2946044A1/es) |
 
-PATENTE N°1:
+## PATENTE N°1:
+
 WO2016062877A1 - Aqualonis CloudFisher 
-Inventor: Pedro Trautwein
-Fecha de publicación: 28/04/2016
-País de publicación: Alemania
-Resumen:
+
+**Inventor**: Pedro Trautwein
+
+**Fecha de publicación**: 28/04/2016
+
+**País de publicación**: Alemania
+
+**Resumen**:
 Es un colector de niebla que recoge la bruma del aire cuando sopla en las redes de malla 3D del Cloud Fisher y recoge el agua condensada en un recipiente para su uso en ubicaciones costeras adecuadas. Este producto fue desarrollado originalmente por Wasser Stiftung y comercializado por Aqualonis, además este producto está disponible en tres tamaños diferentes para satisfacer diferentes necesidades de recolección de agua, así como un modelo de prueba. (Aqualonis CloudFisher, s. f.)
+
+![71da93e7-c137-437d-8bfb-726d2204f155](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/9b4d5a89-50ad-4b56-b42d-b06fe9fa5922)
 
 
 

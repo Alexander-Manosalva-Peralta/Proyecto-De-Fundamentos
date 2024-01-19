@@ -52,39 +52,35 @@ Este artículo describe un dispositivo de interfaz de sensor reconfigurable para
 | #   | Patente                          | Enlace                                 |
 | --- | ---------------------------------| -------------------------------------- |
 | 1   | Patente 1                        | [Enlace a la Patente 1](https://www.engineeringforchange.org/solutions/product/aqualonis-cloudfisher/) |
-| 2   | Patente 2                        | [Enlace a la Patente 2](URL_Patente_2) |
+| 2   | Patente 2                        | [Enlace a la Patente 2](https://patents.google.com/patent/US20190003976A1/en?q=(IoT+water+quality+analysis+system+patent) |
 | 3   | Patente 3                        | [Enlace a la Patente 3](https://patents.google.com/patent/ES2946044A1/es) |
 
-## PATENTE N°1:
+# Patente N°1: WO2016062877A1 - Aqualonis CloudFisher
 
-WO2016062877A1 - Aqualonis CloudFisher 
+**Inventor:** Pedro Trautwein  
+**Fecha de publicación:** 28/04/2016  
+**País de publicación:** Alemania
 
-**Inventor**: Pedro Trautwein
-
-**Fecha de publicación**: 28/04/2016
-
-**País de publicación**: Alemania
-
-**Resumen**:
+**Resumen:**
 Es un colector de niebla que recoge la bruma del aire cuando sopla en las redes de malla 3D del Cloud Fisher y recoge el agua condensada en un recipiente para su uso en ubicaciones costeras adecuadas. Este producto fue desarrollado originalmente por Wasser Stiftung y comercializado por Aqualonis, además este producto está disponible en tres tamaños diferentes para satisfacer diferentes necesidades de recolección de agua, así como un modelo de prueba. (Aqualonis CloudFisher, s. f.)
+
 <p align="center">
   <img width="400" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/9b4d5a89-50ad-4b56-b42d-b06fe9fa5922" alt="Descripción de la imagen">
 </p>
-### Descripción de componentes:
+**Descripción de componentes:**
 - Marco de metal con expansores de goma
 - Malla de captación de poliéster flexible 
-4 marcos de malla de 13,5m2
+- 4 marcos de malla de 13,5m2
 - Hormigón
 - Redes de telas tejidas mono-fibras en 3D
 - Anclaje y cuerda
-  
+
 Es el primer colector de niebla que puede soportar altas velocidades de viento de hasta 120 km/h. Es rápido y fácil de instalar, no requiere energía y requiere muy poco mantenimiento. Todos los materiales utilizados son aptos para alimentos. Gracias a su rendimiento, Cloud Fisher garantiza a innumerables personas agua potable de alta calidad que cumple con los estándares de la OMS a bajo costo.
 
-- ¿Dónde se pueden instalar los “atrapanieblas”?
-  
+**¿Dónde se pueden instalar los “atrapanieblas”?**
 Las posibles áreas de aplicación del Cloud Fisher son regiones montañosas y costeras secas con mucha niebla y viento, como Etiopía, Australia, Chile, Eritrea, Irán, Colombia, Marruecos, Namibia, Nepal, América del Norte, Omán, Perú, España. Sudáfrica, Tanzania o Yemen.
 
-- ¿Qué tan productivos son los captadores de niebla Cloud Fisher?
+**¿Qué tan productivos son los captadores de niebla Cloud Fisher?**
 Dependiendo de la región y la estación, el rendimiento diario de agua oscila entre 6 y 22 litros por metro cuadrado neto.
 
 ## PATENTE N°3: 

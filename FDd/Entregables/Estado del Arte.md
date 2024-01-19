@@ -115,8 +115,12 @@ El dispositivo es un toma de muestra de aguas residuales que se extrae y filtra 
 - Un equipo de filtrado que está asociado al depósito y que también está conectado con el colector.
 - Un equipo de toma de muestras, asociado a la cámara secundaria del depósito.
 - Un equipo de limpieza, formado, principalmente, por al menos una bomba de limpieza.
+  
 ![a5482e9e-ff6a-4690-88fb-1f34ae785f32](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/70a2540a-c5ed-40be-a8bb-e705c550be26)
 
+<p align="center">
+  <img width="100" height="100" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/70a2540a-c5ed-40be-a8bb-e705c550be26" alt="Descripción de la imagen">
+</p>
 
 
 

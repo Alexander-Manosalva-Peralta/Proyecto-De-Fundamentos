@@ -69,9 +69,6 @@ Es un colector de niebla que recoge la bruma del aire cuando sopla en las redes 
 <p align="center">
   <img width="400" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/9b4d5a89-50ad-4b56-b42d-b06fe9fa5922" alt="Descripción de la imagen">
 </p>
-<<<<<<< HEAD
-**Descripción de componentes:**
-=======
 
 **Descripción de componentes:**
 

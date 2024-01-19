@@ -6,7 +6,7 @@
 | #   | Título del Artículo                 | Detalles                                      | Enlace                                 |
 | --- | ----------------------------------- | --------------------------------------------- | ---------------------------------------|
 | 1   | Diseño Innovador                    | [Aquí](#diseno-innovador)                     | [Enlace al Artículo 1](https://pubmed.ncbi.nlm.nih.gov/35729914/) |
-| 2   | Ensayos Clínicos                    | [Aquí](#ensayos-clinicos)                     | [Enlace al Artículo 1](URL_Articulo_1) |
+| 2   | Ensayos Clínicos                    | [Aquí](#ensayos-clinicos)                     | [Enlace al Artículo 1 y 2](URL_Articulo_1) |
 | 3   | Revisiones Sistemáticas             | [Aquí](#revisiones-sistematicas)              | [Enlace al Artículo 1](URL_Articulo_1) |
 
 ## Diseño Innovador <a name="diseno-innovador"></a>

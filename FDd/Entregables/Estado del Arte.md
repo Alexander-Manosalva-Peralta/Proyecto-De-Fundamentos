@@ -78,7 +78,20 @@ WO2016062877A1 - Aqualonis CloudFisher
 Es un colector de niebla que recoge la bruma del aire cuando sopla en las redes de malla 3D del Cloud Fisher y recoge el agua condensada en un recipiente para su uso en ubicaciones costeras adecuadas. Este producto fue desarrollado originalmente por Wasser Stiftung y comercializado por Aqualonis, además este producto está disponible en tres tamaños diferentes para satisfacer diferentes necesidades de recolección de agua, así como un modelo de prueba. (Aqualonis CloudFisher, s. f.)
 
 ![71da93e7-c137-437d-8bfb-726d2204f155](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/9b4d5a89-50ad-4b56-b42d-b06fe9fa5922)
+### Descripción de componentes:
+- Marco de metal con expansores de goma
+- Malla de captación de poliéster flexible 
+4 marcos de malla de 13,5m2
+- Hormigón
+- Redes de telas tejidas mono-fibras en 3D
+- Anclaje y cuerda
+  
+Es el primer colector de niebla que puede soportar altas velocidades de viento de hasta 120 km/h. Es rápido y fácil de instalar, no requiere energía y requiere muy poco mantenimiento. Todos los materiales utilizados son aptos para alimentos. Gracias a su rendimiento, Cloud Fisher garantiza a innumerables personas agua potable de alta calidad que cumple con los estándares de la OMS a bajo costo.
 
+- ¿Dónde se pueden instalar los “atrapanieblas”?
+Las posibles áreas de aplicación del Cloud Fisher son regiones montañosas y costeras secas con mucha niebla y viento, como Etiopía, Australia, Chile, Eritrea, Irán, Colombia, Marruecos, Namibia, Nepal, América del Norte, Omán, Perú, España. Sudáfrica, Tanzania o Yemen.
+- ¿Qué tan productivos son los captadores de niebla Cloud Fisher?
+Dependiendo de la región y la estación, el rendimiento diario de agua oscila entre 6 y 22 litros por metro cuadrado neto.
 
 
 

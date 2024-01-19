@@ -66,7 +66,8 @@ Este artículo describe un dispositivo de interfaz de sensor reconfigurable para
 | **Eficiencia Energética:** El sistema debe ser eficiente en cuanto al consumo de energía para garantizar un funcionamiento sostenible, considerando la disponibilidad de energía en la ubicación.  | **Sostenibilidad:** El sistema debe ser diseñado para ser respetuoso con el medio ambiente y sostenible en términos de recursos y energía.|
 | **Almacenamiento de Datos:** Implementar un sistema de almacenamiento de datos para registrar históricos de las mediciones de turbidez y la asignación de agua a lo largo del tiempo.    | **Accesibilidad:** La página web debe ser accesible desde diferentes dispositivos y navegadores para facilitar el acceso a la información a los usuarios. |
 | **Notificaciones:** El sistema debe ser capaz de enviar notificaciones, ya sea por la página web o por otros medios, para informar a los usuarios sobre cambios significativos o problemas en el sistema.    | **Mantenimiento:** El sistema debe ser de fácil mantenimiento, con la capacidad de realizar actualizaciones y correcciones de manera eficiente.  
-|**Interfaz de Usuario Intuitiva:** La interfaz de usuario en la página web debe ser intuitiva y fácil de entender para que los habitantes del lugar puedan verificar el estado del agua y las acciones realizadas. 
-  |  **Compatibilidad con Energía Renovable:** Evaluar la posibilidad de utilizar energía renovable, como paneles solares, para alimentar el sistema y garantizar su funcionamiento continuo.
+**Interfaz de Usuario Intuitiva:** La interfaz de usuario en la página web debe ser intuitiva y fácil de entender para que los habitantes del lugar puedan verificar el estado del agua y las acciones realizadas.    |   **Compatibilidad con Energía Renovable:** Evaluar la posibilidad de utilizar energía renovable, como paneles solares, para alimentar el sistema y garantizar su funcionamiento continuo.
+
+
 
 

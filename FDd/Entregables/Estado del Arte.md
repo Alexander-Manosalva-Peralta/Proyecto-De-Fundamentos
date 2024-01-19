@@ -28,7 +28,7 @@ En este presente artículo se habla sobre la diarrea como una de las  problemát
 
 <img src="../../Carpetas/Imagenes/Prevenir.png" alt="Texto Alternativo" width="500" height="300">
 
-**Fuente:** Fernandez Alvarez, V., Granada Salazar, D., Figueroa, C., Corrales, J. C., & Casanova, J. F. (2023). Estimation of Water Turbidity in Drinking Water Treatment Plants Using Machine Learning Based on Water and Meteorological Data. Environmental Sciences Proceedings, 25(1), Article 1. https://doi.org/10.3390/ECWS-7-14326
+**Fuente:** Clasen, T. F., Alexander, K. T., Sinclair, D., Boisson, S., Peletz, R., Chang, H. H., Majorin, F., & Cairncross, S. (2015). Interventions to improve water quality for preventing diarrhoea. The Cochrane Database of Systematic Reviews, 2015(10), CD004794. https://doi.org/10.1002/14651858.CD004794.pub3
 
 ## Estimación de la turbidez del agua en el tratamiento de agua potable Plantas que utilizan aprendizaje automático basado en agua y Datos Meteorológicos.
 

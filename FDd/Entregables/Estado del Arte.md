@@ -89,11 +89,33 @@ Es un colector de niebla que recoge la bruma del aire cuando sopla en las redes 
 Es el primer colector de niebla que puede soportar altas velocidades de viento de hasta 120 km/h. Es rápido y fácil de instalar, no requiere energía y requiere muy poco mantenimiento. Todos los materiales utilizados son aptos para alimentos. Gracias a su rendimiento, Cloud Fisher garantiza a innumerables personas agua potable de alta calidad que cumple con los estándares de la OMS a bajo costo.
 
 - ¿Dónde se pueden instalar los “atrapanieblas”?
+  
 Las posibles áreas de aplicación del Cloud Fisher son regiones montañosas y costeras secas con mucha niebla y viento, como Etiopía, Australia, Chile, Eritrea, Irán, Colombia, Marruecos, Namibia, Nepal, América del Norte, Omán, Perú, España. Sudáfrica, Tanzania o Yemen.
+
 - ¿Qué tan productivos son los captadores de niebla Cloud Fisher?
 Dependiendo de la región y la estación, el rendimiento diario de agua oscila entre 6 y 22 litros por metro cuadrado neto.
 
+## PATENTE N°3: 
 
+**ES2946044A1**
+
+**Inventores:** Pons Ariño Angel
+
+**Fecha de publicación:** 2023-12-07
+
+**País de publicación:** España
+
+**Resumen:**
+
+El dispositivo es un toma de muestra de aguas residuales que se extrae y filtra agua residual de manera automática, por ello se emplea equipos hidráulicos y un cartucho filtrante que recircula el agua recogida por un depósito hasta obtener un volumen de agua con una concentración determinada para realizar posteriormente en análisis vírico de la muestra filtrada mediante ensayo qRT-PCR.
+
+**Descripción de componentes:**
+- Dispositivo portátil de toma de muestras de aguas residuales.
+- El depósito es realizado por impresión 3D.
+- Una bomba hidráulica situada en el colector y el depósito.
+- Un equipo de filtrado que está asociado al depósito y que también está conectado con el colector.
+- Un equipo de toma de muestras, asociado a la cámara secundaria del depósito.
+- Un equipo de limpieza, formado, principalmente, por al menos una bomba de limpieza.
 
 
 

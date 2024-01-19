@@ -52,7 +52,7 @@ Este artículo describe un dispositivo de interfaz de sensor reconfigurable para
 | #   | Patente                          | Enlace                                 |
 | --- | ---------------------------------| -------------------------------------- |
 | 1   | Patente 1                        | [Enlace a la Patente 1](https://www.engineeringforchange.org/solutions/product/aqualonis-cloudfisher/) |
-| 2   | Patente 2                        | [Enlace a la Patente 2](https://patents.google.com/patent/US20190003976A1/en?q=(IoT+water+quality+analysis+system+patent) |
+| 2   | Patente 2                        | [Enlace a la Patente 2](https://patents.google.com/patent/US20190003976A1/en?q=%28IoT+water+quality+analysis+system+patent%29&oq=IoT+water+quality+analysis+system+patent) |
 | 3   | Patente 3                        | [Enlace a la Patente 3](https://patents.google.com/patent/ES2946044A1/es) |
 
 # Patente N°1: WO2016062877A1 - Aqualonis CloudFisher

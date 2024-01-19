@@ -135,5 +135,18 @@ El dispositivo es un toma de muestra de aguas residuales que se extrae y filtra 
 **Interfaz de Usuario Intuitiva:** La interfaz de usuario en la página web debe ser intuitiva y fácil de entender para que los habitantes del lugar puedan verificar el estado del agua y las acciones realizadas.    |   **Compatibilidad con Energía Renovable:** Evaluar la posibilidad de utilizar energía renovable, como paneles solares, para alimentar el sistema y garantizar su funcionamiento continuo.
 
 
+BIBLIOGRAFÍA:
+
+Aqualonis CloudFisher. (s. f.). Engineering For Change. Recuperado 18 de enero de 2024, de 2. https://www.engineeringforchange.org/solutions/product/aqualonis-cloudfisher/
+Clark, J. E. (2019). Multi-Parameter Water Analysis System with Analysis Application Updateable via a Cloud-Based Data Resource (United States Patent US20190003976A1). https://patents.google.com/patent/US20190003976A1/en?q=(IoT+water+quality+analysis+system+patent)&oq=IoT+water+quality+analysis+system+patent
+Clasen, T. F., Alexander, K. T., Sinclair, D., Boisson, S., Peletz, R., Chang, H. H., Majorin, F., & Cairncross, S. (2015). Interventions to improve water quality for preventing diarrhoea. The Cochrane Database of Systematic Reviews, 2015(10), CD004794. https://doi.org/10.1002/14651858.CD004794.pub3
+Cole-Parmer&trade;&nbsp;Disco de Secchi para determinar la Turbidez Lamotte&trade;—Muestreadores de agua y aguas residuales Muestreadores. (s. f.). Recuperado 18 de enero de 2024, de https://www.fishersci.es/shop/products/turbidity-disk/11762373
+Fernandez Alvarez, V., Granada Salazar, D., Figueroa, C., Corrales, J. C., & Casanova, J. F. (2023). Estimation of Water Turbidity in Drinking Water Treatment Plants Using Machine Learning Based on Water and Meteorological Data. Environmental Sciences Proceedings, 25(1), Article 1. https://doi.org/10.3390/ECWS-7-14326
+Konde, S., & Deosarkar, D. S. (2020). IOT Based Water Quality Monitoring System (SSRN Scholarly Paper 3645467). https://doi.org/10.2139/ssrn.3645467
+Probador de agua digital del medidor TDS, Probador preciso de la calidad del agua Pluma de prueba de calidad del agua con sonda de aleación Alta precisión para acuarios, hidroponía, vino, spas(Beige): Amazon.com.mx: Industria, Empresas y Ciencia. (s. f.). Recuperado 18 de enero de 2024, de https://www.amazon.com.mx/dp/B08FXBWRS7/?tag=quimico-lab-20
+Razman, N. A., Wan Ismail, W. Z., Abd Razak, M. H., Ismail, I., & Jamaludin, J. (2023). Design and analysis of water quality monitoring and filtration system for different types of water in Malaysia. International Journal of Environmental Science and Technology: IJEST, 20(4), 3789-3800. https://doi.org/10.1007/s13762-022-04192-x
+Sensor de turbidez de agua. (s. f.). Naylamp Mechatronics - Perú. Recuperado 18 de enero de 2024, de https://naylampmechatronics.com/sensores-liquido/535-sensor-de-turbiedad-de-agua.html
+
+
 
 

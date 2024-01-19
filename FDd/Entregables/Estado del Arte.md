@@ -14,11 +14,9 @@
 ##  Diseño y análisis de un sistema de filtración y monitoreo de la calidad del agua para diferentes tipos de agua en Malasia.
 
 Este artículo describe un proyecto destinado a abordar la contaminación del agua en Malasia mediante el desarrollo de un sistema de monitoreo y filtración de la calidad del agua controlado por Arduino. Se enfoca en la detección temprana de agua contaminada, especialmente en ríos, debido a actividades industriales, de construcción, agrícolas y domésticas.
-El sistema, diseñado en Proteus y utilizando ThingSpeak para el monitoreo en tiempo real, mide parámetros como pH, temperatura, turbidez, conductividad eléctrica y potencial de oxidación-reducción. Si se detecta una calidad del agua insatisfactoria, la muestra se filtra a través del sistema de filtración.
+El sistema, diseñado en Proteus y utilizando ThingSpeak para el monitoreo en tiempo real, mide parámetros como pH, temperatura, turbidez, conductividad eléctrica y potencial de oxidación-reducción. Si se detecta una calidad del agua insatisfactoria, la muestra se filtra a través del sistema de filtración. (Razman et al., 2023).
 
 <img src="../../Carpetas/Imagenes/Articulo1.png" alt="Texto Alternativo" width="500" height="300">
-
-**Fuente:** Razman, N. A., Wan Ismail, W. Z., Abd Razak, M. H., Ismail, I., & Jamaludin, J. (2023). Design and analysis of water quality monitoring and filtration system for different types of water in Malaysia. *International Journal of Environmental Science and Technology: IJEST*, 20(4), 3789-3800. [https://doi.org/10.1007/s13762-022-04192-x](https://doi.org/10.1007/s13762-022-04192-x)
 
 ## Ensayos Clínicos <a name="ensayos-clinicos"></a>
 

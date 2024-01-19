@@ -6,7 +6,7 @@
 
 ¡Bienvenido al Proyecto EcoInnovador!
 
-[Descripción breve del proyecto y su relación con la ODS (Objetivo de Desarrollo Sostenible)]
+[Descripción breve del proyecto y su relación con la ODS (Agua limpia y saneamiento)]
 
 ## Tabla de Contenidos
 

@@ -60,9 +60,9 @@ Este artículo describe un dispositivo de interfaz de sensor reconfigurable para
 ### 🛡️ Patentes (3)
 | #   | Patente                          | Enlace                                 |
 | --- | ---------------------------------| -------------------------------------- |
-| 1   | Patente A                        | [Enlace a la Patente 1](URL_Patente_1) |
+| 1   | Patente A                        | [Enlace a la Patente 1](https://www.engineeringforchange.org/solutions/product/aqualonis-cloudfisher/) |
 | 2   | Patente B                        | [Enlace a la Patente 2](URL_Patente_2) |
-| 3   | Patente C                        | [Enlace a la Patente 3](URL_Patente_3) |
+| 3   | Patente C                        | [Enlace a la Patente 3](https://patents.google.com/patent/ES2946044A1/es) |
 
 # Lista de Requerimientos
 

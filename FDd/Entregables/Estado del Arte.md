@@ -72,7 +72,6 @@ Es un colector de niebla que recoge la bruma del aire cuando sopla en las redes 
 
 **Descripción de componentes:**
 
->>>>>>> 83ead9ed9346662c76aa245d2fe5204c47d378cb
 - Marco de metal con expansores de goma
 - Malla de captación de poliéster flexible 
 - 4 marcos de malla de 13,5m2

@@ -6,7 +6,7 @@
 | #   | Título del Artículo                 | Detalles                                      | Enlace                                 |
 | --- | ----------------------------------- | --------------------------------------------- | ---------------------------------------|
 | 1   | Diseño Innovador                    | [Aquí](#diseno-innovador)                     | [Enlace al Artículo 1](https://pubmed.ncbi.nlm.nih.gov/35729914/) |
-| 2   | Ensayos Clínicos                    | [Aquí](#ensayos-clinicos)                     | [Enlace al Artículo 1](URL_Articulo_1) |
+| 2   | Ensayos Clínicos                    | [Aquí](#ensayos-clinicos)                     | [Enlace al Artículo 1 y 2](URL_Articulo_1) |
 | 3   | Revisiones Sistemáticas             | [Aquí](#revisiones-sistematicas)              | [Enlace al Artículo 1](URL_Articulo_1) |
 
 ## Diseño Innovador <a name="diseno-innovador"></a>
@@ -26,7 +26,13 @@ En este presente artículo se habla sobre la diarrea como una de las  problemát
 
 <img src="../../Carpetas/Imagenes/Prevenir.png" alt="Texto Alternativo" width="500" height="300">
 
-**Fuente:** Colocar su fuente
+**Fuente:** Clasen, T. F., Alexander, K. T., Sinclair, D., Boisson, S., Peletz, R., Chang, H. H., Majorin, F., & Cairncross, S. (2015). Interventions to improve water quality for preventing diarrhoea. The Cochrane Database of Systematic Reviews, 2015(10), CD004794. https://doi.org/10.1002/14651858.CD004794.pub3
+
+## Estimación de la turbidez del agua en el tratamiento de agua potable Plantas que utilizan aprendizaje automático basado en agua y Datos Meteorológicos.
+
+Ese proyecto instaló sensores para evaluar la turbidez en algunas plantas de zonas rurales del departamento de cauca, además determinaron algoritmos que fueran capaz de estimar aceptablemente la turbidez del agua y que a la vez les sirviera de apoyo a los operadores en la toma de decisiones para la aplicación de un tratamiento adecuado al agua potable, pero estos sensores fueron retirados al finalizar el proyecto por lo que fue necesario crear nuevos modelos de aprendizaje automático para predecir los valores de turbidez sin sensores considerando únicamente los datos de pH, temperatura, presión de vapor y precipitación capturado manualmente por los operadores de las plantas, del  cual el punto más interesante fue el análisis exploratorio de datos, donde se aplicó la siguiente ecuación para calcular la transformación logarítmica de la variable de turbidez del agua. log turbidez = log (turbidez + 1). (Fernandez Alvarez et al., 2023).
+
+**Fuente:** Fernandez Alvarez, V., Granada Salazar, D., Figueroa, C., Corrales, J. C., & Casanova, J. F. (2023). Estimation of Water Turbidity in Drinking Water Treatment Plants Using Machine Learning Based on Water and Meteorological Data. Environmental Sciences Proceedings, 25(1), Article 1. https://doi.org/10.3390/ECWS-7-14326.
 
 ## Revisiones Sistemáticas <a name="revisiones-sistematicas"></a>
 
@@ -36,7 +42,9 @@ Este artículo describe un dispositivo de interfaz de sensor reconfigurable para
 
 <img src="../../Carpetas/Imagenes/Basado.png" alt="Texto Alternativo" width="500" height="300">
 
-**Fuente:** Colocar su fuente
+**Fuente:** Konde, S., & Deosarkar, D. S. (2020). IOT Based Water Quality Monitoring System (SSRN Scholarly Paper 3645467). https://doi.org/10.2139/ssrn.3645467
+
+
 
 ## 🌐 Contexto Comercial
 
@@ -50,9 +58,69 @@ Este artículo describe un dispositivo de interfaz de sensor reconfigurable para
 ### 🛡️ Patentes (3)
 | #   | Patente                          | Enlace                                 |
 | --- | ---------------------------------| -------------------------------------- |
-| 1   | Patente A                        | [Enlace a la Patente 1](URL_Patente_1) |
+| 1   | Patente A                        | [Enlace a la Patente 1](https://www.engineeringforchange.org/solutions/product/aqualonis-cloudfisher/) |
 | 2   | Patente B                        | [Enlace a la Patente 2](URL_Patente_2) |
-| 3   | Patente C                        | [Enlace a la Patente 3](URL_Patente_3) |
+| 3   | Patente C                        | [Enlace a la Patente 3](https://patents.google.com/patent/ES2946044A1/es) |
+
+## PATENTE N°1:
+
+WO2016062877A1 - Aqualonis CloudFisher 
+
+**Inventor**: Pedro Trautwein
+
+**Fecha de publicación**: 28/04/2016
+
+**País de publicación**: Alemania
+
+**Resumen**:
+Es un colector de niebla que recoge la bruma del aire cuando sopla en las redes de malla 3D del Cloud Fisher y recoge el agua condensada en un recipiente para su uso en ubicaciones costeras adecuadas. Este producto fue desarrollado originalmente por Wasser Stiftung y comercializado por Aqualonis, además este producto está disponible en tres tamaños diferentes para satisfacer diferentes necesidades de recolección de agua, así como un modelo de prueba. (Aqualonis CloudFisher, s. f.)
+<p align="center">
+  <img width="400" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/9b4d5a89-50ad-4b56-b42d-b06fe9fa5922" alt="Descripción de la imagen">
+</p>
+### Descripción de componentes:
+- Marco de metal con expansores de goma
+- Malla de captación de poliéster flexible 
+4 marcos de malla de 13,5m2
+- Hormigón
+- Redes de telas tejidas mono-fibras en 3D
+- Anclaje y cuerda
+  
+Es el primer colector de niebla que puede soportar altas velocidades de viento de hasta 120 km/h. Es rápido y fácil de instalar, no requiere energía y requiere muy poco mantenimiento. Todos los materiales utilizados son aptos para alimentos. Gracias a su rendimiento, Cloud Fisher garantiza a innumerables personas agua potable de alta calidad que cumple con los estándares de la OMS a bajo costo.
+
+- ¿Dónde se pueden instalar los “atrapanieblas”?
+  
+Las posibles áreas de aplicación del Cloud Fisher son regiones montañosas y costeras secas con mucha niebla y viento, como Etiopía, Australia, Chile, Eritrea, Irán, Colombia, Marruecos, Namibia, Nepal, América del Norte, Omán, Perú, España. Sudáfrica, Tanzania o Yemen.
+
+- ¿Qué tan productivos son los captadores de niebla Cloud Fisher?
+Dependiendo de la región y la estación, el rendimiento diario de agua oscila entre 6 y 22 litros por metro cuadrado neto.
+
+## PATENTE N°3: 
+
+**ES2946044A1**
+
+**Inventores:** Pons Ariño Angel
+
+**Fecha de publicación:** 2023-12-07
+
+**País de publicación:** España
+
+**Resumen:**
+El dispositivo es un toma de muestra de aguas residuales que se extrae y filtra agua residual de manera automática, por ello se emplea equipos hidráulicos y un cartucho filtrante que recircula el agua recogida por un depósito hasta obtener un volumen de agua con una concentración determinada para realizar posteriormente en análisis vírico de la muestra filtrada mediante ensayo qRT-PCR.
+
+**Descripción de componentes:**
+- Dispositivo portátil de toma de muestras de aguas residuales.
+- El depósito es realizado por impresión 3D.
+- Una bomba hidráulica situada en el colector y el depósito.
+- Un equipo de filtrado que está asociado al depósito y que también está conectado con el colector.
+- Un equipo de toma de muestras, asociado a la cámara secundaria del depósito.
+- Un equipo de limpieza, formado, principalmente, por al menos una bomba de limpieza.
+
+<p align="center">
+  <img width="400" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/70a2540a-c5ed-40be-a8bb-e705c550be26" alt="Descripción de la imagen">
+</p>
+
+
+
 
 # Lista de Requerimientos
 

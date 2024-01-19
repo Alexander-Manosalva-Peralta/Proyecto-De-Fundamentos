@@ -135,7 +135,7 @@ El dispositivo es un toma de muestra de aguas residuales que se extrae y filtra 
 **Interfaz de Usuario Intuitiva:** La interfaz de usuario en la página web debe ser intuitiva y fácil de entender para que los habitantes del lugar puedan verificar el estado del agua y las acciones realizadas.    |   **Compatibilidad con Energía Renovable:** Evaluar la posibilidad de utilizar energía renovable, como paneles solares, para alimentar el sistema y garantizar su funcionamiento continuo.
 
 
-BIBLIOGRAFÍA:
+# BIBLIOGRAFÍA:
 
 Aqualonis CloudFisher. (s. f.). Engineering For Change. Recuperado 18 de enero de 2024, de 2. https://www.engineeringforchange.org/solutions/product/aqualonis-cloudfisher/
 

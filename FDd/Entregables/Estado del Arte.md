@@ -76,8 +76,9 @@ WO2016062877A1 - Aqualonis CloudFisher
 
 **Resumen**:
 Es un colector de niebla que recoge la bruma del aire cuando sopla en las redes de malla 3D del Cloud Fisher y recoge el agua condensada en un recipiente para su uso en ubicaciones costeras adecuadas. Este producto fue desarrollado originalmente por Wasser Stiftung y comercializado por Aqualonis, además este producto está disponible en tres tamaños diferentes para satisfacer diferentes necesidades de recolección de agua, así como un modelo de prueba. (Aqualonis CloudFisher, s. f.)
-
-![71da93e7-c137-437d-8bfb-726d2204f155](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/9b4d5a89-50ad-4b56-b42d-b06fe9fa5922)
+<p align="center">
+  <img width="400" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/9b4d5a89-50ad-4b56-b42d-b06fe9fa5922" alt="Descripción de la imagen">
+</p>
 ### Descripción de componentes:
 - Marco de metal con expansores de goma
 - Malla de captación de poliéster flexible 

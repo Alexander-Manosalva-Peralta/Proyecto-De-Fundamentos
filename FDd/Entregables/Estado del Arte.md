@@ -106,7 +106,6 @@ Dependiendo de la región y la estación, el rendimiento diario de agua oscila e
 **País de publicación:** España
 
 **Resumen:**
-
 El dispositivo es un toma de muestra de aguas residuales que se extrae y filtra agua residual de manera automática, por ello se emplea equipos hidráulicos y un cartucho filtrante que recircula el agua recogida por un depósito hasta obtener un volumen de agua con una concentración determinada para realizar posteriormente en análisis vírico de la muestra filtrada mediante ensayo qRT-PCR.
 
 **Descripción de componentes:**
@@ -116,9 +115,7 @@ El dispositivo es un toma de muestra de aguas residuales que se extrae y filtra 
 - Un equipo de filtrado que está asociado al depósito y que también está conectado con el colector.
 - Un equipo de toma de muestras, asociado a la cámara secundaria del depósito.
 - Un equipo de limpieza, formado, principalmente, por al menos una bomba de limpieza.
-
-
-
+![a5482e9e-ff6a-4690-88fb-1f34ae785f32](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/70a2540a-c5ed-40be-a8bb-e705c550be26)
 
 
 

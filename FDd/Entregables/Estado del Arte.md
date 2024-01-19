@@ -117,7 +117,7 @@ El dispositivo es un toma de muestra de aguas residuales que se extrae y filtra 
 - Un equipo de limpieza, formado, principalmente, por al menos una bomba de limpieza.
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/70a2540a-c5ed-40be-a8bb-e705c550be26" alt="Descripción de la imagen">
+  <img width="300" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/70a2540a-c5ed-40be-a8bb-e705c550be26" alt="Descripción de la imagen">
 </p>
 
 

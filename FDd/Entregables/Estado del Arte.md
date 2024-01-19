@@ -44,7 +44,8 @@ Este artículo describe un dispositivo de interfaz de sensor reconfigurable para
 
 <img src="../../Carpetas/Imagenes/Basado.png" alt="Texto Alternativo" width="500" height="300">
 
-**Fuente:** Colocar su fuente
+**Fuente:** Konde, S., & Deosarkar, D. S. (2020). IOT Based Water Quality Monitoring System (SSRN Scholarly Paper 3645467). https://doi.org/10.2139/ssrn.3645467
+
 
 
 ## 🌐 Contexto Comercial

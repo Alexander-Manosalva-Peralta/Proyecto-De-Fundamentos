@@ -30,6 +30,8 @@ En este presente artículo se habla sobre la diarrea como una de las  problemát
 
 Ese proyecto instaló sensores para evaluar la turbidez en algunas plantas de zonas rurales del departamento de cauca, además determinaron algoritmos que fueran capaz de estimar aceptablemente la turbidez del agua y que a la vez les sirviera de apoyo a los operadores en la toma de decisiones para la aplicación de un tratamiento adecuado al agua potable, pero estos sensores fueron retirados al finalizar el proyecto por lo que fue necesario crear nuevos modelos de aprendizaje automático para predecir los valores de turbidez sin sensores considerando únicamente los datos de pH, temperatura, presión de vapor y precipitación capturado manualmente por los operadores de las plantas, del  cual el punto más interesante fue el análisis exploratorio de datos, donde se aplicó la siguiente ecuación para calcular la transformación logarítmica de la variable de turbidez del agua. log turbidez = log (turbidez + 1). (Fernandez Alvarez et al., 2023).
 
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/fcae7ffc-5747-4a5a-bac1-51be5c7cb352)
+
 ## Revisiones Sistemáticas <a name="revisiones-sistematicas"></a>
 
 ## Sistema de monitoreo de calidad del agua basado en IOT.
@@ -49,45 +51,68 @@ Este artículo describe un dispositivo de interfaz de sensor reconfigurable para
 | 3   | Probador de agua digital del medidor TDS         | Pantalla LCD grande.<br>- Función de apagado automático después de 10 minutos sin operación.<br>- Sonda de aleación de titanio para medir el agua con alta precisión.<br>- Modelo de producto: LR44. | $230.00  | Pantalla LCD grande. Función de apagado automático después de 10 minutos sin operación. Sonda de aleación de titanio para medir el agua con alta precisión. Modelo de producto: LR44. | ![Probador de agua digital]<img src="../../Carpetas/Imagenes/Probador.jpg">           | [Ver producto](https://equipo-laboratorio.com/laboratorio/turbidimetros/)   |
 
 ### 🛡️ Patentes (3)
-| #   | Patente                          | Enlace                                 |
-| --- | ---------------------------------| -------------------------------------- |
-| 1   | Patente 1                        | [Enlace a la Patente 1](https://www.engineeringforchange.org/solutions/product/aqualonis-cloudfisher/) |
-| 2   | Patente 2                        | [Enlace a la Patente 2](URL_Patente_2) |
-| 3   | Patente 3                        | [Enlace a la Patente 3](https://patents.google.com/patent/ES2946044A1/es) |
+| #   | Patente                      | Detalles                        | Enlace                                 |
+| --- | -----------------------------|---------------------------------|----------------------------------------|
+| 1   | Patente 1                    | [Aquí](#patente1)       | [Enlace a la Patente 1](https://www.engineeringforchange.org/solutions/product/aqualonis-cloudfisher/) |
+| 2   | Patente 2                    | [Aquí](#patente2)       | [Enlace a la Patente 2](https://patents.google.com/patent/US20190003976A1/en?q=%28IoT+water+quality+analysis+system+patent%29&oq=IoT+water+quality+analysis+system+patent) |
+| 3   | Patente 3                    | [Aquí](#patente3)       | [Enlace a la Patente 3](https://patents.google.com/patent/ES2946044A1/es) |
 
-## PATENTE N°1:
+# Patente N°1: <a name="patente1"></a>
 
-WO2016062877A1 - Aqualonis CloudFisher 
+WO2016062877A1 - Aqualonis CloudFisher
 
-**Inventor**: Pedro Trautwein
+**Inventor:** Pedro Trautwein  
+**Fecha de publicación:** 28/04/2016  
+**País de publicación:** Alemania
 
-**Fecha de publicación**: 28/04/2016
-
-**País de publicación**: Alemania
-
-**Resumen**:
+**Resumen:**
 Es un colector de niebla que recoge la bruma del aire cuando sopla en las redes de malla 3D del Cloud Fisher y recoge el agua condensada en un recipiente para su uso en ubicaciones costeras adecuadas. Este producto fue desarrollado originalmente por Wasser Stiftung y comercializado por Aqualonis, además este producto está disponible en tres tamaños diferentes para satisfacer diferentes necesidades de recolección de agua, así como un modelo de prueba. (Aqualonis CloudFisher, s. f.)
+
 <p align="center">
   <img width="400" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/9b4d5a89-50ad-4b56-b42d-b06fe9fa5922" alt="Descripción de la imagen">
 </p>
-### Descripción de componentes:
+
+**Descripción de componentes:**
+
 - Marco de metal con expansores de goma
 - Malla de captación de poliéster flexible 
-4 marcos de malla de 13,5m2
+- 4 marcos de malla de 13,5m2
 - Hormigón
 - Redes de telas tejidas mono-fibras en 3D
 - Anclaje y cuerda
-  
+
 Es el primer colector de niebla que puede soportar altas velocidades de viento de hasta 120 km/h. Es rápido y fácil de instalar, no requiere energía y requiere muy poco mantenimiento. Todos los materiales utilizados son aptos para alimentos. Gracias a su rendimiento, Cloud Fisher garantiza a innumerables personas agua potable de alta calidad que cumple con los estándares de la OMS a bajo costo.
 
-- ¿Dónde se pueden instalar los “atrapanieblas”?
-  
+**¿Dónde se pueden instalar los “atrapanieblas”?**
 Las posibles áreas de aplicación del Cloud Fisher son regiones montañosas y costeras secas con mucha niebla y viento, como Etiopía, Australia, Chile, Eritrea, Irán, Colombia, Marruecos, Namibia, Nepal, América del Norte, Omán, Perú, España. Sudáfrica, Tanzania o Yemen.
 
-- ¿Qué tan productivos son los captadores de niebla Cloud Fisher?
+**¿Qué tan productivos son los captadores de niebla Cloud Fisher?**
 Dependiendo de la región y la estación, el rendimiento diario de agua oscila entre 6 y 22 litros por metro cuadrado neto.
 
-## PATENTE N°3: 
+## PATENTE N°2: <a name="patente2"></a>
+
+**US20190003976A1**
+
+**Inventores:** James E. Clark
+
+**Fecha de publicación:** 2019-01-03
+
+**País de publicación:** Estados Unidos
+
+**Resumen:**
+un dispositivo inteligente configurado para mostrar los resultados de las pruebas de multiparámetros del agua al usuario, los resultados de las pruebas calculados por una aplicación de análisis utilizando los datos del detector, la aplicación analiza los parámetros diferentes, los análisis son actualizados a través de un recurso de datos basado en la nube lo cual mejora la visualización de los resultados de las pruebas (Clark, 2019).
+
+**Descripción de componentes:**
+- Dispositivo sensor de parámetros del agua
+- Un procesador en comunicación
+- Un sistema de comunicación inalámbrica 
+- Un dispositivo de teléfono inteligente
+- Un sistema de análisis de agua multiparamétrico
+<p align="center">
+  <img width="400" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/75dd742a-3711-474e-96de-47f5b072a51a" alt="Descripción de la imagen">
+</p>
+
+## PATENTE N°3: <a name="patente3"></a>
 
 **ES2946044A1**
 

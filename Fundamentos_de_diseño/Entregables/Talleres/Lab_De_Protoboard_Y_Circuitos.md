@@ -56,6 +56,23 @@ $I = \frac{Vin}{(R1 + R2)}$
 
 $Vout = R2 * I = R2 * \frac{Vin}{(R1 + R2)}$
 
+**Encontrar R1**
+
+$R1 + R2 = R2 * \frac{Vin}{(R1 + R2)}$
+
+$R1 + R2 = R2 * 4.54 ... ... ... (a)$
+
+$Asumimos: R2 = 1KΩ$
+
+$R1 = R2 * 4.54 - R2$
+
+$R1 = 3.54KΩ$
+
+**Simulación para verificar que la salida sea correcta**
+
+Imagen 
+
+
 ## 3. Conclusiones:
 
 ....

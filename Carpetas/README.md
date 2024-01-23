@@ -1,4 +1,4 @@
-Bienvenidos al repositorio del proyecto .... , esta sección se encuentra 
+Bienvenidos al repositorio del proyecto Hidronex, esta sección se encuentra 
 la explicación y la organización de nuestro repositorio.
 
 -Alfombras: En este apartado se brindara la información del desarrollo del proyecto, así como la explicación sobre el diseño, uso e implementación del proyecto.

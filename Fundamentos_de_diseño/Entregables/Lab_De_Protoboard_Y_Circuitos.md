@@ -36,11 +36,19 @@ Los valores medidos se aproximaron a los teóricos, confirmándose así la preci
 <img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/bcc3eda9-3430-4393-97da-c1f55d489904" alt="Descripción de la imagen">
 
 ## 2. **EJERCICIO NIVEL DRAGON**
+En esta sección, procedemos a calcular el equivalente de la figura. 
+Primero, dividimos la figura original para facilitar el cálculo conforme se indica en el ejercicio. Utilizamos las resistencias en serie, las cuales presentan un único camino por el cual la corriente puede fluir.
+Seguidamente, sumamos las resistencias R1 y R3, luego, sumamos R2 con R4 y finalmente, sumamos R5 y R6 en circuitos en serie, lo que nos proporciona un valor de 200 kΩ en cada caso.
+
+Posteriormente, tomamos la inversa de cada suma y calculamos la resistencia equivalente.
+
+Una vez calculada la resistencia, pasamos armar el circuito completo en serie y comprobamos mediante nuestro multímetro el valor obtenido de dicha resistencia.
 
 
-Explican lo que hicimos
-Colocan las imagenes
-**Si hay recultados lo colocan**
+
+
+
+
 
 ## 3. Circuito Divisor de Tensión
 

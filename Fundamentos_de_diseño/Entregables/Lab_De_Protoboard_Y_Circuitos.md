@@ -11,13 +11,7 @@ Para identificar los valores de cada una de las resistencias, se siguío los có
 Las resistencias R1 y R2, ambas con un valor de 100kΩ, están conectadas en serie, lo que nos lleva a realizar una suma directa y obtener un resultado de 200 kΩ. Posteriormente, al sumar la inversa de este valor con la resistencia R3 (también de 100kΩ), obtenemos una resistencia equivalente de 66.67 kΩ
 La elección de valores específicos para las resistencias, en este caso, 100kΩ, se ha realizado con el propósito de facilitar el cálculo y confirmar la precisión del circuito al medirlo con un multímetro y obtener valores cercanos.
 
-<img width="400" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/ccb77db1-3104-43b0-ab7a-338319b8b2a7" alt="Descripción de la imagen">
-
-
-
-Explican lo que hicimos
-Colocan las imagenes
-**Si hay recultados lo colocan**
+<img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/ccb77db1-3104-43b0-ab7a-338319b8b2a7" alt="Descripción de la imagen">
 
 ### 1.2. Ejercicio en paralelo:
 
@@ -27,11 +21,10 @@ Posteriormente, sumamos las resistencias restantes que estaban en paralelo con R
 Después de realizar los cálculos, verificamos la validez del ejercicio utilizando un multímetro.
 Los valores medidos se aproximaron a los teóricos, confirmándose así la precisión del circuito.
 
-<img width="400" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/28129d6d-8994-4efb-aabd-dbf0d2cccc62" alt="Descripción de la imagen">
+<img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/bcc3eda9-3430-4393-97da-c1f55d489904" alt="Descripción de la imagen">
 
-**Si hay resultados lo colocan**
+## 2. **EJERCICIO NIVEL DRAGON**
 
-## 2. Nombre del ejercicio 2:
 
 Explican lo que hicimos
 Colocan las imagenes

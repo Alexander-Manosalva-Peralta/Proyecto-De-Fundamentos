@@ -64,9 +64,9 @@ R1+R2 = R2x 5/((1.1) )
 
 ASUMIMOS: R2 = 1k ohmios
 
-R1 = R2x4.54-R2 Ohmios
+R1 = R2x4.54-R2 
 
-                                                                  R1 =  3.54k Ohmio
+R1 =  3.54k Ohmio
 
 **Fórmula:**
 
@@ -90,10 +90,13 @@ $R1 = 3.54KΩ$
 
 **Simulación para verificar que la salida sea correcta**
 
-Imagen 
+Para verificar los resultados se realizó una simulación en tinkercad, que se muestra en la siguiente imagen.
 
+<img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/a07427c6-9c67-45b4-951e-bef261868f16" alt="Descripción de la imagen">
 
-## 3. Conclusiones:
+Fuente: Elaborado en tinkercad 
+
+## 4. Conclusiones:
 
 En conclusión, el laboratorio de manejo de protoboard y circuitos útiles proporcionó una valiosa experiencia en la aplicación práctica de los conceptos fundamentales de circuitos eléctricos. A través de la construcción de circuitos en serie, paralelo y su combinación, se fortaleció nuestra comprensión de cómo el voltaje e intensidad se comportan en diferentes configuraciones. El enfoque detallado en el estudio previo de cada componente antes de su implementación práctica demostró ser esencial para el éxito de los experimentos.
 En conjunto, este laboratorio no solo consolidó los fundamentos teóricos, sino que también enfatizó la importancia de la precisión en la implementación práctica de circuitos eléctricos. La combinación de teoría, cálculos, experimentación y simulación proporcionó una comprensión integral y aplicada de los conceptos clave en el diseño y análisis de circuitos eléctricos.

@@ -1,7 +1,14 @@
 # Resolución del laboratorio de manejo de protoboard y circuitos útiles: Fundamentos de Diseño
 **INTRODUCCIÓN**
 
-Para identificar los valores de cada una de las resistencias, se siguío los códigos de colores.
+
+En este laboratorio, nos sumergimos en el manejo de protoboard para la creación de circuitos tanto en serie como en paralelo. El enfoque fue construir de manera práctica sistemas eléctricos basándonos en la guía del laboratorio y las recomendaciones proporcionadas por los docentes durante la sesión.
+Previo a la implementación práctica, dedicamos tiempo al estudio detallado de cada componente y parte que conforma un circuito eléctrico. Es esencial comprender el funcionamiento de los elementos involucrados antes de su aplicación.
+En el caso de un circuito en serie, se analizó que el voltaje es la suma de cada voltaje encontrado en cada resistencia, mientras que la intensidad permanece constante. En cambio, para un circuito en paralelo, se consideró que la intensidad es la suma de cada intensidad encontrada en cada resistencia, mientras que el voltaje es constante.
+
+
+Para identificar los valores de cada una de las resistencias, se siguió los códigos de colores así mismo nos sirvió  para poder ubicarnos qué cantidad de voltajes representan y de esa forma poder obtener mejores resultados.
+
 
 <img width="400" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/28129d6d-8994-4efb-aabd-dbf0d2cccc62" alt="Descripción de la imagen">
 

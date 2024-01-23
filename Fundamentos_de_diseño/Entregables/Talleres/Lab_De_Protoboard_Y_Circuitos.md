@@ -23,5 +23,14 @@ Colocan las imagenes
 
 ## 3. Circuito Divisor de Tensión
 
+**El voltaje de salida debe de see 1.1 en la siguiente figura:**
+<img src="../..//Imagenes/1.1.png" alt="Propio" width="500" height="300">
+
+**Formula:**
+Vin = (R1 + R2) * I 
+I = \( \frac{Vin}{(R1 + R2} \)
+Vout = R2 * I = R2 * \( \frac{Vin}{(R1 + R2} \)
+
+
 ## 3. Conclusiones:
 

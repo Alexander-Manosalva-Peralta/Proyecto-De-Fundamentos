@@ -13,12 +13,6 @@ La elección de valores específicos para las resistencias, en este caso, 100kΩ
 
 <img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/ccb77db1-3104-43b0-ab7a-338319b8b2a7" alt="Descripción de la imagen">
 
-
-
-Explican lo que hicimos
-Colocan las imagenes
-**Si hay recultados lo colocan**
-
 ### 1.2. Ejercicio en paralelo:
 
  En este ejercicio, comenzamos por examinar detenidamente la imagen de la guía y luego procedimos a modificar la representación original para determinar si el circuito estaba configurado en serie o en paralelo.
@@ -28,8 +22,6 @@ Después de realizar los cálculos, verificamos la validez del ejercicio utiliza
 Los valores medidos se aproximaron a los teóricos, confirmándose así la precisión del circuito.
 
 <img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/bcc3eda9-3430-4393-97da-c1f55d489904" alt="Descripción de la imagen">
-
-**Si hay resultados lo colocan**
 
 ## 2. Nombre del ejercicio 2:
 

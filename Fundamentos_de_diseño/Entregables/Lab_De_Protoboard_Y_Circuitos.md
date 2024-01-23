@@ -1,5 +1,6 @@
+ **INFORME: 2**
 # Resolución del laboratorio de manejo de protoboard y circuitos útiles: Fundamentos de Diseño
-**INTRODUCCIÓN**
+1. **INTRODUCCIÓN**
 
 
 En este laboratorio, nos sumergimos en el manejo de protoboard para la creación de circuitos tanto en serie como en paralelo. El enfoque fue construir de manera práctica sistemas eléctricos basándonos en la guía del laboratorio y las recomendaciones proporcionadas por los docentes durante la sesión.
@@ -9,11 +10,10 @@ En el caso de un circuito en serie, se analizó que el voltaje es la suma de cad
 
 Para poder hubicarnos de forma ordenada identificamos los valores de cada una de las resistencias, se siguió los códigos de colores para  obtener un mejor resultado.
 
-<img width="400" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/28129d6d-8994-4efb-aabd-dbf0d2cccc62" alt="Descripción de la imagen">
-Fuente: Extraido de google
+<img width="400" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/28129d6d-8994-4efb-aabd-dbf0d2cccc62" alt="Descripción de la imagen"> Fuente: Extraido de google
 
-## 1.EJERCICIO NIVEL POLLITO-GATO:
-### 1.1. Ejercicio en serie:
+## 2.EJERCICIO NIVEL POLLITO-GATO:
+### 2.1. Ejercicio en serie:
 
 Las resistencias R1 y R2, ambas con un valor de 100kΩ, están conectadas en serie, lo que nos lleva a realizar una suma directa y obtener un resultado de 200 kΩ. Posteriormente, al sumar la inversa de este valor con la resistencia R3 (también de 100kΩ), obtenemos una resistencia equivalente de 66.67 kΩ
 La elección de valores específicos para las resistencias, en este caso, 100kΩ, se ha realizado con el propósito de facilitar el cálculo y confirmar la precisión del circuito al medirlo con un multímetro y obtener valores cercanos.
@@ -22,7 +22,7 @@ La elección de valores específicos para las resistencias, en este caso, 100kΩ
 
 <img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/876e565a-95a3-4a22-9bf3-70bdbe512163" alt="Descripción de la imagen">
 
-### 1.2. Ejercicio en paralelo:
+### 2.2. Ejercicio en paralelo:
 
  En este ejercicio, comenzamos por examinar detenidamente la imagen de la guía y luego procedimos a modificar la representación original para determinar si el circuito estaba configurado en serie o en paralelo.
 Al analizar la imagen, observamos que el circuito presentaba una combinación de configuraciones en serie y en paralelo. En consecuencia, sumamos las resistencias R1 y R2, ambas con un valor de 100kΩ, obteniendo un resultado de 200kΩ.
@@ -35,7 +35,7 @@ Los valores medidos se aproximaron a los teóricos, confirmándose así la preci
 
 <img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/bcc3eda9-3430-4393-97da-c1f55d489904" alt="Descripción de la imagen">
 
-## 2. **EJERCICIO NIVEL DRAGON**
+## 3. **EJERCICIO NIVEL DRAGON**
 En esta sección, procedemos a calcular el equivalente de la figura. 
 Primero, dividimos la figura original para facilitar el cálculo conforme se indica en el ejercicio. Utilizamos las resistencias en serie, las cuales presentan un único camino por el cual la corriente puede fluir.
 Seguidamente, sumamos las resistencias R1 y R3, luego, sumamos R2 con R4 y finalmente, sumamos R5 y R6 en circuitos en serie, lo que nos proporciona un valor de 200 kΩ en cada caso.

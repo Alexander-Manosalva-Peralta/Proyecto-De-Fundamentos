@@ -23,6 +23,9 @@ Posteriormente, sumamos las resistencias restantes que estaban en paralelo con R
 Después de realizar los cálculos, verificamos la validez del ejercicio utilizando un multímetro.
 Los valores medidos se aproximaron a los teóricos, confirmándose así la precisión del circuito.
 
+<img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/ccb77db1-3104-43b0-ab7a-338319b8b2a7" alt="Descripción de la imagen">
+
+
 <img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/bcc3eda9-3430-4393-97da-c1f55d489904" alt="Descripción de la imagen">
 
 ## 2. **EJERCICIO NIVEL DRAGON**

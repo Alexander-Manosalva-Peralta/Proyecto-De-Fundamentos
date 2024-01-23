@@ -28,9 +28,7 @@ Colocan las imagenes
 
 **El voltaje de salida debe de ser de 1.1 en la siguiente figura:**
 
-![Propio](../../Imagenes/1.1.png)
-
-![Texto Alternativo](../Imagenes/1.1.png)
+<img src="../../../Imagenes/1.1.png" alt="Texto Alternativo" style="width:500px; height:300px; border: 1px solid #000; border-radius: 10px;">
 
 **Fórmula:**
 

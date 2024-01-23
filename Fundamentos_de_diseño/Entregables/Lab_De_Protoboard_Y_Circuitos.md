@@ -23,7 +23,8 @@ Los valores medidos se aproximaron a los teóricos, confirmándose así la preci
 
 <img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/bcc3eda9-3430-4393-97da-c1f55d489904" alt="Descripción de la imagen">
 
-## 2. Nombre del ejercicio 2:
+## 2. **EJERCICIO NIVEL DRAGON**
+
 
 Explican lo que hicimos
 Colocan las imagenes

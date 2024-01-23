@@ -60,17 +60,6 @@ Para obtener el resultado se tuvo que obtener la relación de la resistencia 1 c
 
 <img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/823e5e5a-00a3-4f11-a235-f9f9074b241a" alt="Descripción de la imagen">
 
-1.1V = (R2)xI = 1.1V =R2x 5/((R1+R2))
-
-R1+R2 = R2x 5/((1.1) )  
-
-  R1+R2 = R2x4.54…………..(a)
-
-ASUMIMOS: R2 = 1k ohmios
-
-R1 = R2x4.54-R2 
-
-R1 =  3.54k Ohmio
 
 **Fórmula:**
 

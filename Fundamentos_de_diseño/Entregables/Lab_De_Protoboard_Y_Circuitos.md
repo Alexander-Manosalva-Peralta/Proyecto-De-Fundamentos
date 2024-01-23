@@ -7,10 +7,10 @@ Previo a la implementación práctica, dedicamos tiempo al estudio detallado de 
 En el caso de un circuito en serie, se analizó que el voltaje es la suma de cada voltaje encontrado en cada resistencia, mientras que la intensidad permanece constante. En cambio, para un circuito en paralelo, se consideró que la intensidad es la suma de cada intensidad encontrada en cada resistencia, mientras que el voltaje es constante.
 
 
-Para identificar los valores de cada una de las resistencias, se siguió los códigos de colores así mismo nos sirvió  para poder ubicarnos qué cantidad de voltajes representan y de esa forma poder obtener mejores resultados.
-
+Para poder hubicarnos de forma ordenada identificamos los valores de cada una de las resistencias, se siguió los códigos de colores para  obtener un mejor resultado.
 
 <img width="400" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/28129d6d-8994-4efb-aabd-dbf0d2cccc62" alt="Descripción de la imagen">
+Fuente: Extraido de google
 
 ## 1.EJERCICIO NIVEL POLLITO-GATO:
 ### 1.1. Ejercicio en serie:

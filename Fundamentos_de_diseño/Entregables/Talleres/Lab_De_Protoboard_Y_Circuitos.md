@@ -83,4 +83,6 @@ Imagen
 
 ## 3. Conclusiones:
 
-....
+En conclusión, el laboratorio de manejo de protoboard y circuitos útiles proporcionó una valiosa experiencia en la aplicación práctica de los conceptos fundamentales de circuitos eléctricos. A través de la construcción de circuitos en serie, paralelo y su combinación, se fortaleció nuestra comprensión de cómo el voltaje e intensidad se comportan en diferentes configuraciones. El enfoque detallado en el estudio previo de cada componente antes de su implementación práctica demostró ser esencial para el éxito de los experimentos.
+En conjunto, este laboratorio no solo consolidó los fundamentos teóricos, sino que también enfatizó la importancia de la precisión en la implementación práctica de circuitos eléctricos. La combinación de teoría, cálculos, experimentación y simulación proporcionó una comprensión integral y aplicada de los conceptos clave en el diseño y análisis de circuitos eléctricos.
+

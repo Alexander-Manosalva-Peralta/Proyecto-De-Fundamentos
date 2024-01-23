@@ -28,7 +28,7 @@ Colocan las imagenes
 
 **El voltaje de salida debe de ser de 1.1 en la siguiente figura:**
 
-<img src="../../Imagenes/1.1.jpg" alt="Propio" width="500" height="300">
+<img src="../../Imagenes/1.1.png" alt="Propio" width="500" height="300">
 
 **Fórmula:**
 

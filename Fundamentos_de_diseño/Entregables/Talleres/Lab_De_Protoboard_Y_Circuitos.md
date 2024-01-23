@@ -50,6 +50,8 @@ Una vez calculada la resistencia, pasamos armar el circuito completo en serie y 
 
 <img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/a7f699f9-8d61-4850-bdee-d628c2136773" alt="Descripción de la imagen">
 
+Fuente: Elaborado en tinkercad 
+
 ## 3. Circuito Divisor de Tensión
 
 **El voltaje de salida debe de ser de 1.1 en la siguiente figura:**

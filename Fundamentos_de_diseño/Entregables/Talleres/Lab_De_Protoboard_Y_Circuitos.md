@@ -54,6 +54,8 @@ Fuente: Elaborado en tinkercad
 
 ## 3. Circuito Divisor de Tensión
 
+Para obtener el resultado se tuvo que obtener la relación de la resistencia 1 con la resistencia 2.  En el protoboard para hallar la resistencia de 3.54k ohms se usó tres resistencias en serie y dos en paralelo, todas equivalentes a 1k ohmios. También el resistor 2 equivale a 1 ohms.
+
 **El voltaje de salida debe de ser de 1.1 en la siguiente figura:**
 
 <img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/823e5e5a-00a3-4f11-a235-f9f9074b241a" alt="Descripción de la imagen">

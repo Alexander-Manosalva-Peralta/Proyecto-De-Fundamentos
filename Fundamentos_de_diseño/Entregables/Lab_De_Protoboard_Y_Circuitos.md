@@ -8,7 +8,9 @@ Para identificar los valores de cada una de las resistencias, se siguío los có
 ## 1.EJERCICIO NIVEL POLLITO-GATO:
 ### 1.1. Ejercicio en serie:
 
-La R1 y la R2 están en serie se realiza la suma directa y el resultado es 200 kΩ se saca con la R3 la suma inversa sale 66.67 kΩ , al ser medido con multitester y dar valores cercanos, se confirma que está correcto el circuito.  
+Las resistencias R1 y R2, ambas con un valor de 100kΩ, están conectadas en serie, lo que nos lleva a realizar una suma directa y obtener un resultado de 200 kΩ. Posteriormente, al sumar la inversa de este valor con la resistencia R3 (también de 100kΩ), obtenemos una resistencia equivalente de 66.67 kΩ
+La elección de valores específicos para las resistencias, en este caso, 100kΩ, se ha realizado con el propósito de facilitar el cálculo y confirmar la precisión del circuito al medirlo con un multímetro y obtener valores cercanos.
+
 
 
 Explican lo que hicimos
@@ -16,8 +18,14 @@ Colocan las imagenes
 **Si hay recultados lo colocan**
 
 ### 1.2. Ejercicio en paralelo:
-Explican lo que hicimos
-Colocan las imagenes
+
+ En este ejercicio, comenzamos por examinar detenidamente la imagen de la guía y luego procedimos a modificar la representación original para determinar si el circuito estaba configurado en serie o en paralelo.
+Al analizar la imagen, observamos que el circuito presentaba una combinación de configuraciones en serie y en paralelo. En consecuencia, sumamos las resistencias R1 y R2, ambas con un valor de 100kΩ, obteniendo un resultado de 200kΩ.
+Posteriormente, sumamos las resistencias restantes que estaban en paralelo con R1 y R2. Para obtener este valor, aplicamos el cálculo considerando la inversa.
+Después de realizar los cálculos, verificamos la validez del ejercicio utilizando un multímetro.
+Los valores medidos se aproximaron a los teóricos, confirmándose así la precisión del circuito.
+
+
 
 **Si hay resultados lo colocan**
 

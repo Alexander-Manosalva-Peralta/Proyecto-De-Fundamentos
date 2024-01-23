@@ -1,6 +1,8 @@
 # Resolución del laboratorio de manejo de protoboard y circuitos útiles: Fundamentos de Diseño
 
-Acá colocan la introducción
+**INTRODUCCION**
+Para identificar los valores de cada una de las resistencias, se siguió los códigos de colores.
+
 
 ## 1. COLOCAN EL TITULO DEL EJERCICIO:
 ### 1.1. Ejercicio en serie:

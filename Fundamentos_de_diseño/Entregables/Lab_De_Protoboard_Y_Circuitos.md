@@ -13,7 +13,7 @@ La elección de valores específicos para las resistencias, en este caso, 100kΩ
 
 <img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/fd5c8ace-5073-4000-981f-91258ce54451" alt="Descripción de la imagen">
 
-<img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/bcc3eda9-3430-4393-97da-c1f55d489904" alt="Descripción de la imagen">
+<img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/876e565a-95a3-4a22-9bf3-70bdbe512163" alt="Descripción de la imagen">
 
 ### 1.2. Ejercicio en paralelo:
 

@@ -44,8 +44,7 @@ Posteriormente, tomamos la inversa de cada suma y calculamos la resistencia equi
 
 Una vez calculada la resistencia, pasamos armar el circuito completo en serie y comprobamos mediante nuestro multímetro el valor obtenido de dicha resistencia.
 
-
-
+<img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/44733fb1-2d79-4a38-b4cc-4ff7fbc93fe6" alt="Descripción de la imagen">
 
 
 

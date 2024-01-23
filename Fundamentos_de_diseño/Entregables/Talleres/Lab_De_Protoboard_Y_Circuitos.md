@@ -49,6 +49,7 @@ Una vez calculada la resistencia, pasamos armar el circuito completo en serie y 
 
 <img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/34f4fc8e-24f8-4a9c-ad69-4f76fc84466c" alt="Descripción de la imagen">
 
+<img width="600" height="300" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/3d37ae1b-1e70-416f-9af8-df3897412b14" alt="Descripción de la imagen">
 
 ## 3. Circuito Divisor de Tensión
 

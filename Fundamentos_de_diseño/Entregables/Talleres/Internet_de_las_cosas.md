@@ -101,6 +101,31 @@ printGroupMessageWithDesign() muestra el mensaje "Grupo 9" con un diseño espec�
 
 ### 3.3 Cambiar el nivel de temperatura
 
+Al verificar la función de arduino, decidimos seguir los pasos de la guía Explore loT para cambiar el nivel de la temperatura, el programa detectó la diferencia de nivel usando cambios de colores led integradas mostrando color rojo y verde dependiendo de la temperatura que mantenga el ambiente. 
+EL código que se colocó fue la siguiente:
+
+Void loop() {
+    // read the sensor values
+    temperatura = carrier.Env. readHumidity();
+
+    //update touch buttons
+    carrier.Buttons.update();
+    //print each of the sensor value
+    serial.print("temperatura = ");
+    serial.print(temperatura);
+    serial.print("A ° C");
+
+    Serial.print("Humidity= ");
+    serial.print(humidity);
+    serial.println(" % ")
+
+    //function to print out values
+    if (carrier.Buttons.onTouchDown(TOUCH0)) {
+        print Temperature();
+
+    )
+Al verificar el código se subió al arduino para que nos de valores de la temperatura, como se puede observar en las dos imágenes son diferentes colores lo cual nos dice si es frio o calor.
+
 
 ## 4. Conclusiones
 

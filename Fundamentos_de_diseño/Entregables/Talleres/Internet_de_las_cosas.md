@@ -5,17 +5,16 @@
 ## 1. INTRODUCCIÓN
  En el presente informe se dará a conocer lo que se desarrolló en el laboratorio N° 04, Donde se usó el kit de Arduino IoT. En esta sección, conoceremos el Arduino MKR WIFI 1010, el Arduino Web Editor y la MKR IoT Carrier. Además, se realizaron algunos proyectos básicos como medir la temperatura, la humedad y la visualización de datos. En este proyecto aprenderemos cómo registrar la temperatura y la humedad con la ayuda del sensor HTS221 lo cual está incluido en el MKR IoT Carrier. Los códigos se editan en el Arduino Web Editor, así como en el Arduino IDE, estos datos registrados se envían del ordenador al Arduino a través del puerto serial y se ejecuta el programa, pero también los datos se muestran en la pantalla del ordenador. El programa ejecutado se puede ver su funcionalidad en la pantalla donde muestra los resultados, por ejemplo, los colores y temperatura, estos resultados se pueden controlar cambiando los códigos de ejecución y utilizando los botones capacitivos que están conectados al MKR IoT Carrier.
 
-Imagen
- 
-**Fuente si es que hay**
 
-### 2. Características y componentes de Internet de las cosas (IoT)
+
+## 2. CARACTERISTICAS Y COMPONENTES DE INTERNET DE LAS COSAS (IOT): 
+
 Durante la actividad usamos diferentes instrumentos los cuales nos permitieron realizar conexiones inalámbricas a ordenadores a través del bluetooth y el wi-Fi, en esta sesión exploramos principalmente dos elementos como parte de nuestros instrumentos como son: la placa Arduino MKR WiFi 1010 y la MKR IoT Carrier, los cuales nos proporciona hardware esencial para la implementación de proyectos IoT y Arduino Cloud así mismo esta se integra con la plataforma en línea de Arduino Cloud que permite esquematizar la placa, conectar dispositivos, explorar proyectos en Arduino Project Hub y gestionar placas de forma remota a través de Arduino Device Manager.
 
 En esta actividad empezamos emsanblando las placas para posteriormente implementar los códigos nesesarios, para ello iniciamos montando la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carrier, seguidamente pasamos a conectarlo a nuestro ordenador a través de un cable USB para que funcione y a la vez pueda transmitir el código implementado. Finalmente, realizamos muchas pruebas como la lectura de temperatura y humedad, para poder familiarizarnos ya que este tipo de actividades  era nuevo para alguno de nosotros.
 
 
-## 3. Ejercicios
+## 3. EJERCICIOS
 ### 3.1 Ejecutar el código de la sección "Conoce el kit"
 **LECTURA DE TEMPERATURA** 
 
@@ -79,7 +78,6 @@ void loop() {
 }
 ```
 
-
 `printTemperature()`  esta configurada para que la pantalla pueda mostrar la temperatura en un fondo rojo y texto blanco. Luego imprime el valor de la temperatura en la pantalla.
 `printHumidity()` configura la pantalla para mostrar la humedad en un fondo azul y texto blanco. Luego imprime el valor de la humedad en la pantalla.
 ```cpp
@@ -111,6 +109,9 @@ void printHumidity() {
   carrier.display.println(" %");
 }
 ```
+
+## FOTO DE LOS RESULTADOS
+<img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/celcius.jpg?raw=true" alt="Texto alternativo" width="300"/>
 
 
 ### 3.2 Cambiar datos de Celsius, Fahrenheit y Kelvin
@@ -213,7 +214,7 @@ Como se puede observar en el imagen se muestra dos colores rojo y verde dependie
 <img width="600" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/ab38aebd-5bda-4fd6-b7df-0b23616a5e8a" alt="Descripción de la imagen"> 
 
 
-## 4. Conclusión
+## 4. CONCLUSIÓN
 
 Finalmente en este presente taller desarrollamos los ejercicios propuestos en la guía, de los cuales se llega a concluir que cumplimos con la mayoría de  de los objetivos planteados, mencionando que tuvimos dificultades en ciertos aspectos que no favorecieron nuestro nivel de aprendizaje, por ejemplo en el objetivo 3 no llegamos a concluir completamente pero llegamos a detectaremos mediante el MKR IoT Carrier los colores del nivel de temperatura y humedad, esto debido al nivel de dificultad de encontrar los códigos respectivos.
 

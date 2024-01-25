@@ -19,8 +19,11 @@ Imagen
 LECTURA DE TEMPERATURA
 
 Para leer los valores del sensor de temperatura, incluimos una biblioteca específica llamada Arduino_MKRIoTCarrier.
+
 #include <Arduino_MKRIoTCarrier.h>
+
 La biblioteca muestra el sensor con el método llamado readTemperature() al que se puede llamar a través del objeto carrier que se construye y expone al inicializar la biblioteca.
+
 Se puede acceder a todos los sensores del MKR IoT Carrier llamando a la línea de comando carrier.readSensor () donde readSensor () tiene que corresponder con el sensor real que se está verificando. En nuestro caso, es la temperatura, por lo que el método se llama readTemperature ().
 
 ### 3.2 Cambiar datos de Celsius, Fahrenheit y Kelvin

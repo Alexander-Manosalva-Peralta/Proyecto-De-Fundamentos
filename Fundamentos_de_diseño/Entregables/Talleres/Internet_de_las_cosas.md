@@ -12,7 +12,15 @@
 Durante la actividad usamos diferentes instrumentos los cuales nos permitieron realizar conexiones inalámbricas a ordenadores a través del bluetooth y el wi-Fi, en esta sesión exploramos principalmente dos elementos como parte de nuestros instrumentos como son: la placa Arduino MKR WiFi 1010 y la MKR IoT Carrier, los cuales nos proporciona hardware esencial para la implementación de proyectos IoT y Arduino Cloud así mismo esta se integra con la plataforma en línea de Arduino Cloud que permite esquematizar la placa, conectar dispositivos, explorar proyectos en Arduino Project Hub y gestionar placas de forma remota a través de Arduino Device Manager.
 
 En esta actividad empezamos emsanblando las placas para posteriormente implementar los códigos nesesarios, para ello iniciamos montando la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carrier, seguidamente pasamos a conectarlo a nuestro ordenador a través de un cable USB para que funcione y a la vez pueda transmitir el código implementado. Finalmente, realizamos muchas pruebas como la lectura de temperatura y humedad, para poder familiarizarnos ya que este tipo de actividades  era nuevo para alguno de nosotros.
+## ENSAMBLAJE
+-Reconocemos los componentes para realizar un montaje correcto,primero destapamos la cápsula que contendrá al Arduino MKR WiFi 1010 y el MKR IoT Carrier.
+<img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/destapar.jpg?raw=true" alt="Texto alternativo" width="300"/>
 
+-Se montó la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carrier y conectarlo a nuestro ordenador para que funcione. verificando que los números de los pines y el soporte sean los correctos.
+<img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/arduino.jpg?raw=true" alt="Texto alternativo" width="300"/>
+
+-Para finalizar se pone la placa Arduino MKR WIFI 1010 la MKR IoT carrier         dentro de la cápsula y procedemos a taparla.
+<img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/ensamb.jpg?raw=true" alt="Texto alternativo" width="300"/>
 
 ## 3. EJERCICIOS
 ### 3.1 Ejecutar el código de la sección "Conoce el kit"

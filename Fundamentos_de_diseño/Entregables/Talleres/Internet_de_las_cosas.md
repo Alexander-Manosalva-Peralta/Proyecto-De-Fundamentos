@@ -16,7 +16,7 @@ Durante la actividad usamos diferentes instrumentos los cuales nos permitieron r
 En esta actividad empezamos emsanblando las placas para posteriormente implementar los códigos nesesarios, para ello iniciamos montando la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carrier, seguidamente pasamos a conectarlo a nuestro ordenador a través de un cable USB para que funcione y a la vez pueda transmitir el código implementado. Finalmente, realizamos muchas pruebas como la lectura de temperatura y humedad, para poder familiarizarnos ya que este tipo de actividades  era nuevo para alguno de nosotros.
 
 
-## 3. EJERCÍCIOS
+## 3. EJERCICIOS
 ### 3.1 Ejecutar el código de la sección "Conoce el kit"
 **LECTURA DE TEMPERATURA** 
 

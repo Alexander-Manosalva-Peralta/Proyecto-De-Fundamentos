@@ -111,7 +111,6 @@ void printHumidity() {
 }
 ```
 
-[![temperatura.jpg](https://1drv.ms/i/s!ApQ0BTGQNUaJoxmsdzf-5Bt441Gk?e=ySSb5D)](https://1drv.ms/i/s!ApQ0BTGQNUaJoxmsdzf-5Bt441Gk?e=I2s3Zw)
 
 ### 3.2 Cambiar datos de Celsius, Fahrenheit y Kelvin
 

@@ -16,15 +16,98 @@ Imagen
 
 ## 3. Ejercicios
 ### 3.1 Ejecutar el código de la sección "Conoce el kit"
-LECTURA DE TEMPERATURA
-
+LECTURA DE TEMPERATURA 
 Para leer los valores del sensor de temperatura, incluimos una biblioteca específica llamada Arduino_MKRIoTCarrier.
+El rango de temperatura oscila entre -40 y +120 (° C) y la precisión es de ± 0,5 ° C en el rango de 15 a +40 ° C.
 
+LECTURA DE HUMEDAD 
+La medida de humedad hecha de esta manera es el resultado de la presión y la temperatura del agua. Para ello utilizamos el método llamado  `readHumidity ()`  que devuelve la humedad en porcentaje. El rango de humedad oscila entre ± 3.5% rH (humedad relativa), a 20 (°C) y +80% rH. La sensibilidad de la rH es de 0.004% rH.
+
+VISUALIZACIÓN Y CONSTRUCCIÓN DEL CODIGO
+
+Incluimos una biblioteca específica llamada `Arduino_MKRIoTCarrier. ` 
+Se declaran variables de temperatura y humedad. 
+La función setup, se inicia con una velocidad de 9600, se configura la variable CARRIER_CASE que podemos cambiarlo por true para indicar que usa la capsula.
+
+```cpp
 #include <Arduino_MKRIoTCarrier.h>
+MKRIoTCarrier carrier;
 
-La biblioteca muestra el sensor con el método llamado readTemperature() al que se puede llamar a través del objeto carrier que se construye y expone al inicializar la biblioteca.
+float temperature = 0;
+float humidity = 0;
 
-Se puede acceder a todos los sensores del MKR IoT Carrier llamando a la línea de comando carrier.readSensor () donde readSensor () tiene que corresponder con el sensor real que se está verificando. En nuestro caso, es la temperatura, por lo que el método se llama readTemperature ().
+void setup() {
+
+  Serial.begin(9600);
+  CARRIER_CASE = false;
+
+  carrier.begin();
+}
+```
+En la función `loop()`, se leen los valores de temperatura y humedad del sensor, además se actualizan los botones táctiles con `carrier.Buttons.update()`.
+Se verifica si se ha tocado alguno de los botones táctiles (TOUCH0 o TOUCH1) y se llama a la función correspondiente.
+
+```cpp
+void loop() {
+  // Lee los valores del sensor de temperatura y humedad
+  temperature = carrier.Env.readTemperature();
+  humidity = carrier.Env.readHumidity();
+
+  // Actualiza los botones táctiles
+  carrier.Buttons.update();
+
+  // Imprime cada uno de los valores del sensor en el monitor serial
+  Serial.print("Temperature = ");
+  Serial.print(temperature);
+  Serial.println(" °C");
+
+  Serial.print("Humidity = ");
+  Serial.print(humidity);
+  Serial.println(" %");
+
+  // Funciones para imprimir los valores en la pantalla táctil al tocar los botones
+  if (carrier.Buttons.onTouchDown(TOUCH0)) {
+    printTemperature();
+  }
+
+  if (carrier.Buttons.onTouchDown(TOUCH1)) {
+    printHumidity();
+  }
+}
+```
+
+
+`printTemperature()`  esta configurada para que la pantalla pueda mostrar la temperatura en un fondo rojo y texto blanco. Luego imprime el valor de la temperatura en la pantalla.
+`printHumidity()` configura la pantalla para mostrar la humedad en un fondo azul y texto blanco. Luego imprime el valor de la humedad en la pantalla.
+```cpp
+void printTemperature() {
+  // Configuración de la pantalla: fondo rojo, texto blanco, tamaño de texto grande
+  carrier.display.fillScreen(ST77XX_RED);
+  carrier.display.setTextColor(ST77XX_WHITE);
+  carrier.display.setTextSize(6);
+
+  // Posiciona el cursor y imprime la temperatura en la pantalla
+  carrier.display.setCursor(30, 50);
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4);
+  carrier.display.setCursor(40, 120);
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+}
+
+void printHumidity() {
+  // Configuración de la pantalla: fondo azul, texto blanco, tamaño de texto mediano
+  carrier.display.fillScreen(ST77XX_BLUE);
+  carrier.display.setTextColor(ST77XX_WHITE);
+  carrier.display.setTextSize(2);
+
+  // Posiciona el cursor y imprime la humedad en la pantalla
+  carrier.display.setCursor(20, 110);
+  carrier.display.print("Humi: ");
+  carrier.display.print(humidity);
+  carrier.display.println(" %");
+}
+```
 
 ### 3.2 Cambiar datos de Celsius, Fahrenheit y Kelvin
 

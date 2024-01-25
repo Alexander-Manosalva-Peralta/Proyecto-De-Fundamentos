@@ -16,16 +16,16 @@ Imagen
 
 ## 3. Ejercicios
 ### 3.1 Ejecutar el código de la sección "Conoce el kit"
-##LECTURA DE TEMPERATURA 
+**LECTURA DE TEMPERATURA** 
 
 Para leer los valores del sensor de temperatura, incluimos una biblioteca específica llamada Arduino_MKRIoTCarrier.
 El rango de temperatura oscila entre -40 y +120 (° C) y la precisión es de ± 0,5 ° C en el rango de 15 a +40 ° C.
 
-##LECTURA DE HUMEDAD 
+**LECTURA DE HUMEDAD** 
 
 La medida de humedad hecha de esta manera es el resultado de la presión y la temperatura del agua. Para ello utilizamos el método llamado  `readHumidity ()`  que devuelve la humedad en porcentaje. El rango de humedad oscila entre ± 3.5% rH (humedad relativa), a 20 (°C) y +80% rH. La sensibilidad de la rH es de 0.004% rH.
 
-##VISUALIZACIÓN Y CONSTRUCCIÓN DEL CODIGO
+**VISUALIZACIÓN Y CONSTRUCCIÓN DEL CODIGO**
 
 Incluimos una biblioteca específica llamada `Arduino_MKRIoTCarrier. ` 
 Se declaran variables de temperatura y humedad. 

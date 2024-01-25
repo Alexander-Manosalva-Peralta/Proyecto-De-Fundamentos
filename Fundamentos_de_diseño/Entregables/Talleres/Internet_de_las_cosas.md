@@ -111,6 +111,8 @@ void printHumidity() {
 }
 ```
 
+https://1drv.ms/i/s!ApQ0BTGQNUaJoxmsdzf-5Bt441Gk?e=ySSb5D
+
 ### 3.2 Cambiar datos de Celsius, Fahrenheit y Kelvin
 
 En este ejercicio, se solicitó la visualización de las temperaturas en Fahrenheit, Celsius y Kelvin recopiladas por el sensor HTS221 (sensor de humedad y temperatura) en la pantalla del MKR IoT Carrier al precionar uno de los touch, en este caso nosotros utilizamos el touch0. Inicialmente, se implementaron líneas de código en Arduino para mostrar la temperatura solo en Celsius. La función inicial se presenta a continuación:

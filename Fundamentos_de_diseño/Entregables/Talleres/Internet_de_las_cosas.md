@@ -206,7 +206,7 @@ Void loop() {
     )
 Al verificar el código se subió al arduino para que nos de valores de la temperatura, como se puede observar en las dos imágenes son diferentes colores lo cual nos dice si es calor o frio.
 
-Como se puede observar en el imagen se muestra dos colores rojo indica que es la temperatura y verde la humedad del ambiente.
+Como se puede observar en el imagen se muestra dos colores rojo y verde dependiendo del ambiente.
 <img width="600" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/ab38aebd-5bda-4fd6-b7df-0b23616a5e8a" alt="Descripción de la imagen"> 
 
 

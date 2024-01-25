@@ -78,7 +78,6 @@ void loop() {
   }
 }
 ```
-![](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/celcius.jpg?raw=true)
 
 `printTemperature()`  esta configurada para que la pantalla pueda mostrar la temperatura en un fondo rojo y texto blanco. Luego imprime el valor de la temperatura en la pantalla.
 `printHumidity()` configura la pantalla para mostrar la humedad en un fondo azul y texto blanco. Luego imprime el valor de la humedad en la pantalla.
@@ -113,6 +112,8 @@ void printHumidity() {
 ```
 
 ## FOTO DE LOS RESULTADOS
+![](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/celcius.jpg?raw=true)
+
 
 ### 3.2 Cambiar datos de Celsius, Fahrenheit y Kelvin
 

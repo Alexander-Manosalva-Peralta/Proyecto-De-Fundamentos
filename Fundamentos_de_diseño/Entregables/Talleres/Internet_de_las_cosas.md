@@ -9,22 +9,109 @@ Imagen
  
 **Fuente si es que hay**
 
-## 2. PROCEDIMIENTO
-### 2.1 Características y componentes de Internet de las cosas (IoT)
-### 2.2 Pones lo demás
-### 2.3 Colocas lo demás y sigues aumentando si hay más
+### 2. Características y componentes de Internet de las cosas (IoT)
+Durante la actividad usamos diferentes instrumentos los cuales nos permitieron realizar conexiones inalámbricas a ordenadores a través del bluetooth y el wi-Fi, en esta sesión exploramos principalmente dos elementos como parte de nuestros instrumentos como son: la placa Arduino MKR WiFi 1010 y la MKR IoT Carrier, los cuales nos proporciona hardware esencial para la implementación de proyectos IoT y Arduino Cloud así mismo esta se integra con la plataforma en línea de Arduino Cloud que permite esquematizar la placa, conectar dispositivos, explorar proyectos en Arduino Project Hub y gestionar placas de forma remota a través de Arduino Device Manager.
+
+En esta actividad empezamos emsanblando las placas para posteriormente implementar los códigos nesesarios, para ello iniciamos montando la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carrier, seguidamente pasamos a conectarlo a nuestro ordenador a través de un cable USB para que funcione y a la vez pueda transmitir el código implementado. Finalmente, realizamos muchas pruebas como la lectura de temperatura y humedad, para poder familiarizarnos ya que este tipo de actividades  era nuevo para alguno de nosotros.
+
 
 ## 3. Ejercicios
 ### 3.1 Ejecutar el código de la sección "Conoce el kit"
-LECTURA DE TEMPERATURA
+**LECTURA DE TEMPERATURA** 
 
 Para leer los valores del sensor de temperatura, incluimos una biblioteca específica llamada Arduino_MKRIoTCarrier.
+El rango de temperatura oscila entre -40 y +120 (° C) y la precisión es de ± 0,5 ° C en el rango de 15 a +40 ° C.
 
+**LECTURA DE HUMEDAD** 
+
+La medida de humedad hecha de esta manera es el resultado de la presión y la temperatura del agua. Para ello utilizamos el método llamado  `readHumidity ()`  que devuelve la humedad en porcentaje. El rango de humedad oscila entre ± 3.5% rH (humedad relativa), a 20 (°C) y +80% rH. La sensibilidad de la rH es de 0.004% rH.
+
+**VISUALIZACIÓN Y CONSTRUCCIÓN DEL CODIGO**
+
+Incluimos una biblioteca específica llamada `Arduino_MKRIoTCarrier. ` 
+Se declaran variables de temperatura y humedad. 
+La función setup, se inicia con una velocidad de 9600, se configura la variable CARRIER_CASE que podemos cambiarlo por true para indicar que usa la capsula.
+
+```cpp
 #include <Arduino_MKRIoTCarrier.h>
+MKRIoTCarrier carrier;
 
-La biblioteca muestra el sensor con el método llamado readTemperature() al que se puede llamar a través del objeto carrier que se construye y expone al inicializar la biblioteca.
+float temperature = 0;
+float humidity = 0;
 
-Se puede acceder a todos los sensores del MKR IoT Carrier llamando a la línea de comando carrier.readSensor () donde readSensor () tiene que corresponder con el sensor real que se está verificando. En nuestro caso, es la temperatura, por lo que el método se llama readTemperature ().
+void setup() {
+
+  Serial.begin(9600);
+  CARRIER_CASE = false;
+
+  carrier.begin();
+}
+```
+En la función `loop()`, se leen los valores de temperatura y humedad del sensor, además se actualizan los botones táctiles con `carrier.Buttons.update()`.
+Se verifica si se ha tocado alguno de los botones táctiles (TOUCH0 o TOUCH1) y se llama a la función correspondiente.
+
+```cpp
+void loop() {
+  // Lee los valores del sensor de temperatura y humedad
+  temperature = carrier.Env.readTemperature();
+  humidity = carrier.Env.readHumidity();
+
+  // Actualiza los botones táctiles
+  carrier.Buttons.update();
+
+  // Imprime cada uno de los valores del sensor en el monitor serial
+  Serial.print("Temperature = ");
+  Serial.print(temperature);
+  Serial.println(" °C");
+
+  Serial.print("Humidity = ");
+  Serial.print(humidity);
+  Serial.println(" %");
+
+  // Funciones para imprimir los valores en la pantalla táctil al tocar los botones
+  if (carrier.Buttons.onTouchDown(TOUCH0)) {
+    printTemperature();
+  }
+
+  if (carrier.Buttons.onTouchDown(TOUCH1)) {
+    printHumidity();
+  }
+}
+```
+
+
+`printTemperature()`  esta configurada para que la pantalla pueda mostrar la temperatura en un fondo rojo y texto blanco. Luego imprime el valor de la temperatura en la pantalla.
+`printHumidity()` configura la pantalla para mostrar la humedad en un fondo azul y texto blanco. Luego imprime el valor de la humedad en la pantalla.
+```cpp
+void printTemperature() {
+  // Configuración de la pantalla: fondo rojo, texto blanco, tamaño de texto grande
+  carrier.display.fillScreen(ST77XX_RED);
+  carrier.display.setTextColor(ST77XX_WHITE);
+  carrier.display.setTextSize(6);
+
+  // Posiciona el cursor y imprime la temperatura en la pantalla
+  carrier.display.setCursor(30, 50);
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4);
+  carrier.display.setCursor(40, 120);
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+}
+
+void printHumidity() {
+  // Configuración de la pantalla: fondo azul, texto blanco, tamaño de texto mediano
+  carrier.display.fillScreen(ST77XX_BLUE);
+  carrier.display.setTextColor(ST77XX_WHITE);
+  carrier.display.setTextSize(2);
+
+  // Posiciona el cursor y imprime la humedad en la pantalla
+  carrier.display.setCursor(20, 110);
+  carrier.display.print("Humi: ");
+  carrier.display.print(humidity);
+  carrier.display.println(" %");
+}
+```
+
 
 ### 3.2 Cambiar datos de Celsius, Fahrenheit y Kelvin
 
@@ -81,26 +168,56 @@ void printGroupMessageWithDesign() {
   // Mostrar mensaje "Grupo 9" con diseño específico...
 }
 ```
+## IMAGEN DE LOS RESULTADOS
 
-### *Análisis del Código*
-En esta sección del código, se realizan las inicializaciones necesarias y se procede a la lectura de la temperatura y la humedad en el bucle principal (`loop()`). Las variables `temperature` y `humidity` se actualizan con los valores del sensor HTS221.
 
-### *Cambiar Unidad de Temperatura*
-La función `switchTemperatureUnit()` es responsable de cambiar la unidad de temperatura actual entre Celsius, Kelvin y Fahrenheit. Este cambio es activado al tocar el botón táctil `TOUCH0`.
+|   **Análisis del Código**   | **Cambiar unidad de temperatura** | **Mostrar Temperatura** | **Mostrar Mensaje con Diseño** |
+|--------------------------|----------------------------------|--------------------------|--------------------------------|
+| En esta sección del código, se realizan las inicializaciones necesarias y se procede a la lectura de la temperatura y la humedad en el bucle principal (`loop()`). Las variables `temperature` y `humidity` se actualizan con los valores del sensor HTS221. | La función `switchTemperatureUnit()` es responsable de cambiar la unidad de temperatura actual entre Celsius, Kelvin y Fahrenheit. Este cambio se activa al tocar el botón táctil `TOUCH0`. | La función `printTemperature()` se encarga de imprimir la temperatura en la pantalla del MKR IoT Carrier. Utiliza un `switch` para adaptar la visualización según la unidad seleccionada (Celsius, Kelvin o Fahrenheit). Se han definido variables adicionales como `temperatureF` y `temperatureK` para las conversiones entre unidades. | `printGroupMessageWithDesign()` muestra el mensaje "Grupo 9" con un diseño específico en la pantalla al tocar `TOUCH0`.|
 
-### *Mostrar Temperatura*
-La función `printTemperature()` se encarga de imprimir la temperatura en la pantalla del MKR IoT Carrier. Utiliza un `switch` para adaptar la visualización según la unidad seleccionada (Celsius, Kelvin o Fahrenheit). Se han definido variables adicionales como `temperatureF` y `temperatureK` para las conversiones entre unidades.
+<a href="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/raw/main/Imagenes/CFK.mp4">
+  <img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/raw/main/Imagenes/Temp.jpg" width="400" height="300" alt="Haz clic para ver el video">
+</a>
 
-### *Mostrar Humedad*
-La función `printHumidity()` imprime la humedad en un formato específico en la pantalla cuando se toca el botón `TOUCH1`.
-
-### *Mostrar Mensaje con Diseño:*
-
-printGroupMessageWithDesign() muestra el mensaje "Grupo 9" con un diseño específico en la pantalla al tocar TOUCH0
+Dar clic en la imagen para ver el video.
 
 
 ### 3.3 Cambiar el nivel de temperatura
 
+Al verificar la función de arduino, decidimos seguir los pasos de la guía Explore loT para cambiar el nivel de la temperatura, el programa detectó la diferencia de nivel usando cambios de colores led integradas mostrando color rojo y verde dependiendo de la temperatura que mantenga el ambiente. 
+EL código que se colocó fue la siguiente:
 
-## 4. Conclusiones
+Void loop() {
+    // read the sensor values
+    temperatura = carrier.Env. readHumidity();
+
+    //update touch buttons
+    carrier.Buttons.update();
+    //print each of the sensor value
+    serial.print("temperatura = ");
+    serial.print(temperatura);
+    serial.print("A ° C");
+
+    Serial.print("Humidity= ");
+    serial.print(humidity);
+    serial.println(" % ")
+
+    //function to print out values
+    if (carrier.Buttons.onTouchDown(TOUCH0)) {
+        print Temperature();
+
+    )
+Al verificar el código se subió al arduino para que nos de valores de la temperatura, como se puede observar en las dos imágenes son diferentes colores lo cual nos dice si es calor o frio.
+
+Como se puede observar en el imagen se muestra dos colores rojo y verde dependiendo del ambiente.
+<img width="600" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/ab38aebd-5bda-4fd6-b7df-0b23616a5e8a" alt="Descripción de la imagen"> 
+
+
+## 4. Conclusión
+
+Finalmente en este presente taller desarrollamos los ejercicios propuestos en la guía, de los cuales se llega a concluir que cumplimos con la mayoría de  de los objetivos planteados, mencionando que tuvimos dificultades en ciertos aspectos que no favorecieron nuestro nivel de aprendizaje, por ejemplo en el objetivo 3 no llegamos a concluir completamente pero llegamos a detectaremos mediante el MKR IoT Carrier los colores del nivel de temperatura y humedad, esto debido al nivel de dificultad de encontrar los códigos respectivos.
+
+A pesar de enfrentar estas dificultades mencionadas, el equipo 9 demostró realizar estos ajustes en tiempo real y aprender de las dificultades encontradas, dado que, la importancia de concluir satisfactoriamente cada actividad es sumamente importante para nosotros. La capacidad de reflexionar sobre los desafíos enfrentados y las lecciones aprendidas no solo resultará en un crecimiento personal, sino que también contribuirá al fortalecimiento y la mejora continua del equipo en futuros proyectos. Estos aprendizajes proporcionan una base valiosa permitiéndonos un enfoque más efectivo y una mayor eficiencia en el diseño e implementación de soluciones en el ámbito de la monitorización haciendo uso de las  tecnologías de IoT.
+
+
 

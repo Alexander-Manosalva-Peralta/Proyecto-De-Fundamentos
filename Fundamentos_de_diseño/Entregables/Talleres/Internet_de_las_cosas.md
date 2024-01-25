@@ -169,7 +169,7 @@ void printGroupMessageWithDesign() {
 }
 ```
 ## IMAGEN DE LOS RESULTADOS
-![](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/Temp.jpg?raw=true)
+
 
 |   **Análisis del Código**   | **Cambiar unidad de temperatura** | **Mostrar Temperatura** | **Mostrar Mensaje con Diseño** |
 |--------------------------|----------------------------------|--------------------------|--------------------------------|

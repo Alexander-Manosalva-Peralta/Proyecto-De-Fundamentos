@@ -28,13 +28,9 @@ Se puede acceder a todos los sensores del MKR IoT Carrier llamando a la línea d
 
 ### 3.2 Cambiar datos de Celsius, Fahrenheit y Kelvin
 
-# Ejercicio de Conversión de Temperaturas en MKR IoT Carrier
+En este ejercicio, se solicitó la visualización de las temperaturas en Fahrenheit, Celsius y Kelvin recopiladas por el sensor HTS221 (sensor de humedad y temperatura) en la pantalla del MKR IoT Carrier al precionar uno de los touch, en este caso nosotros utilizamos el touch0. Inicialmente, se implementaron líneas de código en Arduino para mostrar la temperatura solo en Celsius. La función inicial se presenta a continuación:
 
-En este ejercicio, se solicitó la visualización de las temperaturas en Fahrenheit, Celsius y Kelvin recopiladas por el sensor HTS221 (sensor de humedad y temperatura) en la pantalla del MKR IoT Carrier. Inicialmente, se implementaron líneas de código en Arduino para mostrar la temperatura solo en Celsius. La función inicial se presenta a continuación:
-
-El objetivo del código es mostrar la temperatura y humedad en diferentes unidades (Celsius, Fahrenheit, Kelvin) en la pantalla del MKR IoT Carrier. Se implementaron funciones para cambiar entre unidades y mostrar la información en el formato deseado.
-
-## Código Original
+### *Código*
 
 ```cpp
 #include <AirQualityClass.h>
@@ -86,20 +82,21 @@ void printGroupMessageWithDesign() {
 }
 ```
 
-# Análisis del Código
-
-## Inicialización y Lectura
+### *Análisis del Código*
 En esta sección del código, se realizan las inicializaciones necesarias y se procede a la lectura de la temperatura y la humedad en el bucle principal (`loop()`). Las variables `temperature` y `humidity` se actualizan con los valores del sensor HTS221.
 
-## Cambiar Unidad de Temperatura
+### *Cambiar Unidad de Temperatura*
 La función `switchTemperatureUnit()` es responsable de cambiar la unidad de temperatura actual entre Celsius, Kelvin y Fahrenheit. Este cambio es activado al tocar el botón táctil `TOUCH0`.
 
-## Mostrar Temperatura
+### *Mostrar Temperatura*
 La función `printTemperature()` se encarga de imprimir la temperatura en la pantalla del MKR IoT Carrier. Utiliza un `switch` para adaptar la visualización según la unidad seleccionada (Celsius, Kelvin o Fahrenheit). Se han definido variables adicionales como `temperatureF` y `temperatureK` para las conversiones entre unidades.
 
-## Mostrar Humedad
+### *Mostrar Humedad*
 La función `printHumidity()` imprime la humedad en un formato específico en la pantalla cuando se toca el botón `TOUCH1`.
 
+### *Mostrar Mensaje con Diseño:*
+
+printGroupMessageWithDesign() muestra el mensaje "Grupo 9" con un diseño específico en la pantalla al tocar TOUCH0
 
 
 ### 3.3 Cambiar el nivel de temperatura

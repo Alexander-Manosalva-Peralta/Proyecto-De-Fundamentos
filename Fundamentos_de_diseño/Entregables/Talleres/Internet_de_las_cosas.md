@@ -84,7 +84,7 @@ void printHumidity() {
 void printGroupMessageWithDesign() {
   // Mostrar mensaje "Grupo 9" con diseño específico...
 }
-```cpp
+```
 
 # Análisis del Código
 

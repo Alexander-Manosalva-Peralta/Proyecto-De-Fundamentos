@@ -166,12 +166,11 @@ void printGroupMessageWithDesign() {
   // Mostrar mensaje "Grupo 9" con diseño específico...
 }
 ```
-| **Análisis del Código** | **Cambiar unidad de temperatura** | **Mostrar Temperatura** | **Mostrar Mensaje con Diseño** |
+|   **Análisis del Código**   | **Cambiar unidad de temperatura** | **Mostrar Temperatura** | **Mostrar Mensaje con Diseño** |
 |--------------------------|----------------------------------|--------------------------|--------------------------------|
 | En esta sección del código, se realizan las inicializaciones necesarias y se procede a la lectura de la temperatura y la humedad en el bucle principal (`loop()`). Las variables `temperature` y `humidity` se actualizan con los valores del sensor HTS221. | La función `switchTemperatureUnit()` es responsable de cambiar la unidad de temperatura actual entre Celsius, Kelvin y Fahrenheit. Este cambio se activa al tocar el botón táctil `TOUCH0`. | La función `printTemperature()` se encarga de imprimir la temperatura en la pantalla del MKR IoT Carrier. Utiliza un `switch` para adaptar la visualización según la unidad seleccionada (Celsius, Kelvin o Fahrenheit). Se han definido variables adicionales como `temperatureF` y `temperatureK` para las conversiones entre unidades. | `printGroupMessageWithDesign()` muestra el mensaje "Grupo 9" con un diseño específico en la pantalla al tocar `TOUCH0`. |
 
-
-[![Vista Previa de CFK](../../../../Imagenes/CFK_thumbnail.png)](../../../../Imagenes/CFK.mp4)
+[Ver Video CFK](../../../../Imagenes/CFK.mp4)
 
 
 

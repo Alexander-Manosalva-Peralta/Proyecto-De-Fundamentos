@@ -9,10 +9,11 @@ Imagen
  
 **Fuente si es que hay**
 
-## 2. PROCEDIMIENTO
-### 2.1 Características y componentes de Internet de las cosas (IoT)
-### 2.2 Pones lo demás
-### 2.3 Colocas lo demás y sigues aumentando si hay más
+### 2. Características y componentes de Internet de las cosas (IoT)
+Durante la actividad usamos diferentes instrumentos los cuales nos permitieron realizar conexiones inalámbricas a ordenadores a través del bluetooth y el wi-Fi, en esta sesión exploramos principalmente dos elementos como parte de nuestros instrumentos como son: la placa Arduino MKR WiFi 1010 y la MKR IoT Carrier, los cuales nos proporciona hardware esencial para la implementación de proyectos IoT y Arduino Cloud así mismo esta se integra con la plataforma en línea de Arduino Cloud que permite esquematizar la placa, conectar dispositivos, explorar proyectos en Arduino Project Hub y gestionar placas de forma remota a través de Arduino Device Manager.
+
+En esta actividad empezamos emsanblando las placas para posteriormente implementar los códigos nesesarios, para ello iniciamos montando la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carrier, seguidamente pasamos a conectarlo a nuestro ordenador a través de un cable USB para que funcione y a la vez pueda transmitir el código implementado. Finalmente, realizamos muchas pruebas como la lectura de temperatura y humedad, para poder familiarizarnos ya que este tipo de actividades  era nuevo para alguno de nosotros.
+
 
 ## 3. Ejercicios
 ### 3.1 Ejecutar el código de la sección "Conoce el kit"

@@ -111,7 +111,7 @@ void printHumidity() {
 ```
 
 ## FOTO DE LOS RESULTADOS
-<img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/celcius.jpg?raw=true" alt="Texto alternativo" width="300"/>
+<img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/celcius.jpg?raw=true" alt="Texto alternativo" width="300"/> <img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/humedes.jpg?raw=true" alt="Texto alternativo" width="300"/>
 
 
 ### 3.2 Cambiar datos de Celsius, Fahrenheit y Kelvin

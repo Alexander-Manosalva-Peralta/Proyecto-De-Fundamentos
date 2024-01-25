@@ -209,5 +209,11 @@ Como se puede observar en el imagen se muestra dos colores rojo indica que es la
 <img width="600" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/ab38aebd-5bda-4fd6-b7df-0b23616a5e8a" alt="Descripción de la imagen"> 
 
 
-## 4. Conclusiones
+## 4. Conclusión
+
+Finalmente en este presente taller desarrollamos los ejercicios propuestos en la guía, de los cuales se llega a concluir que cumplimos con la mayoría de  de los objetivos planteados, mencionando que tuvimos dificultades en ciertos aspectos que no favorecieron nuestro nivel de aprendizaje, por ejemplo en el objetivo 3 no llegamos a concluir completamente pero llegamos a detectaremos mediante el MKR IoT Carrier los colores del nivel de temperatura y humedad, esto debido al nivel de dificultad de encontrar los códigos respectivos.
+
+A pesar de enfrentar estas dificultades mencionadas, el equipo 9 demostró realizar estos ajustes en tiempo real y aprender de las dificultades encontradas, dado que, la importancia de concluir satisfactoriamente cada actividad es sumamente importante para nosotros. La capacidad de reflexionar sobre los desafíos enfrentados y las lecciones aprendidas no solo resultará en un crecimiento personal, sino que también contribuirá al fortalecimiento y la mejora continua del equipo en futuros proyectos. Estos aprendizajes proporcionan una base valiosa permitiéndonos un enfoque más efectivo y una mayor eficiencia en el diseño e implementación de soluciones en el ámbito de la monitorización haciendo uso de las  tecnologías de IoT.
+
+
 

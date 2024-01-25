@@ -14,12 +14,15 @@ Durante la actividad usamos diferentes instrumentos los cuales nos permitieron r
 En esta actividad empezamos emsanblando las placas para posteriormente implementar los códigos nesesarios, para ello iniciamos montando la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carrier, seguidamente pasamos a conectarlo a nuestro ordenador a través de un cable USB para que funcione y a la vez pueda transmitir el código implementado. Finalmente, realizamos muchas pruebas como la lectura de temperatura y humedad, para poder familiarizarnos ya que este tipo de actividades  era nuevo para alguno de nosotros.
 ## ENSAMBLAJE
 -Reconocemos los componentes para realizar un montaje correcto,primero destapamos la cápsula que contendrá al Arduino MKR WiFi 1010 y el MKR IoT Carrier.
+
 <img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/destapar.jpg?raw=true" alt="Texto alternativo" width="300"/>
 
 -Se montó la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carrier y conectarlo a nuestro ordenador para que funcione. verificando que los números de los pines y el soporte sean los correctos.
+
 <img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/arduino.jpg?raw=true" alt="Texto alternativo" width="300"/>
 
--Para finalizar se pone la placa Arduino MKR WIFI 1010 la MKR IoT carrier         dentro de la cápsula y procedemos a taparla.
+-Para finalizar se pone la placa Arduino MKR WIFI 1010 la MKR IoT carrier dentro de la cápsula y procedemos a taparla.
+
 <img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/ensamb.jpg?raw=true" alt="Texto alternativo" width="300"/>
 
 ## 3. EJERCICIOS

@@ -16,7 +16,7 @@ Durante la actividad usamos diferentes instrumentos los cuales nos permitieron r
 En esta actividad empezamos emsanblando las placas para posteriormente implementar los códigos nesesarios, para ello iniciamos montando la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carrier, seguidamente pasamos a conectarlo a nuestro ordenador a través de un cable USB para que funcione y a la vez pueda transmitir el código implementado. Finalmente, realizamos muchas pruebas como la lectura de temperatura y humedad, para poder familiarizarnos ya que este tipo de actividades  era nuevo para alguno de nosotros.
 
 
-## 3. Ejercicios
+## 3. EJERCÍCIOS
 ### 3.1 Ejecutar el código de la sección "Conoce el kit"
 **LECTURA DE TEMPERATURA** 
 
@@ -216,7 +216,7 @@ Como se puede observar en el imagen se muestra dos colores rojo y verde dependie
 <img width="600" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/ab38aebd-5bda-4fd6-b7df-0b23616a5e8a" alt="Descripción de la imagen"> 
 
 
-## 4. Conclusión
+## 4. CONCLUSIÓN
 
 Finalmente en este presente taller desarrollamos los ejercicios propuestos en la guía, de los cuales se llega a concluir que cumplimos con la mayoría de  de los objetivos planteados, mencionando que tuvimos dificultades en ciertos aspectos que no favorecieron nuestro nivel de aprendizaje, por ejemplo en el objetivo 3 no llegamos a concluir completamente pero llegamos a detectaremos mediante el MKR IoT Carrier los colores del nivel de temperatura y humedad, esto debido al nivel de dificultad de encontrar los códigos respectivos.
 

@@ -37,6 +37,7 @@ El rango de temperatura oscila entre -40 y +120 (° C) y la precisión es de ± 
 La medida de humedad hecha de esta manera es el resultado de la presión y la temperatura del agua. Para ello utilizamos el método llamado  `readHumidity ()`  que devuelve la humedad en porcentaje. El rango de humedad oscila entre ± 3.5% rH (humedad relativa), a 20 (°C) y +80% rH. La sensibilidad de la rH es de 0.004% rH.
 
 **VISUALIZACIÓN Y CONSTRUCCIÓN DEL CODIGO**
+En esta parte se visualiza y recopila datos de temperatura y humedad del sensor HTS221. A traves de un cable de programación USB, los datos fluyen entrela placa y el ordenador que muestran los resultados segun cambiamos los valores de los codigos a diferentes parametros.
 
 Incluimos una biblioteca específica llamada `Arduino_MKRIoTCarrier. ` 
 Se declaran variables de temperatura y humedad. 

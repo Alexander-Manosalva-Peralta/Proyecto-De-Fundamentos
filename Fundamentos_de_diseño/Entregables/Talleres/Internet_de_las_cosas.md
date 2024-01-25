@@ -169,9 +169,13 @@ void printGroupMessageWithDesign() {
 ```
 |   **Análisis del Código**   | **Cambiar unidad de temperatura** | **Mostrar Temperatura** | **Mostrar Mensaje con Diseño** |
 |--------------------------|----------------------------------|--------------------------|--------------------------------|
-| En esta sección del código, se realizan las inicializaciones necesarias y se procede a la lectura de la temperatura y la humedad en el bucle principal (`loop()`). Las variables `temperature` y `humidity` se actualizan con los valores del sensor HTS221. | La función `switchTemperatureUnit()` es responsable de cambiar la unidad de temperatura actual entre Celsius, Kelvin y Fahrenheit. Este cambio se activa al tocar el botón táctil `TOUCH0`. | La función `printTemperature()` se encarga de imprimir la temperatura en la pantalla del MKR IoT Carrier. Utiliza un `switch` para adaptar la visualización según la unidad seleccionada (Celsius, Kelvin o Fahrenheit). Se han definido variables adicionales como `temperatureF` y `temperatureK` para las conversiones entre unidades. | `printGroupMessageWithDesign()` muestra el mensaje "Grupo 9" con un diseño específico en la pantalla al tocar `TOUCH0`. |
+| En esta sección del código, se realizan las inicializaciones necesarias y se procede a la lectura de la temperatura y la humedad en el bucle principal (`loop()`). Las variables `temperature` y `humidity` se actualizan con los valores del sensor HTS221. | La función `switchTemperatureUnit()` es responsable de cambiar la unidad de temperatura actual entre Celsius, Kelvin y Fahrenheit. Este cambio se activa al tocar el botón táctil `TOUCH0`. | La función `printTemperature()` se encarga de imprimir la temperatura en la pantalla del MKR IoT Carrier. Utiliza un `switch` para adaptar la visualización según la unidad seleccionada (Celsius, Kelvin o Fahrenheit). Se han definido variables adicionales como `temperatureF` y `temperatureK` para las conversiones entre unidades. | `printGroupMessageWithDesign()` muestra el mensaje "Grupo 9" con un diseño específico en la pantalla al tocar `TOUCH0`.|
 
-[![Imagen en Miniatura del Video](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/raw/main/Imagenes/Temp.jpg)](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/raw/main/Imagenes/CFK.mp4)
+<a href="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/raw/main/Imagenes/CFK.mp4">
+  <img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/raw/main/Imagenes/Temp.jpg" width="400" height="300" alt="Haz clic para ver el video">
+</a>
+
+Dar clic en la imagen para ver el video.
 
 
 ### 3.3 Cambiar el nivel de temperatura

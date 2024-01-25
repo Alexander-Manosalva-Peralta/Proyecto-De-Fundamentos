@@ -82,7 +82,7 @@ void printGroupMessageWithDesign() {
 }
 ```
 
-### *Análisis del Código*
+**Análisis del Código**
 En esta sección del código, se realizan las inicializaciones necesarias y se procede a la lectura de la temperatura y la humedad en el bucle principal (`loop()`). Las variables `temperature` y `humidity` se actualizan con los valores del sensor HTS221.
 
 ### *Cambiar Unidad de Temperatura*
@@ -90,9 +90,6 @@ La función `switchTemperatureUnit()` es responsable de cambiar la unidad de tem
 
 ### *Mostrar Temperatura*
 La función `printTemperature()` se encarga de imprimir la temperatura en la pantalla del MKR IoT Carrier. Utiliza un `switch` para adaptar la visualización según la unidad seleccionada (Celsius, Kelvin o Fahrenheit). Se han definido variables adicionales como `temperatureF` y `temperatureK` para las conversiones entre unidades.
-
-### *Mostrar Humedad*
-La función `printHumidity()` imprime la humedad en un formato específico en la pantalla cuando se toca el botón `TOUCH1`.
 
 ### *Mostrar Mensaje con Diseño:*
 

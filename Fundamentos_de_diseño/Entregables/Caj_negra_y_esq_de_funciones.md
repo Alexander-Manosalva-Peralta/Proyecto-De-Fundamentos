@@ -1,6 +1,7 @@
 ## ENTREGABLE N°4
 
-**PROBLEMATICA:**
+##PROBLEMATICA:
+
 En las Lomas de Villa María del Triunfo, la captación de agua de niebla a través de mallas enfrenta una problemática crucial debido a la calidad del agua recolectada. A pesar de los intentos de aprovechamiento, la presencia de coliformes fecales, la turbidez y el nivel desequilibrado de pH hacen que el agua no sea segura para el uso cotidiano de las personas. La falta de conocimiento sobre los niveles de turbidez limita los beneficios de esta recolección, lo cual solo beneficia a la flora y fauna, mientras que la comunidad carece de acceso a agua potable.
 
 ## DEFINICIÓN DE ENTRADAS Y SALIDAS

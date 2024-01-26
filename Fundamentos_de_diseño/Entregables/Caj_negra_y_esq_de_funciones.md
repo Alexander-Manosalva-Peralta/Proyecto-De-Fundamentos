@@ -39,7 +39,7 @@ Se propone la implementación de un sistema avanzado basado en sensores y tecnol
                  `.     `.  ,
               .--'  .._,'"-' `.
              .    .'         `'
-             `.   /          ,'
+             `.   / GRUPO    ,'
                `  '--.   ,-"'
                 `"`   |  \
                    -. \, |
@@ -54,7 +54,7 @@ Se propone la implementación de un sistema avanzado basado en sensores y tecnol
     .'  /        \ .         |\__ - _ ,'` `        / /     `.`.
     |  '          ..         `-...-"  |  `-'      / /        . `.
     | /           |L__           |    |          / /          `. `.
-   , /            .   .          |    |         / /             ` `
+   , /  GRUPO 9   .   .          |    |         / /  GRUPO 9    ` `
   / /          ,. ,`._ `-_       |    |  _   ,-' /               ` \
  / .           \"`_/. `-_ \_,.  ,'    +-' `-'  _,        ..,-.    \`.
 .  '         .-f    ,'   `    '.       \__.---'     _   .'   '     \ \
@@ -64,9 +64,9 @@ Se propone la implementación de un sistema avanzado basado en sensores y tecnol
 ||  ,'          `. ;.,.---' ,'       `.   `.. `-'  .-' /_ .'    ;_   ||
 || '              V      / /           `   | `   ,'   ,' '.    !  `. ||
 ||/            _,-------7 '              . |  `-'    l         /    `||
-. |          ,' .-   ,' ||               | .-.        `.      .'     ||
- `'        ,'    `".'    |               |    `.        '. -.'       `'
-          /      ,'      |               |,'    \-.._,.'/'
+. |          ,' .-   ,' ||    GRACIAS    | .-.        `.      .'     ||
+ `'        ,'    `".'    |     POR LA    |    `.        '. -.'       `'
+          /      ,'      |    ATENCIÓN   |,'    \-.._,.'/'
           .     /        .               .       \    .''
         .`.    |         `.             /         :_,'.'
           \ `...\   _     ,'-.        .'         /_.-'

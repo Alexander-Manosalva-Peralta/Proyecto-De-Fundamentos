@@ -15,6 +15,15 @@ Información detallada sobre los parámetros del agua y otros factores recopilad
 | |                   | 
 |   |                                 | 
 
+
+## Acá te dejo el ejemplo
+
+| Entradas | Salidas         |
+|----------|-----------------|
+| Entrada1 | ![Imagen](url_de_la_imagen)   | Salida1   |
+| Entrada2 |                 | Salida2   |
+
+
 **ESQUEMA DE FUNCIONES**
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/ba674eaf-151e-4cfd-bb9e-36a02f5084e9)

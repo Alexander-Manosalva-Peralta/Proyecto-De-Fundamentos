@@ -12,9 +12,12 @@ En las Lomas de Villa María del Triunfo, la captación de agua de niebla a trav
 
 ## Acá te dejo el ejemplo
 
-| Entradas | Salidas         |
-|----------|-----------------|
-| Entrada1 | ![Imagen](url_de_la_imagen)   | Salida1   |
+| Entradas |                 | Salidas        |
+|----------|-----------------|----------------|
+| Entrada1 |                 | Salida1   |
+|----------|------------------|-----------|
+|           | ![Imagen](url_de_la_imagen)  |           |
+|------------|----------------|------------|
 | Entrada2 |                 | Salida2   |
 
 

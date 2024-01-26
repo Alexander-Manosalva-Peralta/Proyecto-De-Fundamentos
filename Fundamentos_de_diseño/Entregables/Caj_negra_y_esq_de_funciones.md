@@ -35,3 +35,5 @@ Estas funciones permiten gestionar eficientemente el agua recolectada, asegurand
 **ESQUEMA DE FUNCIONES**
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/ba674eaf-151e-4cfd-bb9e-36a02f5084e9)
+
+Fuente: Elaboracion propia.

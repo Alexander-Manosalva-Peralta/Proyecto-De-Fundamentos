@@ -42,6 +42,3 @@ Se propone la implementación de un sistema avanzado basado en sensores y tecnol
 ┊┈┊┊▏┗┳━━╱┃▕┊┊┈┊
 ╳┊▕▔▏┊▔▔▔┊┃╱▔▏┊╳
 
-
-  
-

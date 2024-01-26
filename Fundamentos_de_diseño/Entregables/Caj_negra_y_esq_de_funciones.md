@@ -35,19 +35,43 @@ Estas funciones permiten gestionar eficientemente el agua recolectada, asegurand
 Se propone la implementación de un sistema avanzado basado en sensores y tecnologías de automatización. Se utilizarán sensores de turbidez y otros dispositivos conectados a un sistema centralizado controlado por Arduino. Este sistema no sólo medirá los parámetros de turbidez, pH y la presencia de coliformes del agua recolectada, sino que también dirigirá y gestionará de manera inteligente su destino con la ayuda de una plataforma web, de esa manera se promoverá la sostenibilidad y el equilibrio ecológico en las Lomas de Villa María del Triunfo.
 
 ```
-░░░░█████░░░░░░░░
-░░░█▓▓▒▓▓██░░░░░
-░░░█▓▒▒▒▓▓▓█░░░░
-░░███████▓▓▓█░░░░
-░██████████▓▓█░░░
-░███████████▓▓█░░
-░░██░░▒░░▒██▓██░░
-░░░█░█▒█░▒▒██▒▒█░
-░░█▒░█▒█░▒▒██▒▒█░
-░░█▒▒▒▒▒▒▒██▒▒▒█░
-░░█▒▒▒▒██▒▒█▒▒▒█░
-░░███████▒▒▒██░░
-░░██████▒▒▒▒██░░░
-░░░░█▒▒▒▒▒▒██░░░
-░░░░░██████░
+                 ."-,.__
+                 `.     `.  ,
+              .--'  .._,'"-' `.
+             .    .'         `'
+             `.   /          ,'
+               `  '--.   ,-"'
+                `"`   |  \
+                   -. \, |
+                    `--Y.'      ___.
+                         \     L._, \
+               _.,        `.   <  <\                _
+             ,' '           `, `.   | \            ( `
+          ../, `.            `  |    .\`.           \ \_
+         ,' ,..  .           _.,'    ||\l            )  '".
+        , ,'   \           ,'.-.`-._,'  |           .  _._`.
+      ,' /      \ \        `' ' `--/   | \          / /   ..\
+    .'  /        \ .         |\__ - _ ,'` `        / /     `.`.
+    |  '          ..         `-...-"  |  `-'      / /        . `.
+    | /           |L__           |    |          / /          `. `.
+   , /            .   .          |    |         / /             ` `
+  / /          ,. ,`._ `-_       |    |  _   ,-' /               ` \
+ / .           \"`_/. `-_ \_,.  ,'    +-' `-'  _,        ..,-.    \`.
+.  '         .-f    ,'   `    '.       \__.---'     _   .'   '     \ \
+' /          `.'    l     .' /          \..      ,_|/   `.  ,'`     L`
+|'      _.-""` `.    \ _,'  `            \ `.___`.'"`-.  , |   |    | \
+||    ,'      `. `.   '       _,...._        `  |    `/ '  |   '     .|
+||  ,'          `. ;.,.---' ,'       `.   `.. `-'  .-' /_ .'    ;_   ||
+|| '              V      / /           `   | `   ,'   ,' '.    !  `. ||
+||/            _,-------7 '              . |  `-'    l         /    `||
+. |          ,' .-   ,' ||               | .-.        `.      .'     ||
+ `'        ,'    `".'    |               |    `.        '. -.'       `'
+          /      ,'      |               |,'    \-.._,.'/'
+          .     /        .               .       \    .''
+        .`.    |         `.             /         :_,'.'
+          \ `...\   _     ,'-.        .'         /_.-'
+           `-.__ `,  `'   .  _.>----''.  _  __  /
+                .'        /"'          |  "'   '_
+               /_|.-'\ ,".             '.'`__'-( \
+                 / ,"'"\,'               `/  `-.|" 
 ```

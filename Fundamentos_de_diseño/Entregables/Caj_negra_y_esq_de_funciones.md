@@ -6,32 +6,13 @@ En las Lomas de Villa María del Triunfo, la captación de agua de niebla a trav
 
 ## DEFINICIÓN DE ENTRADAS Y SALIDAS
 
-
-![6469619d-04e3-4285-a0f6-5e0d26bdc61f](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/ff57b879-d117-4988-ada7-f9934109d211)
-
-
-
-## Acá te dejo el ejemplo
-
 | Entradas |                 | Salidas|
 |----------|-----------------|---------|
 | **ENERGÍA:** Es aquello que se necesita para suministrar energía para el funcionamiento  del mecanismo.|                 | **VISUALIZACION DE DATOS:**  Información detallada sobre los parámetros del agua y otros factores recopilados.|
-|          | ![Imagen]<img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/caja.png" width="300">|        |
+|           |<img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/caja.png" width="300">|        |
 | **AGUA RECOLECTADA:** Se refiere a la muestra de agua que será tratada, la cual se obtiene mediante la recolección de un atrapa neblinas. |                 | **AGUA CLASIFICADA:** El agua se clasificará para el uso de riego de las plantas, para el lavado de  ropa y para lavar servicios domésticos.   |
 
-
-=======
-| Entradas | Salidas         |
-|----------|-----------------|
-| ENERGÍA
-Es aquello que se necesita para suministrar energía para el funcionamiento  del mecanismo. | ![Imagen](url_de_la_imagen)   | **VISUALIZACION DE DATOS:** Información detallada sobre los parámetros del agua y otros factores recopilados.  |
-| AGUA RECOLECTADA
-Se refiere a la muestra de agua que será tratada, la cual se obtiene mediante la recolección de un atrapa neblinas.|                 | AGUA CLASIFICADA 
-El agua se clasificará para el uso de riego de las plantas, para el lavado de  ropa y para lavar servicios domésticos.  |
->>>>>>> 3028d516b189e2eb5a870591ced52dcfac84cc91
-
-
-**ESQUEMA DE FUNCIONES**
+## ESQUEMA DE FUNCIONES
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/ba674eaf-151e-4cfd-bb9e-36a02f5084e9)
 

@@ -144,13 +144,19 @@ El dispositivo es un toma de muestra de aguas residuales que se extrae y filtra 
 
 | Requerimientos Funcionales ✔️                 | Requerimientos No Funcionales ⚙️              |
 | ---------------------------------------------| ---------------------------------------------|
-| **Sensores de turbidez:** El sistema debe ser capaz de clasificar los niveles de turbidez en categorías como alto, bajo y apto para el consumo humano.El sistema debe ser capaz de clasificar los niveles de turbidez en categorías como alto, bajo y apto para el consumo humano.| **Fiabilidad:** El sistema debe ser altamente confiable, asegurando mediciones precisas y acciones correctas en todo momento.|
-| **Un mecanismo, controlado por Arduino, para dirigir el flujo de agua:** Para dirigir el flujo de agua hacia tanques específicos según el nivel de turbidez detectado. | **Escalabilidad:** La arquitectura del sistema debe ser escalable para permitir futuras expansiones o mejoras.  |
-| **Redirección Automática:** El sistema debe ser capaz de redirigir automáticamente el agua recolectada hacia un tanque adecuado para su uso (riego, consumo humano) según los resultados de la medición de turbidez.    | **Adaptabilidad:** El sistema debe ser capaz de adaptarse a cambios en las condiciones ambientales y de agua.  |
-| **Eficiencia Energética:** El sistema debe ser eficiente en cuanto al consumo de energía para garantizar un funcionamiento sostenible, considerando la disponibilidad de energía en la ubicación.  | **Sostenibilidad:** El sistema debe ser diseñado para ser respetuoso con el medio ambiente y sostenible en términos de recursos y energía.|
+| **Controlar:**
+Para dirigir el flujo de agua hacia tanques específicos según el nivel de turbidez detectado. El sistema debe clasificar los niveles de turbidez, pH y coliformes.
+| **Fiabilidad:** El sistema debe ser altamente confiable, asegurando mediciones precisas y acciones correctas en todo momento.|
+| **Monitorear:** 
+El sistema debe proporcionar un monitoreo en tiempo real de los niveles de turbidez y las acciones realizadas, así mismo debe ser accesible a través de la página web.
+ | **Adaptable:**
+El sistema debe ser capaz de adaptarse a cambios y condiciones ambientales  del agua.
+  |
+| **Recopilar** Implementar un sistema de almacenamiento para registrar datos históricos de las mediciones de turbidez y la asignación de agua a lo largo del tiempo.    | **Accesible**  Los materiales usados y la página web debe ser accesible desde diferentes dispositivos y navegadores para facilitar el acceso a la información a los usuarios.  |
+| **Notificar** El sistema debe ser capaz de enviar notificaciones, ya sea por la página web o por otros medios, para informar a los usuarios sobre cambios significativos o problemas en el sistema.  | **Mantenimiento** El sistema debe ser de fácil mantenimiento, con la capacidad de realizar actualizaciones y correcciones de manera eficiente.|
 | **Almacenamiento de Datos:** Implementar un sistema de almacenamiento de datos para registrar históricos de las mediciones de turbidez y la asignación de agua a lo largo del tiempo.    | **Accesibilidad:** La página web debe ser accesible desde diferentes dispositivos y navegadores para facilitar el acceso a la información a los usuarios. |
 | **Notificaciones:** El sistema debe ser capaz de enviar notificaciones, ya sea por la página web o por otros medios, para informar a los usuarios sobre cambios significativos o problemas en el sistema.    | **Mantenimiento:** El sistema debe ser de fácil mantenimiento, con la capacidad de realizar actualizaciones y correcciones de manera eficiente.
-**Interfaz de Usuario Intuitiva:** La interfaz de usuario en la página web debe ser intuitiva y fácil de entender para que los habitantes del lugar puedan verificar el estado del agua y las acciones realizadas.    |   **Compatibilidad con Energía Renovable:** Evaluar la posibilidad de utilizar energía renovable, como paneles solares, para alimentar el sistema y garantizar su funcionamiento continuo.
+
 
 
 # BIBLIOGRAFÍA:

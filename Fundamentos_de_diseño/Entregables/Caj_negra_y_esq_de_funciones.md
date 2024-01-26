@@ -8,7 +8,8 @@ En las Lomas de Villa María del Triunfo, la captación de agua de niebla a trav
 | ENTRADAS        | SALIDAS                                                                                      |
 |------------------|--------------------------------------------------------------------------------------------------|
 | **ENERGÍA** 
-Es aquello que se necesita para suministrar energía para el funcionamiento  del mecanismo.| **VISUALIZACION DE DATOS** Información detallada sobre los parámetros del agua y otros factores recopilados.Ajusta el voltaje para disminuir su nivel, adaptándolo a los requerimientos del sistema.         |
+Es aquello que se necesita para suministrar energía para el funcionamiento  del mecanismo.| **VISUALIZACION DE DATOS**
+Información detallada sobre los parámetros del agua y otros factores recopilados.Ajusta el voltaje para disminuir su nivel, adaptándolo a los requerimientos del sistema.         |
 |     |           |
 | |  |
 | |                   |

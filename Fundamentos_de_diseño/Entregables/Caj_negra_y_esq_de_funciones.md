@@ -5,15 +5,9 @@ En las Lomas de Villa María del Triunfo, la captación de agua de niebla a trav
 
 ## DEFINICIÓN DE ENTRADAS Y SALIDAS
 
-| ENTRADAS        | SALIDAS                                                                                      | 
-|------------------|--------------------------------------------------------------------------------------------------| 
-| **ENERGÍA**            
-Es aquello que se necesita para suministrar energía para el funcionamiento  del mecanismo.| **VISUALIZACION DE DATOS**
-Información detallada sobre los parámetros del agua y otros factores recopilados.Ajusta el voltaje para disminuir su nivel, adaptándolo a los requerimientos del sistema.         |
-|     |           | 
-| |  | 
-| |                   | 
-|   |                                 | 
+
+![6469619d-04e3-4285-a0f6-5e0d26bdc61f](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/ff57b879-d117-4988-ada7-f9934109d211)
+
 
 
 ## Acá te dejo el ejemplo
@@ -42,4 +36,7 @@ Fuente: Elaboracion propia.
 
 Estas funciones permiten gestionar eficientemente el agua recolectada, asegurando que cumpla con los estándares necesarios para diferentes propósitos, desde el lavado de ropa hasta el riego de plantas, a través de un proceso de análisis y clasificación.
 
+
+## SOLUCIÓN
+Se propone la implementación de un sistema avanzado basado en sensores y tecnologías de automatización. Se utilizarán sensores de turbidez y otros dispositivos conectados a un sistema centralizado controlado por Arduino. Este sistema no sólo medirá los parámetros de turbidez, pH y la presencia de coliformes del agua recolectada, sino que también dirigirá y gestionará de manera inteligente su destino con la ayuda de una plataforma web, de esa manera se promoverá la sostenibilidad y el equilibrio ecológico en las Lomas de Villa María del Triunfo.
 

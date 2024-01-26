@@ -1,18 +1,29 @@
 ## INFORME 3: 
 
-# Resolución del laboratorio de manejo de IoT el internet de las cosas: Fundamentos de Diseño
+# RESOLUCIÓN DEL LABORATORIO DE MANEJO DE IOT EL INTERNET DE LAS COSAS: FUNDAMENTOS DE DISEÑO 
 
 ## 1. INTRODUCCIÓN
- En el presente informe se dará a conocer lo que se desarrolló en el laboratorio N° 04, Donde se usó el kit de Arduino IoT. En esta sección, conoceremos el Arduino MKR WIFI 1010, el Arduino Web Editor y la MKR IoT Carrier. Además, se realizaron algunos proyectos básicos como medir la temperatura, la humedad y la visualización de datos. En este proyecto aprenderemos cómo registrar la temperatura y la humedad con la ayuda del sensor HTS221 lo cual está incluido en el MKR IoT Carrier. Los códigos se editan en el Arduino Web Editor, así como en el Arduino IDE, estos datos registrados se envían del ordenador al Arduino a través del puerto serial y se ejecuta el programa, pero también los datos se muestran en la pantalla del ordenador. El programa ejecutado se puede ver su funcionalidad en la pantalla donde muestra los resultados, por ejemplo, los colores y temperatura, estos resultados se pueden controlar cambiando los códigos de ejecución y utilizando los botones capacitivos que están conectados al MKR IoT Carrier.
+En el informe se proporcionará detalles acerca de las actividades llevadas a cabo en el taller N°3, Donde se usó el kit de Arduino IoT. En esta sección, conoceremos el Arduino MKR WIFI 1010, el Arduino Web Editor y la MKR IoT Carrier. Además, se realizaron algunos proyectos básicos como medir la temperatura, la humedad y la visualización de datos. En este proyecto aprenderemos cómo registrar la temperatura y la humedad con la ayuda del sensor HTS221 lo cual está incluido en el MKR IoT Carrier. Los códigos se editan en el Arduino Web Editor, así como en el Arduino IDE, estos datos registrados se envían del ordenador al Arduino a través del puerto serial y se ejecuta el programa, pero también los datos se muestran en la pantalla del ordenador. El programa ejecutado se puede ver su funcionalidad en la pantalla donde muestra los resultados, por ejemplo, los colores y temperatura, estos resultados se pueden controlar cambiando los códigos de ejecución y utilizando los botones capacitivos que están conectados al MKR IoT Carrier.
 
 
 
-## 2. CARACTERISTICAS Y COMPONENTES DE INTERNET DE LAS COSAS (IOT): 
+## 2. CARACTERISTICAS Y COMPONENTES DE INTERNET DE LAS COSAS (IOT)
 
 Durante la actividad usamos diferentes instrumentos los cuales nos permitieron realizar conexiones inalámbricas a ordenadores a través del bluetooth y el wi-Fi, en esta sesión exploramos principalmente dos elementos como parte de nuestros instrumentos como son: la placa Arduino MKR WiFi 1010 y la MKR IoT Carrier, los cuales nos proporciona hardware esencial para la implementación de proyectos IoT y Arduino Cloud así mismo esta se integra con la plataforma en línea de Arduino Cloud que permite esquematizar la placa, conectar dispositivos, explorar proyectos en Arduino Project Hub y gestionar placas de forma remota a través de Arduino Device Manager.
 
 En esta actividad empezamos emsanblando las placas para posteriormente implementar los códigos nesesarios, para ello iniciamos montando la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carrier, seguidamente pasamos a conectarlo a nuestro ordenador a través de un cable USB para que funcione y a la vez pueda transmitir el código implementado. Finalmente, realizamos muchas pruebas como la lectura de temperatura y humedad, para poder familiarizarnos ya que este tipo de actividades  era nuevo para alguno de nosotros.
+## ENSAMBLAJE
+-Reconocemos los componentes para realizar un montaje correcto,primero destapamos la cápsula que contendrá al Arduino MKR WiFi 1010 y el MKR IoT Carrier.
 
+<img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/destapar.jpg?raw=true" alt="Texto alternativo" width="300"/>
+
+-Se montó la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carrier y conectarlo a nuestro ordenador para que funcione. verificando que los números de los pines y el soporte sean los correctos.
+
+<img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/arduino.jpg?raw=true" alt="Texto alternativo" width="300"/>
+
+-Para finalizar se pone la placa Arduino MKR WIFI 1010 la MKR IoT carrier dentro de la cápsula y procedemos a taparla.
+
+<img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/ensamb.jpg?raw=true" alt="Texto alternativo" width="300"/>
 
 ## 3. EJERCICIOS
 ### 3.1 Ejecutar el código de la sección "Conoce el kit"
@@ -26,6 +37,8 @@ El rango de temperatura oscila entre -40 y +120 (° C) y la precisión es de ± 
 La medida de humedad hecha de esta manera es el resultado de la presión y la temperatura del agua. Para ello utilizamos el método llamado  `readHumidity ()`  que devuelve la humedad en porcentaje. El rango de humedad oscila entre ± 3.5% rH (humedad relativa), a 20 (°C) y +80% rH. La sensibilidad de la rH es de 0.004% rH.
 
 **VISUALIZACIÓN Y CONSTRUCCIÓN DEL CODIGO**
+
+En esta parte se visualiza y recopila datos de temperatura y humedad del sensor HTS221. A traves de un cable de programación USB, los datos fluyen entrela placa y el ordenador que muestran los resultados segun cambiamos los valores de los codigos a diferentes parametros.
 
 Incluimos una biblioteca específica llamada `Arduino_MKRIoTCarrier. ` 
 Se declaran variables de temperatura y humedad. 

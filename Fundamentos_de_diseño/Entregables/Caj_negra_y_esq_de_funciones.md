@@ -16,7 +16,7 @@ En las Lomas de Villa María del Triunfo, la captación de agua de niebla a trav
 | Entradas |                 | Salidas|
 |----------|-----------------|---------|
 | **ENERGÍA:** Es aquello que se necesita para suministrar energía para el funcionamiento  del mecanismo.|                 | **VISUALIZACION DE DATOS:**  Información detallada sobre los parámetros del agua y otros factores recopilados.|
-|          | ![Imagen](url_de_la_imagen)|        |
+|          | ![Imagen](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/caja.png)|        |
 | **AGUA RECOLECTADA:** Se refiere a la muestra de agua que será tratada, la cual se obtiene mediante la recolección de un atrapa neblinas. |                 | **AGUA CLASIFICADA:** El agua se clasificará para el uso de riego de las plantas, para el lavado de  ropa y para lavar servicios domésticos.   |
 
 

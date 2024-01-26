@@ -34,3 +34,6 @@ Fuente: Elaboracion propia.
 Estas funciones permiten gestionar eficientemente el agua recolectada, asegurando que cumpla con los estándares necesarios para diferentes propósitos, desde el lavado de ropa hasta el riego de plantas, a través de un proceso de análisis y clasificación.
 
 
+## SOLUCIÓN
+Se propone la implementación de un sistema avanzado basado en sensores y tecnologías de automatización. Se utilizarán sensores de turbidez y otros dispositivos conectados a un sistema centralizado controlado por Arduino. Este sistema no sólo medirá los parámetros de turbidez, pH y la presencia de coliformes del agua recolectada, sino que también dirigirá y gestionará de manera inteligente su destino con la ayuda de una plataforma web, de esa manera se promoverá la sostenibilidad y el equilibrio ecológico en las Lomas de Villa María del Triunfo.
+

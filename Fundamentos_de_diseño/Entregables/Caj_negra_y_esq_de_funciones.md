@@ -13,7 +13,7 @@ En las Lomas de Villa María del Triunfo, la captación de agua de niebla a trav
 | |  |
 | |                   |
 |   |                                 |
-|  |  |
+
 
 ## Definición de Funciones
 

@@ -15,11 +15,8 @@ En las Lomas de Villa María del Triunfo, la captación de agua de niebla a trav
 
 <<<<<<< HEAD
 | Entradas |                 | Salidas        |
-|----------|-----------------|----------------|
 | Entrada1 |                 | Salida1   |
-|----------|                 |-----------|
-|          | ![Imagen](url_de_la_imagen)  |           |
-|----------|                 |------------|
+|          | ![Imagen](url_de_la_imagen)  |        |
 | Entrada2 |                 | Salida2   |
 
 

@@ -15,6 +15,11 @@ Información detallada sobre los parámetros del agua y otros factores recopilad
 | |                   | 
 |   |                                 | 
 
+**ESQUEMA DE FUNCIONES**
+
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/ba674eaf-151e-4cfd-bb9e-36a02f5084e9)
+
+Fuente: Elaboracion propia.
 
 ## Definición de Funciones
 
@@ -29,11 +34,3 @@ Información detallada sobre los parámetros del agua y otros factores recopilad
 Estas funciones permiten gestionar eficientemente el agua recolectada, asegurando que cumpla con los estándares necesarios para diferentes propósitos, desde el lavado de ropa hasta el riego de plantas, a través de un proceso de análisis y clasificación.
 
 
-
-
-
-**ESQUEMA DE FUNCIONES**
-
-![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/ba674eaf-151e-4cfd-bb9e-36a02f5084e9)
-
-Fuente: Elaboracion propia.

@@ -5,15 +5,15 @@ En las Lomas de Villa María del Triunfo, la captación de agua de niebla a trav
 
 ## DEFINICIÓN DE ENTRADAS Y SALIDAS
 
-| ENTRADAS        | SALIDAS                                                                                      | |
-|------------------|--------------------------------------------------------------------------------------------------| |
-| **ENERGÍA**              **VISUALIZACION DE DATOS**
+| ENTRADAS        | SALIDAS                                                                                      | 
+|------------------|--------------------------------------------------------------------------------------------------| 
+| **ENERGÍA**            
 Es aquello que se necesita para suministrar energía para el funcionamiento  del mecanismo.| **VISUALIZACION DE DATOS**
 Información detallada sobre los parámetros del agua y otros factores recopilados.Ajusta el voltaje para disminuir su nivel, adaptándolo a los requerimientos del sistema.         |
-|     |           | |
-| |  | |
-| |                   | |
-|   |                                 | |
+|     |           | 
+| |  | 
+| |                   | 
+|   |                                 | 
 
 
 ## Definición de Funciones

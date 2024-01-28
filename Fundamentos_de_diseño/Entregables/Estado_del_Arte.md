@@ -24,7 +24,7 @@ Esté presente artículo resalta el agua como uno de los temas fundamentales par
 
 En este artículo las mujeres de la población se quejaba de la mala calidad del agua recolectada, pero  en este problemática se  una fundación Nigeriana, para la conversación lo implementaron un proyecto mediante uso participativo de mujeres durante la ejecución del proyecto de diseñar, implementar y monitoreando, la idea del proyecto es construir  dos depósitos de agua para mejorar el acceso al agua de la comunidad que enfrentaban  a un suministro poco confiable de agua que no está cerca a sus hogares, gracias a ello es que la diarrea en las mujeres disminuyó en un 45%  también los hombres estaban más abiertos a la necesidad de las mujeres y a valorar  la participación en proyectos que tienen que ver con agua.
 
-<img src="../../Carpetas/Imagenes/Prevenir.png" alt="Texto Alternativo" width="500" height="300">
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/ff9f0acd-b509-4173-927d-1b38093a86d4)
 
 ## Estimación de la turbidez del agua en el tratamiento de agua potable Plantas que utilizan aprendizaje automático basado en agua y Datos Meteorológicos.
 

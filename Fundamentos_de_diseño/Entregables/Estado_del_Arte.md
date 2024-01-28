@@ -20,9 +20,9 @@ Esté presente artículo resalta el agua como uno de los temas fundamentales par
 
 ## Ensayos Clínicos <a name="ensayos-clinicos"></a>
 
-## Intervenciones para mejorar la calidad del agua para prevenir la diarrea.
+## Integración de género y comunidad en los sistemas de recolección de agua de niebla.
 
-En este presente artículo se habla sobre la diarrea como una de las  problemáticas  graves especialmente en los países de bajos ingresos económicos, donde pueden provocar enfermedades incluso la muerte, especialmente en los niños. Muchos agentes infecciosos que causan diarrea se transmiten a través del agua contaminada en zonas remotas y empobrecidas, donde se pueden tomar medidas para mejorar la calidad del agua. Estas incluyen el uso de agua subterráneas o agua de lluvia recolectada en lugar de fuentes superficiales. También se puede llevar a cabo medidas de mejora de la calidad de agua en el punto de uso, como hervirla, clorarla, filtrar o desinfectarla. Estos procedimientos se realizan principalmente en los hogares (Clasen et al., 2015).
+En este artículo las mujeres de la población se quejaba de la mala calidad del agua recolectada, pero  en este problemática se  una fundación Nigeriana, para la conversación lo implementaron un proyecto mediante uso participativo de mujeres durante la ejecución del proyecto de diseñar, implementar y monitoreando, la idea del proyecto es construir  dos depósitos de agua para mejorar el acceso al agua de la comunidad que enfrentaban  a un suministro poco confiable de agua que no está cerca a sus hogares, gracias a ello es que la diarrea en las mujeres disminuyó en un 45%  también los hombres estaban más abiertos a la necesidad de las mujeres y a valorar  la participación en proyectos que tienen que ver con agua.
 
 <img src="../../Carpetas/Imagenes/Prevenir.png" alt="Texto Alternativo" width="500" height="300">
 

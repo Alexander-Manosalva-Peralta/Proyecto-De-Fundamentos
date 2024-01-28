@@ -11,12 +11,12 @@
 
 ## Diseño Innovador <a name="diseno-innovador"></a>
 
-##  Diseño y análisis de un sistema de filtración y monitoreo de la calidad del agua para diferentes tipos de agua en Malasia.
+## Posibles soluciones a la escasez de agua mediante torres colectoras de niebla en una comunidad altoandina del centro de Ecuador.
 
-Este artículo describe un proyecto destinado a abordar la contaminación del agua en Malasia mediante el desarrollo de un sistema de monitoreo y filtración de la calidad del agua controlado por Arduino. Se enfoca en la detección temprana de agua contaminada, especialmente en ríos, debido a actividades industriales, de construcción, agrícolas y domésticas.
-El sistema, diseñado en Proteus y utilizando ThingSpeak para el monitoreo en tiempo real, mide parámetros como pH, temperatura, turbidez, conductividad eléctrica y potencial de oxidación-reducción. Si se detecta una calidad del agua insatisfactoria, la muestra se filtra a través del sistema de filtración. (Razman et al., 2023).
+Esté presente artículo resalta el agua como uno de los temas fundamentales para la supervivencia de las comunidades campesinas ubicadas en alturas superiores a los 3200 msnm en la sierra andina. El equilibrio social, el desarrollo agrícola así como, la subsistencia animal y finalmente los ingresos económicos dependen de la disponibilidad de recursos hídricos. Por lo que se construyó un sistema colector de niebla tridimensional con material Urku Yaku para proporcionar agua a la comunidad cercana, este determinó la calidad del agua recolectada por metro cuadrado de malla, durante el período de mayores precipitaciones anuales. Las redes instaladas produjeron una ganancia de al menos 2,63 L/m 2 y un mínimo de 0,65 L/m 2 por día. La calidad del agua analizada reflejó la idoneidad para el consumo humano. Dado que la recolección de agua ha sido exitosa, una expansión del sistema propuesto podría proporcionar este bien fundamental también a otras comunidades con características similares. Las torres atrapanieblas producirán aproximadamente 26.577,84 m 3 /año de agua, cubriendo las necesidades de los cultivos. Este análisis económico demuestra que vale la pena la inversión, como lo demuestra una relación beneficio costo de 1,90  (Carrera-Villacrés et al., 2023).
 
-<img src="../../Carpetas/Imagenes/Articulo1.png" alt="Texto Alternativo" width="500" height="300">
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/2f13c4d7-7f3e-4e54-a56f-59b6ccb4a55a)
+
 
 ## Ensayos Clínicos <a name="ensayos-clinicos"></a>
 

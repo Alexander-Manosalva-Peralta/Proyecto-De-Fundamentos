@@ -144,10 +144,11 @@ El dispositivo es un toma de muestra de aguas residuales que se extrae y filtra 
 
 | Requerimientos Funcionales ✔️                 | Requerimientos No Funcionales ⚙️              |
 | ---------------------------------------------| ---------------------------------------------|
-| **Clasificar:** Para dirigir el flujo de agua hacia tanques específicos, el sistema debe clasificar los niveles de turbidez, nivel de temperatura y nivel de pH. según el nivel de turbidez detectado. | **Fiabilidad:** El sistema debe ser altamente confiable, asegurando mediciones precisas y acciones correctas en todo momento.|
-| **Monitorear:** El sistema debe proporcionar un monitoreo en tiempo real de los niveles de turbidez y las acciones realizadas, así mismo debe ser accesible a través de la página web. | **Adaptable:** El sistema debe ser capaz de adaptarse a cambios y condiciones ambientales  del agua.  |
-| **Alamcenar** Implementar un sistema de almacenamiento para registrar datos históricos de las mediciones de turbidez y la asignación de agua a lo largo del tiempo.    | **Accesible**  Los materiales usados y la página web debe ser accesible desde diferentes dispositivos y navegadores para facilitar el acceso a la información a los usuarios.  |
-| **Notificar** El sistema debe ser capaz de enviar notificaciones, ya sea por la página web o por otros medios, para informar a los usuarios sobre cambios significativos o problemas en el sistema.  | **Mantenimiento** El sistema debe ser de fácil mantenimiento, con la capacidad de realizar actualizaciones y correcciones de manera eficiente.|
+| **Medir:** El sistema debe medir los parámetros de turbidez, ph y conductividad.  |  **Fiabilidad:** El sistema debe ser altamente confiable, asegurando mediciones precisas y acciones correctas en todo momento.|
+| **Clasificar:** Para dirigir el flujo de agua hacia tanques específicos, el sistema debe clasificar los niveles de turbidez, nivel de temperatura y nivel de pH. según el nivel de turbidez detectado. | **Adaptable:** El sistema debe ser capaz de adaptarse a cambios y condiciones ambientales  del agua.  |
+| **Monitorear:** El sistema debe proporcionar un monitoreo en tiempo real de los niveles de turbidez y las acciones realizadas, así mismo debe ser accesible a través de la página web. | **Accesible**  Los materiales usados y la página web debe ser accesible desde diferentes dispositivos y navegadores para facilitar el acceso a la información a los usuarios.  |
+| **Alamcenar** Implementar un sistema de almacenamiento para registrar datos históricos de las mediciones de turbidez y la asignación de agua a lo largo del tiempo.    | **Mantenimiento** El sistema debe ser de fácil mantenimiento, con la capacidad de realizar actualizaciones y correcciones de manera eficiente.|
+| **Notificar** El sistema debe ser capaz de enviar notificaciones, ya sea por la página web o por otros medios, para informar a los usuarios sobre cambios significativos o problemas en el sistema.  | 
 
 
 

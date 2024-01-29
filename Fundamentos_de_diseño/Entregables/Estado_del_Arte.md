@@ -11,20 +11,20 @@
 
 ## Diseño Innovador <a name="diseno-innovador"></a>
 
-##  Diseño y análisis de un sistema de filtración y monitoreo de la calidad del agua para diferentes tipos de agua en Malasia.
+## Posibles soluciones a la escasez de agua mediante torres colectoras de niebla en una comunidad altoandina del centro de Ecuador.
 
-Este artículo describe un proyecto destinado a abordar la contaminación del agua en Malasia mediante el desarrollo de un sistema de monitoreo y filtración de la calidad del agua controlado por Arduino. Se enfoca en la detección temprana de agua contaminada, especialmente en ríos, debido a actividades industriales, de construcción, agrícolas y domésticas.
-El sistema, diseñado en Proteus y utilizando ThingSpeak para el monitoreo en tiempo real, mide parámetros como pH, temperatura, turbidez, conductividad eléctrica y potencial de oxidación-reducción. Si se detecta una calidad del agua insatisfactoria, la muestra se filtra a través del sistema de filtración. (Razman et al., 2023).
+Esté presente artículo resalta el agua como uno de los temas fundamentales para la supervivencia de las comunidades campesinas ubicadas en alturas superiores a los 3200 msnm en la sierra andina. El equilibrio social, el desarrollo agrícola así como, la subsistencia animal y finalmente los ingresos económicos dependen de la disponibilidad de recursos hídricos. Por lo que se construyó un sistema colector de niebla tridimensional con material Urku Yaku para proporcionar agua a la comunidad cercana, este determinó la calidad del agua recolectada por metro cuadrado de malla, durante el período de mayores precipitaciones anuales. Las redes instaladas produjeron una ganancia de al menos 2,63 L/m 2 y un mínimo de 0,65 L/m 2 por día. La calidad del agua analizada reflejó la idoneidad para el consumo humano. Dado que la recolección de agua ha sido exitosa, una expansión del sistema propuesto podría proporcionar este bien fundamental también a otras comunidades con características similares. Las torres atrapanieblas producirán aproximadamente 26.577,84 m 3 /año de agua, cubriendo las necesidades de los cultivos. Este análisis económico demuestra que vale la pena la inversión, como lo demuestra una relación beneficio costo de 1,90  (Carrera-Villacrés et al., 2023).
 
-<img src="../../Carpetas/Imagenes/Articulo1.png" alt="Texto Alternativo" width="500" height="300">
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/2f13c4d7-7f3e-4e54-a56f-59b6ccb4a55a)
+
 
 ## Ensayos Clínicos <a name="ensayos-clinicos"></a>
 
-## Intervenciones para mejorar la calidad del agua para prevenir la diarrea.
+## Integración de género y comunidad en los sistemas de recolección de agua de niebla.
 
-En este presente artículo se habla sobre la diarrea como una de las  problemáticas  graves especialmente en los países de bajos ingresos económicos, donde pueden provocar enfermedades incluso la muerte, especialmente en los niños. Muchos agentes infecciosos que causan diarrea se transmiten a través del agua contaminada en zonas remotas y empobrecidas, donde se pueden tomar medidas para mejorar la calidad del agua. Estas incluyen el uso de agua subterráneas o agua de lluvia recolectada en lugar de fuentes superficiales. También se puede llevar a cabo medidas de mejora de la calidad de agua en el punto de uso, como hervirla, clorarla, filtrar o desinfectarla. Estos procedimientos se realizan principalmente en los hogares (Clasen et al., 2015).
+En este artículo las mujeres de la población se quejaba de la mala calidad del agua recolectada, pero  en este problemática se  una fundación Nigeriana, para la conversación lo implementaron un proyecto mediante uso participativo de mujeres durante la ejecución del proyecto de diseñar, implementar y monitoreando, la idea del proyecto es construir  dos depósitos de agua para mejorar el acceso al agua de la comunidad que enfrentaban  a un suministro poco confiable de agua que no está cerca a sus hogares, gracias a ello es que la diarrea en las mujeres disminuyó en un 45%  también los hombres estaban más abiertos a la necesidad de las mujeres y a valorar  la participación en proyectos que tienen que ver con agua.
 
-<img src="../../Carpetas/Imagenes/Prevenir.png" alt="Texto Alternativo" width="500" height="300">
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/ff9f0acd-b509-4173-927d-1b38093a86d4)
 
 ## Estimación de la turbidez del agua en el tratamiento de agua potable Plantas que utilizan aprendizaje automático basado en agua y Datos Meteorológicos.
 
@@ -144,13 +144,11 @@ El dispositivo es un toma de muestra de aguas residuales que se extrae y filtra 
 
 | Requerimientos Funcionales ✔️                 | Requerimientos No Funcionales ⚙️              |
 | ---------------------------------------------| ---------------------------------------------|
-| **Sensores de turbidez:** El sistema debe ser capaz de clasificar los niveles de turbidez en categorías como alto, bajo y apto para el consumo humano.El sistema debe ser capaz de clasificar los niveles de turbidez en categorías como alto, bajo y apto para el consumo humano.| **Fiabilidad:** El sistema debe ser altamente confiable, asegurando mediciones precisas y acciones correctas en todo momento.|
-| **Un mecanismo, controlado por Arduino, para dirigir el flujo de agua:** Para dirigir el flujo de agua hacia tanques específicos según el nivel de turbidez detectado. | **Escalabilidad:** La arquitectura del sistema debe ser escalable para permitir futuras expansiones o mejoras.  |
-| **Redirección Automática:** El sistema debe ser capaz de redirigir automáticamente el agua recolectada hacia un tanque adecuado para su uso (riego, consumo humano) según los resultados de la medición de turbidez.    | **Adaptabilidad:** El sistema debe ser capaz de adaptarse a cambios en las condiciones ambientales y de agua.  |
-| **Eficiencia Energética:** El sistema debe ser eficiente en cuanto al consumo de energía para garantizar un funcionamiento sostenible, considerando la disponibilidad de energía en la ubicación.  | **Sostenibilidad:** El sistema debe ser diseñado para ser respetuoso con el medio ambiente y sostenible en términos de recursos y energía.|
-| **Almacenamiento de Datos:** Implementar un sistema de almacenamiento de datos para registrar históricos de las mediciones de turbidez y la asignación de agua a lo largo del tiempo.    | **Accesibilidad:** La página web debe ser accesible desde diferentes dispositivos y navegadores para facilitar el acceso a la información a los usuarios. |
-| **Notificaciones:** El sistema debe ser capaz de enviar notificaciones, ya sea por la página web o por otros medios, para informar a los usuarios sobre cambios significativos o problemas en el sistema.    | **Mantenimiento:** El sistema debe ser de fácil mantenimiento, con la capacidad de realizar actualizaciones y correcciones de manera eficiente.
-**Interfaz de Usuario Intuitiva:** La interfaz de usuario en la página web debe ser intuitiva y fácil de entender para que los habitantes del lugar puedan verificar el estado del agua y las acciones realizadas.    |   **Compatibilidad con Energía Renovable:** Evaluar la posibilidad de utilizar energía renovable, como paneles solares, para alimentar el sistema y garantizar su funcionamiento continuo.
+| **Controlar:**Para dirigir el flujo de agua hacia tanques específicos según el nivel de turbidez detectado. El sistema debe clasificar los niveles de turbidez, pH y coliformes. | **Fiabilidad:** El sistema debe ser altamente confiable, asegurando mediciones precisas y acciones correctas en todo momento.|
+| **Monitorear:** El sistema debe proporcionar un monitoreo en tiempo real de los niveles de turbidez y las acciones realizadas, así mismo debe ser accesible a través de la página web. | **Adaptable:** El sistema debe ser capaz de adaptarse a cambios y condiciones ambientales  del agua.  |
+| **Recopilar** Implementar un sistema de almacenamiento para registrar datos históricos de las mediciones de turbidez y la asignación de agua a lo largo del tiempo.    | **Accesible**  Los materiales usados y la página web debe ser accesible desde diferentes dispositivos y navegadores para facilitar el acceso a la información a los usuarios.  |
+| **Notificar** El sistema debe ser capaz de enviar notificaciones, ya sea por la página web o por otros medios, para informar a los usuarios sobre cambios significativos o problemas en el sistema.  | **Mantenimiento** El sistema debe ser de fácil mantenimiento, con la capacidad de realizar actualizaciones y correcciones de manera eficiente.|
+
 
 
 # BIBLIOGRAFÍA:

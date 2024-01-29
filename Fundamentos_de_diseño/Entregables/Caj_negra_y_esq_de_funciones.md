@@ -2,7 +2,7 @@
 
 ## PROBLEMATICA:
 
-En las Lomas de Villa María del Triunfo, la captación de agua de niebla a través de mallas enfrenta una problemática crucial debido a la calidad del agua recolectada. A pesar de los intentos de aprovechamiento, la presencia de coliformes fecales, la turbidez y el nivel desequilibrado de pH hacen que el agua no sea segura para el uso cotidiano de las personas. La falta de conocimiento sobre los niveles de turbidez limita los beneficios de esta recolección, lo cual solo beneficia a la flora y fauna, mientras que la comunidad carece de acceso a agua potable.
+En las Lomas de Villa María del Triunfo, la captación de agua de niebla a través de mallas enfrenta una problemática crucial debido a la mala calidad del agua recolectada. A pesar de los intentos de aprovechamiento, la presencia de turbidez y el nivel desequilibrado de pH como tambien la conductividad electrica hacen que el agua no sea segura para el uso cotidiano de las personas. La falta de conocimiento sobre los niveles de turbidez limita los beneficios de esta recolección, lo cual solo beneficia a la flora y fauna, mientras que la comunidad carece de acceso a agua potable.
 
 ## DEFINICIÓN DE ENTRADAS Y SALIDAS
 
@@ -32,46 +32,6 @@ Estas funciones permiten gestionar eficientemente el agua recolectada, asegurand
 
 
 ## SOLUCIÓN
-Se propone la implementación de un sistema avanzado basado en sensores y tecnologías de automatización. Se utilizarán sensores de turbidez y otros dispositivos conectados a un sistema centralizado controlado por Arduino. Este sistema no sólo medirá los parámetros de turbidez, pH y la presencia de coliformes del agua recolectada, sino que también dirigirá y gestionará de manera inteligente su destino con la ayuda de una plataforma web, de esa manera se promoverá la sostenibilidad y el equilibrio ecológico en las Lomas de Villa María del Triunfo.
 
-```
-                 ."-,.__
-                 `.     `.  ,
-              .--'  .._,'"-' `.
-             .    .'         `'
-             `.   / GRUPO 9  ,'
-               `  '--.   ,-"'
-                `"`   |  \
-                   -. \, |
-                    `--Y.'      ___.
-                         \     L._, \
-               _.,        `.   <  <\                _
-             ,' '           `, `.   | \            ( `
-          ../, `.            `  |    .\`.           \ \_
-         ,' ,..  .           _.,'    ||\l            )  '".
-        , ,'   \           ,'.-.`-._,'  |           .  _._`.
-      ,' /      \ \        `' ' `--/   | \          / /   ..\
-    .'  /        \ .         |\__ - _ ,'` `        / /     `.`.
-    |  '          ..         `-...-"  |  `-'      / /        . `.
-    | /           |L__           |    |          / /          `. `.
-   , /  GRUPO 9   .   .          |    |         / /  GRUPO 9    ` `
-  / /          ,. ,`._ `-_       |    |  _   ,-' /               ` \
- / .           \"`_/. `-_ \_,.  ,'    +-' `-'  _,        ..,-.    \`.
-.  '         .-f    ,'   `    '.       \__.---'     _   .'   '     \ \
-' /          `.'    l     .' /          \..      ,_|/   `.  ,'`     L`
-|'      _.-""` `.    \ _,'  `            \ `.___`.'"`-.  , |   |    | \
-||    ,'      `. `.   '       _,...._        `  |    `/ '  |   '     .|
-||  ,'          `. ;.,.---' ,'       `.   `.. `-'  .-' /_ .'    ;_   ||
-|| '              V      / /           `   | `   ,'   ,' '.    !  `. ||
-||/            _,-------7 '              . |  `-'    l         /    `||
-. |          ,' .-   ,' ||    GRACIAS    | .-.        `.      .'     ||
- `'        ,'    `".'    |     POR LA    |    `.        '. -.'       `'
-          /      ,'      |    ATENCIÓN   |,'    \-.._,.'/'
-          .     /        .               .       \    .''
-        .`.    |         `.             /         :_,'.'
-          \ `...\   _     ,'-.        .'         /_.-'
-           `-.__ `,  `'   .  _.>----''.  _  __  /
-                .'        /"'          |  "'   '_
-               /_|.-'\ ,".             '.'`__'-( \
-                 / ,"'"\,'               `/  `-.|" 
-```
+Frente a la problemática planteada, se propone implementar un sistema avanzado basado en sensores y tecnología de automatización. Se utilizarán sensores de turbidez y otros dispositivos conectados a un sistema centralizado controlado por Arduino. Este sistema no sólo medirá los parámetros de turbidez, conductividad electrica y la presencia pH, sino que también dirigirá y gestionará de manera inteligente su destino con la ayuda de una plataforma web, de esta manera promueve la sostenibilidad y el equilibrio ecológico en las Lomas de Villa María del Triunfo.
+

@@ -6,7 +6,9 @@
 ## LEYENDA 
 
 SOLUCIÓN 1: Naranja S/.551.50
+
 SOLUCIÓN 2: Azul S/.989
+
 SOLUCIÓN 3: Negro S/.602
 
 Fuente: Equipo 09, Fundamento de diseño 2024-0

@@ -45,7 +45,7 @@ Este artículo describe un dispositivo de interfaz de sensor reconfigurable para
 
 ### 🚀 Equipos o Dispositivos en el Mercado (3)
 |N° | Nombre   | Producto| Descripción | Precio   | Características |Imagen Referencial | Enlace  |
-
+| --- | ----------------------------------- | --------------------------------------------- | ---------------------------------------|
 | 1 |Medidor de pH portátil | El dispositivo permite medir la acidez o alcalinidad en una solución líquida extraída de un tanque o de otra manera.
 El portátil tiene una sonda o electrodo que se sumerge en la solución que se está realizando, mide la concentración de iones de hidrógeno en la solución que se prueba en un valor de pH  en la pantalla del dispositivo, Es muy resistente al agua y tiene características automática para garantizar en pH  exacta.
 En ocasiones este tipo de medidor de pH portátiles pueden almacenar datos de mediciones posterior a los análisis. |S/20  a  S/200 dependiendo de la marca.|   El pH tiene un rango de medición de 0 a 14 extremadamente ácida.

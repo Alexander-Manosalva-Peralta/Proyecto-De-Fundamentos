@@ -72,7 +72,9 @@ Fuente: Elaboración propia
 Finalmente, una vez laminado nuestra estructura, se calculó el tiempo de impresión de (53 minutos aproximadamente) para enviarlo a través de la nube a un servidor de la propia impresora permitiéndonos obtener un modelo de estructura o carcasa para Arduino UNO.
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/4c517779-706a-4f2d-9e76-2b05e9b06ef0)
+
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/89ed2929-1f10-4b32-b538-a3ca2b76ce0f)
+
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/e5cf01d5-3d8f-4a14-af1d-5ff4dbb28be1)
 Fuente: Elaboración propia
 

@@ -1,4 +1,4 @@
-# Resolución del laboratorio de modelado 3D: Fundamentos de diseño
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/4e6f748f-c7a8-4499-859d-ecdf362dffa1)# Resolución del laboratorio de modelado 3D: Fundamentos de diseño
 
 ## 1. Introducción
 
@@ -41,6 +41,7 @@ Una vez completado este proceso, aplicamos la función "revolve" para transforma
 Para esta actividad el docente encargado, nos pidió modelar una estructura en 3D para guardar y proteger el Arduino Uno. Para su elaboración se utilizaron diferentes sketchs y múltiples comandos extrude y shell. Para ello iniciamos ubicando el eje en la vista TOP y luego añadimos una imagen del Arduino con las medidas específicas.
 
 Guía para dibujar la estructura del ARDUINO. Fuente: Google
+
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/c76c6b05-008e-4da7-833b-cf1e274e0df2)
 
 
@@ -53,13 +54,26 @@ Fuente: Elaboración propia
 
 Para llevar a cabo nuestra impresión, la Universidad nos brindó la facilidad de poder imprimir nuestro modelo de Arduino en una de las mejoras impresoras de última generación como es el (Ender 3 S1) y el ( Bambú Lab) esto debido al corto tiempo que  demoran en imprimir. 
 En esta sección uno de los encargados, nos  brindó la información necesaria para comprender el correcto funcionamiento del proceso de impresión. 
+
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/267d1977-9ee5-477a-87c6-d013391c6c03)
+
 Fuente: Elaboración propia
 
 
 Una vez recibida la información necesaria se pasó a imprimir el archivo solicitado, para este proceso se utilizó el formato  STL en impresión de 3D, también uno de los puntos a considerar es la altura de la capa, además el relleno es uno de los puntos más importantes, para este tipo de  pruebas se recomienda usar al mínimo debido al tiempo que tarda en imprimir ya que mientras mayor sea la impresión de la velocidad  menos resolución tendrá.
 
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/23775995-bffa-4c8d-98a5-d93be48cb519)
+
+Fuente: Elaboración propia
+
+
 Finalmente, una vez laminado nuestra estructura, se calculó el tiempo de impresión de (53 minutos aproximadamente) para enviarlo a través de la nube a un servidor de la propia impresora permitiéndonos obtener un modelo de estructura o carcasa para Arduino UNO.
+
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/4c517779-706a-4f2d-9e76-2b05e9b06ef0)
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/6971b742-5619-4408-a215-e28c3521f2aa)
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/89ed2929-1f10-4b32-b538-a3ca2b76ce0f)
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/e5cf01d5-3d8f-4a14-af1d-5ff4dbb28be1)
+Fuente: Elaboración propia
 
 
 ## Conclusión 

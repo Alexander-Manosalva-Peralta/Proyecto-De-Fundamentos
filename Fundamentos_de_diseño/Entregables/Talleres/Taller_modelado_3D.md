@@ -18,7 +18,7 @@ Una vez completado este proceso, aplicamos la función "revolve" para transforma
 |-----------|-----------|
 | ![Descripción de la imagen](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/Captura%20de%20pantalla%202024-02-02%20223107.png) | ![Descripción de la imagen](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/Captura%20de%20pantalla%202024-02-02%20210252.png)|
 
-## 4. Ejercicio 3
+## Ejercicio  N° 4: Representación de una estructura para Arduino UNO
 
 
 ## Conclusión 

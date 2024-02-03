@@ -36,7 +36,17 @@ Una vez completado este proceso, aplicamos la función "revolve" para transforma
 | Dimensiones 2D | Dimensiones 3D |
 | ![Descripción de la imagen](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/Captura%20de%20pantalla%202024-02-02%20223107.png) | ![Descripción de la imagen](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/Captura%20de%20pantalla%202024-02-02%20210252.png)|
 
-## 4. Ejercicio 3
+## Ejercicio  N° 4: Representación de una estructura para Arduino UNO
+
+Para esta actividad el docente encargado, nos pidió modelar una estructura en 3D para guardar y proteger el Arduino Uno. Para su elaboración se utilizaron diferentes sketchs y múltiples comandos extrude y shell. Para ello iniciamos ubicando el eje en la vista TOP y luego añadimos una imagen del Arduino con las medidas específicas.
+
+Guía para dibujar la estructura del ARDUINO. Fuente: Google
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/c76c6b05-008e-4da7-833b-cf1e274e0df2)
+
+
+Seguidamente, aseguramos que la altura sea de 14 mm y el grosor sea de 3 mm, para que esté centrada en el plano. Luego, utilizamos la función "lineal" para crear el marco del Arduino y añadir las medidas correspondientes. Después, utilizamos la función "shelf" para crear la tapa del estuche. Finalmente, con la opción "Part 1" añadimos el color de preferencia al estuche para poder terminar dicho modelo.
+
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/9c7d4983-e698-4af9-80f7-ea09033c1ff8)
 
 
 ## Conclusión 

@@ -17,9 +17,9 @@ En el presente informe de nuestro laboratorio sobre impresiones 3D, exploraremos
 
 | Top | Sketch |
 |-----------|-----------|
-| ![Descripción de la imagen]((https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/Line.png) | ![Descripción de la imagen]((https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos)/blob/main/Imagenes/Dimension.png)|
+| ![Descripción de la imagen](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/f0533903-6a30-4363-997f-9664fa1d1aa9) | ![Descripción de la imagen](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/f8ed20c3-56c9-4e46-a0bd-717fa6409c83)|
 | Groser | 3 dimenciones |
-| ![Descripción de la imagen]((https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets)/blob/main/Imagenes/Midpoint.png?raw=true) | ![Descripción de la imagen](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/84afbb69-0903-48c8-93dd-c1c569486dfc)|
+| ![Descripción de la imagen](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/84afbb69-0903-48c8-93dd-c1c569486dfc) | ![Descripción de la imagen](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/84afbb69-0903-48c8-93dd-c1c569486dfc)|
 
 
 ## 3. Ejercicio del vaso en 3D

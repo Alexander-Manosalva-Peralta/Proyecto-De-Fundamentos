@@ -19,7 +19,7 @@ En el presente informe de nuestro laboratorio sobre impresiones 3D, exploraremos
 |-----------|-----------|
 | ![Descripción de la imagen]((https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/Line.png) | ![Descripción de la imagen]((https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos)/blob/main/Imagenes/Dimension.png)|
 | Groser | 3 dimenciones |
-| ![Descripción de la imagen]((https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets)/blob/main/Imagenes/Midpoint.png?raw=true) | ![Descripción de la imagen](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos)/blob/main/Imagenes/Shell.png)|
+| ![Descripción de la imagen]((https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets)/blob/main/Imagenes/Midpoint.png?raw=true) | ![Descripción de la imagen](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/Shell.png)|
 
 
 ## 3. Ejercicio del vaso en 3D

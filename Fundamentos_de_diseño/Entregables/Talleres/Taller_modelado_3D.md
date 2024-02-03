@@ -47,6 +47,19 @@ Guía para dibujar la estructura del ARDUINO. Fuente: Google
 Seguidamente, aseguramos que la altura sea de 14 mm y el grosor sea de 3 mm, para que esté centrada en el plano. Luego, utilizamos la función "lineal" para crear el marco del Arduino y añadir las medidas correspondientes. Después, utilizamos la función "shelf" para crear la tapa del estuche. Finalmente, con la opción "Part 1" añadimos el color de preferencia al estuche para poder terminar dicho modelo.
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/9c7d4983-e698-4af9-80f7-ea09033c1ff8)
+Fuente: Elaboración propia
+
+## 4.1 Proceso de la impresión de la estructura del Arduino 
+
+Para llevar a cabo nuestra impresión, la Universidad nos brindó la facilidad de poder imprimir nuestro modelo de Arduino en una de las mejoras impresoras de última generación como es el (Ender 3 S1) y el ( Bambú Lab) esto debido al corto tiempo que  demoran en imprimir. 
+En esta sección uno de los encargados, nos  brindó la información necesaria para comprender el correcto funcionamiento del proceso de impresión. 
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/267d1977-9ee5-477a-87c6-d013391c6c03)
+Fuente: Elaboración propia
+
+
+Una vez recibida la información necesaria se pasó a imprimir el archivo solicitado, para este proceso se utilizó el formato  STL en impresión de 3D, también uno de los puntos a considerar es la altura de la capa, además el relleno es uno de los puntos más importantes, para este tipo de  pruebas se recomienda usar al mínimo debido al tiempo que tarda en imprimir ya que mientras mayor sea la impresión de la velocidad  menos resolución tendrá.
+
+Finalmente, una vez laminado nuestra estructura, se calculó el tiempo de impresión de (53 minutos aproximadamente) para enviarlo a través de la nube a un servidor de la propia impresora permitiéndonos obtener un modelo de estructura o carcasa para Arduino UNO.
 
 
 ## Conclusión 

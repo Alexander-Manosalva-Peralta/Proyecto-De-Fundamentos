@@ -23,6 +23,7 @@ Una vez completado este proceso, aplicamos la función "revolve" para transforma
 Para esta actividad el docente encargado, nos pidió modelar una estructura en 3D para guardar y proteger el Arduino Uno. Para su elaboración se utilizaron diferentes sketchs y múltiples comandos extrude y shell. Para ello iniciamos ubicando el eje en la vista TOP y luego añadimos una imagen del Arduino con las medidas específicas.
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/218acc6c-47ea-4e14-bfea-ebaf5ee29c4b)
+
 Guía para dibujar la estructura del ARDUINO. 
 Fuente: Google
 

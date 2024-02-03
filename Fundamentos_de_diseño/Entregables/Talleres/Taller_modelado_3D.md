@@ -20,6 +20,17 @@ Una vez completado este proceso, aplicamos la función "revolve" para transforma
 
 ## Ejercicio  N° 4: Representación de una estructura para Arduino UNO
 
+Para esta actividad el docente encargado, nos pidió modelar una estructura en 3D para guardar y proteger el Arduino Uno. Para su elaboración se utilizaron diferentes sketchs y múltiples comandos extrude y shell. Para ello iniciamos ubicando el eje en la vista TOP y luego añadimos una imagen del Arduino con las medidas específicas.
+
+blob:https://web.whatsapp.com/5f628a3b-e338-4392-9264-a792ec00cbc8
+
+Guía para dibujar la estructura del ARDUINO. Fuente: Google
+
+Seguidamente, aseguramos que la altura sea de 14 mm y el grosor sea de 3 mm, para que esté centrada en el plano. Luego, utilizamos la función "lineal" para crear el marco del Arduino y añadir las medidas correspondientes. Después, utilizamos la función "shelf" para crear la tapa del estuche. Finalmente, con la opción "Part 1" añadimos el color de preferencia al estuche para poder terminar dicho modelo.
+
+blob:https://web.whatsapp.com/3d37976a-1404-484e-b5ea-ff21802b35a0
+
+
 
 ## Conclusión 
 

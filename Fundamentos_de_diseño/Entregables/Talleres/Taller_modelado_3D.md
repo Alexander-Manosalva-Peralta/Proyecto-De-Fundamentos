@@ -1,4 +1,5 @@
-![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/4e6f748f-c7a8-4499-859d-ecdf362dffa1)# Resolución del laboratorio de modelado 3D: Fundamentos de diseño
+## INFORME DE LABORATORIO N.º 05: DISEÑO 3D
+
 
 ## 1. Introducción
 

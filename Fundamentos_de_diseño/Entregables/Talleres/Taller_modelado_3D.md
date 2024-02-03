@@ -7,6 +7,17 @@ En el presente informe de nuestro laboratorio sobre impresiones 3D, exploraremos
 
 ## 2. Ejercicio 1
 
+1.1 Al realizar el primer ejercicio de un cilindro 3D, con un diámetro de 80 mm. Se inició con la base inferior “Top” centrando la base en el  medio. 
+1.2 Después se creó un boceto de “sketch” para dar una forma cilíndrica de una proporción extensa de 100 mm de altura.
+1.3 Después se agregó 3 mm de grosor del cilindro.
+1.4 luego para ver en 3 dimensiones se presionó el anticlic y finalmente terminamos nuestro primer ejercicio.
+
+| Top | Sketch |
+|-----------|-----------|
+| ![Descripción de la imagen](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/Line.png) | ![Descripción de la imagen](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/Dimension.png)|
+| Groser | 3 dimenciones |
+| ![Descripción de la imagen](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/Midpoint.png?raw=true) | ![Descripción de la imagen](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/Shell.png)|
+
 
 ## 3. Ejercicio del vaso en 3D
 

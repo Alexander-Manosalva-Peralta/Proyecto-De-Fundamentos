@@ -7,15 +7,19 @@ Bienvenido a la carpeta de hardware, esta sección abarcaremos el Modelado 3D, P
 ## Contenido 
 
  ## Modelo 3D.
+ 
  1. modelo_inicial.stl
-- Descripción: Este archivo STL representa el modelo tridimensional de nuestro prototipo. El modelado 3D es crucial para visualizar y perfeccionar el diseño antes de 
-  pasar a la fase de prototipado físico
+- Descripción: Este archivo STL representa el modelo tridimensional de nuestro prototipo. El modelado 3D es crucial para visualizar y perfeccionar el diseño antes 
+  de pasar a la fase de prototipado físico
  
  ## Prototipado.
+ 
  1. simulacion.md
 - Descripción: El archivo contiene el diseño del prototipo inicial. A través del prototipado, evaluamos y refinamos la viabilidad y funcionalidad de nuestras 
-   soluciones de hardware.
- 
+  soluciones de hardware.
+
+   ## Librerías y Herramientas Utilizadas
+ - 
 ## Tipos de Archivos a usar
 
 * JPEG/ PNG

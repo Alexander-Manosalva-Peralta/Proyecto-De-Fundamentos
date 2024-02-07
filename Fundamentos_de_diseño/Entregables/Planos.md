@@ -39,5 +39,3 @@ Este plano exhibe el soporte diseñado para albergar y asegurar una gran parte d
 Gracias a su diseño cuidadosamente concebido, este soporte facilita la colocación de los componentes con facilidad y precisión. Su estructura está específicamente diseñada para acomodar los diferentes elementos de manera ordenada y segura, garantizando una integración sin complicaciones en el proyecto en su totalidad.
 
 <img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/Soporte%20para%20piezas.png">
-
-

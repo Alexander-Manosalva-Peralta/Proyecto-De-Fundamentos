@@ -7,6 +7,7 @@ Bienbenido a la carpeta Hardware En este directorio contendra la parte diseñado
 ## Contenido 
 
  . Modelo_3D.
+ 
 . Prototipado.
  
 ## Tipos de Archivos a usar

@@ -1,6 +1,6 @@
 # Modelado 3D de la propuesta ganadora: Fundamentos de diseño
 
-<img width="600" height="200" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/738f01d7-8f89-461a-a243-7cee95827ed0" alt="Descripción de la imagen">
+<img width="700" height="200" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/738f01d7-8f89-461a-a243-7cee95827ed0" alt="Descripción de la imagen">
 <img width="700" height="500" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/c019d4fc-9f97-421b-bf34-58a0f5c46044" alt="Descripción de la imagen">
 
 ## Modelo 3D

@@ -11,8 +11,10 @@
 
 <img width="500" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/748d7359-47d3-4387-b179-837477aa25ba" alt="Descripción de la imagen">
 
-##
+## COMPONENTES
 
 <img width="500" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/4dd9270b-6034-4ba5-a4bd-ff3dd0239c94" alt="Descripción de la imagen">
+
+## 
 
 <img width="500" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/e55a748e-141f-478d-badb-abe54424b528" alt="Descripción de la imagen">

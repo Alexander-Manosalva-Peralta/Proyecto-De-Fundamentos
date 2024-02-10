@@ -1,6 +1,6 @@
 <img width="600" height="200" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/4cccbe2c-22fd-438e-b736-262de9138cef" alt="Descripción de la imagen">
 
-1. ## INTRODUCCION 
+ ## 1. INTRODUCCION 
 
 Los circuitos electrónicos constituyen la columna vertebral de la tecnología moderna, abarcando desde dispositivos simples como interruptores de luz hasta complejos sistemas informáticos. Estos circuitos, compuestos por componentes electrónicos interconectados, permiten el flujo de corriente eléctrica para desempeñar funciones específicas.
 

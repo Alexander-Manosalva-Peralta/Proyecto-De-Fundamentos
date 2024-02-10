@@ -4,9 +4,7 @@
 
 Los circuitos electrónicos constituyen la columna vertebral de la tecnología moderna, abarcando desde dispositivos simples como interruptores de luz hasta complejos sistemas informáticos. Estos circuitos, compuestos por componentes electrónicos interconectados, permiten el flujo de corriente eléctrica para desempeñar funciones específicas.
 
-## Importancia del Esquemático del Circuito Electrónico
-
-Un diagrama esquemático de un circuito electrónico es esencial ya que proporciona una representación visual clara de cómo están interconectados los componentes en un circuito. Esta representación gráfica facilita la comprensión del diseño del circuito, permitiendo a ingenieros y técnicos visualizar rápidamente la disposición y conexión de los componentes.
+Importancia del Esquemático del Circuito Electrónico: Un diagrama esquemático de un circuito electrónico es esencial ya que proporciona una representación visual clara de cómo están interconectados los componentes en un circuito. Esta representación gráfica facilita la comprensión del diseño del circuito, permitiendo a ingenieros y técnicos visualizar rápidamente la disposición y conexión de los componentes.
 
 ## Ejercicio 1: Creación de un Sistema para Encender un LED
 
@@ -62,6 +60,7 @@ Seguidamente pasamos a ensamblar estos componentes en el circuito, durante el pr
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/3688da89-cf1d-49c4-acfc-04278941dd4c)
 
 
+
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/daaaf17d-262f-447c-a424-eb67f7dc6e59)
 
 
@@ -71,11 +70,17 @@ Su función primordial es activar un Led mediante un botón o pulsador, desempe�
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/0f390dc2-8f39-4de1-9d3a-83808c4f75fc)
 
+Sistema en vista 3D del circuito en PCB (Bottom)
+
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/bafb537a-22b0-4a66-9530-8568e108fdb4)
 
+Sistema en vista 3D del circuito en PCB (Bottom)
+
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/166c220e-e1fe-47a6-9568-aa46af153c9e)
+
+Sistema en vista 3D del circuito en PCB (Bottom)
 
 
 

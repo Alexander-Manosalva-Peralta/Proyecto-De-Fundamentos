@@ -39,7 +39,8 @@ En esta sección el docente a cargo nos solicitó implementar como mínimo 6 com
 
 Para la construcción de este circuito, hemos seleccionado cuidadosamente los siguientes componentes, cada uno desempeñando un papel importante en el funcionamiento del sistema: 
 
-## Arduino MKR Wifi 1010 (U1):  Este es el microcontrolador que actúa como el cerebro de tu circuito. Lee las entradas, como el estado del botón, procesa esta información y controla las salidas, como el estado de los LED o los mensajes en la pantalla LCD, en función de la programación que realiza en él.
+## Arduino MKR Wifi 1010 (U1):  
+Este es el microcontrolador que actúa como el cerebro de tu circuito. Lee las entradas, como el estado del botón, procesa esta información y controla las salidas, como el estado de los LED o los mensajes en la pantalla LCD, en función de la programación que realiza en él.
 
 ## LED rojo (LED1, LED2): 
 Estos son diodos emisores de luz que emiten luz roja cuando se les aplica un voltaje. En tu circuito, estarán controlados por el Arduino y se pueden encender o apagar dependiendo del estado del botón. Su estado (encendido o apagado) también se muestra en la pantalla LCD.
@@ -58,6 +59,15 @@ Seguidamente pasamos a ensamblar estos componentes en el circuito, durante el pr
 
 Vista Preliminar en 2D
 
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/3688da89-cf1d-49c4-acfc-04278941dd4c)
+
+
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/daaaf17d-262f-447c-a424-eb67f7dc6e59)
+
+
+Su función primordial es activar un Led mediante un botón o pulsador, desempeñando un papel esencial en el logro de nuestros objetivos. Se ha asegurado una integración perfecta con la arquitectura general del proyecto, garantizando una sinergia fluida entre todos los componentes. Además, se ha prestado especial atención a la adaptabilidad de los componentes, lo que permite llevar a cabo la esquematización del circuito.
+
+Vista Preliminar en 3D
 
 
 

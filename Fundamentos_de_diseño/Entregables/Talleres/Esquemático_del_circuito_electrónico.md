@@ -1,10 +1,12 @@
 <img width="600" height="200" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/4cccbe2c-22fd-438e-b736-262de9138cef" alt="Descripción de la imagen">
 
-## INTRODUCCION 
+1. ## INTRODUCCION 
 
 Los circuitos electrónicos constituyen la columna vertebral de la tecnología moderna, abarcando desde dispositivos simples como interruptores de luz hasta complejos sistemas informáticos. Estos circuitos, compuestos por componentes electrónicos interconectados, permiten el flujo de corriente eléctrica para desempeñar funciones específicas.
 
 Importancia del Esquemático del Circuito Electrónico: Un diagrama esquemático de un circuito electrónico es esencial ya que proporciona una representación visual clara de cómo están interconectados los componentes en un circuito. Esta representación gráfica facilita la comprensión del diseño del circuito, permitiendo a ingenieros y técnicos visualizar rápidamente la disposición y conexión de los componentes.
+
+## 2. EJERCICIOS REALIZADOS EN CLASE
 
 ## Ejercicio 1: Creación de un Sistema para Encender un LED
 
@@ -92,7 +94,7 @@ En esta sección se muestra el modelado 3D de nuestro circuito, es decir, como e
 https://www.flux.ai/michaelgavino/upper-cyan-ecto-goggles?editor=pcb_3d
 
 
-## CONCLUSIÓN:
+## 3. CONCLUSIÓN:
 
 Finalmente en el presente taller desarrollamos y experimentamos nuevas habilidades de formar  circuitos en la plataforma de Flux.ai, que nos proporciono el conocimiento nesesario para armar nuestro circuito. Al integrar un Arduino MKR WiFi 1010 con componentes como un botón pulsador, un LED, un sensor de temperatura, un sensor de luz y un servomotor, junto con sensores adicionales para medir el pH, la turbidez y la conductividad eléctrica, se puede crear un proyecto aún más completo y sofisticado. Esta combinación de componentes permite monitorear y controlar no solo aspectos físicos como la temperatura y la luz, sino también parámetros químicos y físicos del entorno como el pH, la turbidez y la conductividad eléctrica. 
 

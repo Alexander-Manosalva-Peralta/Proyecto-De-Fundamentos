@@ -74,6 +74,8 @@ Vista Preliminar en 3D
 
 
 
+
+
 ## EVIDENCIAS DEL DESARROLLO
 
 <img width="600" height="500" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/8b168c86-5ec3-4f8b-8740-34a0810c1bfa" alt="Descripción de la imagen">

@@ -39,17 +39,23 @@ En esta sección el docente a cargo nos solicitó implementar como mínimo 6 com
 
 Para la construcción de este circuito, hemos seleccionado cuidadosamente los siguientes componentes, cada uno desempeñando un papel importante en el funcionamiento del sistema: 
 
-Arduino MKR Wifi 1010 (U1):  Este es el microcontrolador que actúa como el cerebro de tu circuito. Lee las entradas, como el estado del botón, procesa esta información y controla las salidas, como el estado de los LED o los mensajes en la pantalla LCD, en función de la programación que realiza en él.
+## Arduino MKR Wifi 1010 (U1): 
+Este es el microcontrolador que actúa como el cerebro de tu circuito. Lee las entradas, como el estado del botón, procesa esta información y controla las salidas, como el estado de los LED o los mensajes en la pantalla LCD, en función de la programación que realiza en él.
 
-LED rojo (LED1, LED2): Estos son diodos emisores de luz que emiten luz roja cuando se les aplica un voltaje. En tu circuito, estarán controlados por el Arduino y se pueden encender o apagar dependiendo del estado del botón. Su estado (encendido o apagado) también se muestra en la pantalla LCD.
+## LED rojo (LED1, LED2): 
+Estos son diodos emisores de luz que emiten luz roja cuando se les aplica un voltaje. En tu circuito, estarán controlados por el Arduino y se pueden encender o apagar dependiendo del estado del botón. Su estado (encendido o apagado) también se muestra en la pantalla LCD.
 
-Resistencias (R1, R2): Su objetivo principal es limitar la cantidad de corriente que fluye a los LED para evitar que se quemen.
+## Resistencias (R1, R2): 
+Su objetivo principal es limitar la cantidad de corriente que fluye a los LED para evitar que se quemen.
 
-Pantalla LCD LM016L: Esta pantalla mostrará el estado de los LED (encendido o apagado). Además está controlado por el Arduino y se actualiza cuando cambia el estado del LED.
+## Pantalla LCD LM016L:
+Esta pantalla mostrará el estado de los LED (encendido o apagado). Además está controlado por el Arduino y se actualiza cuando cambia el estado del LED.
 
-Botón:  Este componente proporciona una entrada al usuario para controlar el comportamiento del circuito. Se utilizó para encender o apagar los LED.
+## Botón:  
+Este componente proporciona una entrada al usuario para controlar el comportamiento del circuito. Se utilizó para encender o apagar los LED.
 
 Seguidamente pasamos a ensamblar estos componentes en el circuito, durante el proceso prestamos mucha atención a la calidad de las conexiones eléctricas, evitando falsos contactos que puedan afectar el rendimiento del sistema. Quedando el circuito de la siguiente manera:
+
 
 Vista Preliminar en 2D
 

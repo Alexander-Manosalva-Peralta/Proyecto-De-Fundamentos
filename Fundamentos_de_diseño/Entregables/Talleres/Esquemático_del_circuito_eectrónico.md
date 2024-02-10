@@ -1,4 +1,4 @@
-<img width="700" height="200" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/4cccbe2c-22fd-438e-b736-262de9138cef" alt="Descripción de la imagen">
+<img width="600" height="200" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/4cccbe2c-22fd-438e-b736-262de9138cef" alt="Descripción de la imagen">
 
 ## INTRODUCCIÓN
 

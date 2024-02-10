@@ -69,19 +69,22 @@ Su función primordial es activar un Led mediante un botón o pulsador, desempe�
 
 ## Vista Preliminar en 3D
 
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/0f390dc2-8f39-4de1-9d3a-83808c4f75fc)
 
 
-Finalmente, en esta sección muestra el modelado 3D de nuestro circuito, es decir, como esta compuesto cada uno de los componentes de manera tridimensional, tanto en el TOP como en la parte BOTTOM el todo el circuito electrónico.
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/bafb537a-22b0-4a66-9530-8568e108fdb4)
+
+
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/166c220e-e1fe-47a6-9568-aa46af153c9e)
 
 
 
+En esta sección se muestra el modelado 3D de nuestro circuito, es decir, como esta compuesto cada uno de los componentes de manera tridimensional, tanto en el TOP como en la parte BOTTOM el todo el circuito electrónico.
 
 
+## Visualización en Flux.ai
 
-
-
-## EVIDENCIAS DEL DESARROLLO
-
+https://www.flux.ai/michaelgavino/upper-cyan-ecto-goggles?editor=pcb_3d
 
 
 ## CONCLUSIÓN:

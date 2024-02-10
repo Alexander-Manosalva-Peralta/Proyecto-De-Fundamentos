@@ -17,7 +17,7 @@ Para conectar un Arduino MKR WiFi 1010 con un botón pulsador y tierra (Ground),
 1. Seleccionamos un Arduino MKR WiFi 1010, Push Button y Ground.
 <img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/tierra.png" alt="Vista Previa en 2D" style="height: 200px;">
 <img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/boton.png" alt="Vista Previa en 2D" style="height: 200px;">
-<img src="<img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/ArduinoMKR.png" alt="Vista Previa en 2D" style="height: 200px;">
+<img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/ArduinoMKR.png" alt="Vista Previa en 2D" style="height: 200px;">
 
 2. Conectamos un extremo del botón pulsador a un pin digital del Arduino MKR WiFi 1010 y el otro extremo a tierra (Ground).
 

@@ -57,7 +57,7 @@ Este componente proporciona una entrada al usuario para controlar el comportamie
 Seguidamente pasamos a ensamblar estos componentes en el circuito, durante el proceso prestamos mucha atención a la calidad de las conexiones eléctricas, evitando falsos contactos que puedan afectar el rendimiento del sistema. Quedando el circuito de la siguiente manera:
 
 
-Vista Preliminar en 2D
+## Vista Preliminar en 2D
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/3688da89-cf1d-49c4-acfc-04278941dd4c)
 
@@ -67,7 +67,7 @@ Vista Preliminar en 2D
 
 Su función primordial es activar un Led mediante un botón o pulsador, desempeñando un papel esencial en el logro de nuestros objetivos. Se ha asegurado una integración perfecta con la arquitectura general del proyecto, garantizando una sinergia fluida entre todos los componentes. Además, se ha prestado especial atención a la adaptabilidad de los componentes, lo que permite llevar a cabo la esquematización del circuito.
 
-Vista Preliminar en 3D
+## Vista Preliminar en 3D
 
 
 

@@ -71,6 +71,10 @@ Vista Preliminar en 3D
 
 
 
+Finalmente, en esta sección muestra el modelado 3D de nuestro circuito, es decir, como esta compuesto cada uno de los componentes de manera tridimensional, tanto en el TOP como en la parte BOTTOM el todo el circuito electrónico.
+
+
+
 
 
 
@@ -78,9 +82,9 @@ Vista Preliminar en 3D
 
 ## EVIDENCIAS DEL DESARROLLO
 
-<img width="600" height="500" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/8b168c86-5ec3-4f8b-8740-34a0810c1bfa" alt="Descripción de la imagen">
+
 
 ## CONCLUSIÓN:
 
-Finalmente, al integrar un Arduino MKR WiFi 1010 con componentes como un botón pulsador, un LED, un sensor de temperatura, un sensor de luz y un servomotor, junto con sensores adicionales para medir el pH, la turbidez y la conductividad eléctrica, se puede crear un proyecto aún más completo y sofisticado. Esta combinación de componentes permite monitorear y controlar no solo aspectos físicos como la temperatura y la luz, sino también parámetros químicos y físicos del entorno como el pH, la turbidez y la conductividad eléctrica. 
+Finalmente en el presente taller desarrollamos y experimentamos nuevas habilidades de formar  circuitos en la plataforma de Flux.ai, que nos proporciono el conocimiento nesesario para armar nuestro circuito. Al integrar un Arduino MKR WiFi 1010 con componentes como un botón pulsador, un LED, un sensor de temperatura, un sensor de luz y un servomotor, junto con sensores adicionales para medir el pH, la turbidez y la conductividad eléctrica, se puede crear un proyecto aún más completo y sofisticado. Esta combinación de componentes permite monitorear y controlar no solo aspectos físicos como la temperatura y la luz, sino también parámetros químicos y físicos del entorno como el pH, la turbidez y la conductividad eléctrica. 
 

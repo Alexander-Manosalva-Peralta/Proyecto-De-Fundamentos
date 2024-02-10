@@ -39,8 +39,7 @@ En esta sección el docente a cargo nos solicitó implementar como mínimo 6 com
 
 Para la construcción de este circuito, hemos seleccionado cuidadosamente los siguientes componentes, cada uno desempeñando un papel importante en el funcionamiento del sistema: 
 
-## Arduino MKR Wifi 1010 (U1): 
-Este es el microcontrolador que actúa como el cerebro de tu circuito. Lee las entradas, como el estado del botón, procesa esta información y controla las salidas, como el estado de los LED o los mensajes en la pantalla LCD, en función de la programación que realiza en él.
+## Arduino MKR Wifi 1010 (U1):  Este es el microcontrolador que actúa como el cerebro de tu circuito. Lee las entradas, como el estado del botón, procesa esta información y controla las salidas, como el estado de los LED o los mensajes en la pantalla LCD, en función de la programación que realiza en él.
 
 ## LED rojo (LED1, LED2): 
 Estos son diodos emisores de luz que emiten luz roja cuando se les aplica un voltaje. En tu circuito, estarán controlados por el Arduino y se pueden encender o apagar dependiendo del estado del botón. Su estado (encendido o apagado) también se muestra en la pantalla LCD.

@@ -1,7 +1,9 @@
-# Planos de modelo 3D: FUndamentos de diseño
+# PLANOS DEL MODELO 3D: FUNDAMENTOS DE DISEÑO
 A continuación, presentamos los planos detallados de las piezas diseñadas para la implementación de nuestro prototipo. Cada plano incluye las medidas precisas de cada componente y se ha elaborado con una escala adecuada para garantizar una comprensión clara y una ejecución precisa del diseño.
 
-Para acceder a los planos, puedes visitar el siguiente enlace en nuestro sitio web en Onshape: [Enlace a los planos en Onshape](https://cad.onshape.com/documents/cc9e02225aae8275c3c8f27e/w/b128d80675d2ab795cd25d2e/e/f28ed6c071b9b30cab8a14a2).
+Para acceder a los planos, puedes visitar el siguiente enlace en nuestro sitio web en Onshape: [Enlace a los planos en Onshape]
+
+(https://cad.onshape.com/documents/cc9e02225aae8275c3c8f27e/w/b128d80675d2ab795cd25d2e/e/f28ed6c071b9b30cab8a14a2).
 
 Estos planos proporcionan una guía exhaustiva para la fabricación y ensamblaje de todas las piezas necesarias para nuestro sistema.
 
@@ -37,5 +39,3 @@ Este plano exhibe el soporte diseñado para albergar y asegurar una gran parte d
 Gracias a su diseño cuidadosamente concebido, este soporte facilita la colocación de los componentes con facilidad y precisión. Su estructura está específicamente diseñada para acomodar los diferentes elementos de manera ordenada y segura, garantizando una integración sin complicaciones en el proyecto en su totalidad.
 
 <img src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/blob/main/Imagenes/Soporte%20para%20piezas.png">
-
-

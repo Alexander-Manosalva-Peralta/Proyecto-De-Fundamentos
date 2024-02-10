@@ -1,11 +1,20 @@
 # Modelado 3D de la propuesta ganadora: Fundamentos de diseño
 
-<img width="500" height="500" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/6ed90de9-a94b-479f-aa3f-823be3376da5" alt="Descripción de la imagen">
+<img width="700" height="200" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/738f01d7-8f89-461a-a243-7cee95827ed0" alt="Descripción de la imagen">
+<img width="700" height="500" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/c019d4fc-9f97-421b-bf34-58a0f5c46044" alt="Descripción de la imagen">
 
 ## Modelo 3D
 
-<img width="500" height="500" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/8e3b9496-f39f-43ac-abec-d7a098e17466" alt="Descripción de la imagen">
+<img width="500" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/4d03fc29-6925-4652-abe4-3b4f1bc26a63" alt="Descripción de la imagen">
 
 ##Modelo 3D Enlace: https://skfb.ly/oQFnT
 
-<img width="500" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/90d99929-28df-4757-a058-505cf177834f" alt="Descripción de la imagen"><img width="500" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/e2688bf3-af27-4a40-aaa6-6e349baf670a" alt="Descripción de la imagen"><img width="500" height="500" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/4dd9270b-6034-4ba5-a4bd-ff3dd0239c94" alt="Descripción de la imagen"><img width="500" height="600" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/35da83a6-5c4b-4874-9fae-71efaa22d883" alt="Descripción de la imagen">
+<img width="500" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/748d7359-47d3-4387-b179-837477aa25ba" alt="Descripción de la imagen">
+
+## COMPONENTES
+
+<img width="500" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/4dd9270b-6034-4ba5-a4bd-ff3dd0239c94" alt="Descripción de la imagen">
+
+## 
+
+<img width="500" height="400" src="https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023729/e55a748e-141f-478d-badb-abe54424b528" alt="Descripción de la imagen">

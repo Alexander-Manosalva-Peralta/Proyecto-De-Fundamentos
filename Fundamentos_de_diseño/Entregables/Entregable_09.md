@@ -14,14 +14,19 @@ Para poder realizar nuestro esquema eléctrico hemos usado la plataforma digital
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/d3a64898-fb16-4272-ad75-9fe5e0e3a53f)
 
 
+## Sensor de conductividad eléctrica
+
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/6a269d47-4e08-4166-bc54-f773b39d584c)
 
+## Sensor de pH
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/2f30232e-3d0e-442d-a83a-41b8a9d55fca)
 
+## Sensor de turbidez
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/2d8a4131-2d68-4a9e-bba1-530b4801ec4c)
 
+## Los tres sensores juntos (turbidez, conductividad y pH)
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/718ba81b-10a3-469c-ade0-c93cdf50ba23)
 

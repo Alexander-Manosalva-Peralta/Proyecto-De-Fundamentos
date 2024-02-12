@@ -27,7 +27,7 @@ Para poder realizar nuestro esquema eléctrico hemos usado la plataforma digital
 
 
 
-## EVIDENCIAS DEL PROCESO DE ARMADO DEL ESQUEMA ELECTRICO EN FISICO
+## 2.1 EVIDENCIAS DEL PROCESO DE ARMADO DEL ESQUEMA ELÉCTRICO EN FISICO
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/68047932-1b56-49ad-9ce3-f1dca32aa247)
 

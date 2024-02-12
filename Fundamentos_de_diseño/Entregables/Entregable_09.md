@@ -20,13 +20,16 @@ Para poder realizar nuestro esquema eléctrico hemos usado la plataforma digital
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/6a269d47-4e08-4166-bc54-f773b39d584c)
 
+
 ## 2.2 Sensor de pH
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/2f30232e-3d0e-442d-a83a-41b8a9d55fca)
 
+
 ## 2.3 Sensor de turbidez
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/2d8a4131-2d68-4a9e-bba1-530b4801ec4c)
+
 
 ## 2.4 Los tres sensores juntos (turbidez, conductividad y pH)
 
@@ -36,7 +39,8 @@ Para poder realizar nuestro esquema eléctrico hemos usado la plataforma digital
 
 
 
-## 2.1 EVIDENCIAS DEL PROCESO DE ARMADO DEL ESQUEMA ELÉCTRICO EN FISICO
+
+## 2.5 EVIDENCIAS DEL PROCESO DE ARMADO DEL ESQUEMA ELÉCTRICO EN FISICO
 
 ![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/68047932-1b56-49ad-9ce3-f1dca32aa247)
 

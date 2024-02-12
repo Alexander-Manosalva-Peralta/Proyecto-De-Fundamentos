@@ -14,3 +14,6 @@ Componentes utilizados en nuestro esquemático eléctrico
 
 ## 3. DIAGRAMA DE FUJO:
 Este diagrama nos va a permitir una representación clara del funcionamiento de nuestra propuesta de solución, desde el reconocimiento de los residuos sólidos aprovechables hasta la generación del juego arcade por depositar correctamente las envases de plástico y latas en los tachos clasificadores, esto con el fin de ayudar a mejorar en la buena organización de los residuos sólidos y disminuir la poca cultura ambiental de los ciudadanos, especialmente los del distrito de San Martín de Porres, Lima-Perú, es por ello, que dada esta situación se propuso que la propuesta de solución planteada sea funcional dentro de nuestra Universidad Peruana Cayetano Heredia.
+
+![image](https://github.com/Alexander-Manosalva-Peralta/Proyecto-De-Fundamentos/assets/156023044/554ab240-7871-4117-9258-7ccc98334697)
+

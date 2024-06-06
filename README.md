@@ -50,6 +50,3 @@
 
 ---
 [Incluir enlaces relevantes, capturas de pantalla, badges, u otros elementos según sea necesario]
-
-
-.....

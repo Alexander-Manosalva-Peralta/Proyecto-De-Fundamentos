@@ -1,3 +1,0 @@
-## HARDWARE
-
-xhsdbs
